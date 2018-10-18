@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1539880429,"name":"Change language: PoS Mining to PoS Voting, Stakepool to Voting Service Provider","publickey":"cd6e57b93f95dd0386d670c7ce42cb0ccd1cd5b997e87a716e9359e20251994e","signature":"c0e3285d447fd2acf1f2e1a0c86a71383dfe71b1b01e0068e56e8e7649dadb7aa503a5f99765fc3a24da8716fd5b89f75bb97762e756f15303e96d135a2e7109"}
