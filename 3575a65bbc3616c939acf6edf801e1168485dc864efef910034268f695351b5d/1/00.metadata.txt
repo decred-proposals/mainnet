@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1539994684,"name":"Testing of the funding-request mechanism by a non expert","publickey":"45b18597a89b30e2d6eb1b7ec0039bc3144acc39302fe19bfdf2148aefc27550","signature":"c8536c7f2e7f3300a628eb83d8c011f133347bc0833bf2f95befe334dff5a22c33f9620ffa3cffda399133444194f39fda1eae0137186448a9ae15a3fdeba900"}
