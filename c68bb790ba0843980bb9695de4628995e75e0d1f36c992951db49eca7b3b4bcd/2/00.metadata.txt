@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1540227907,"name":"Decred Open Source Research","publickey":"cd6e57b93f95dd0386d670c7ce42cb0ccd1cd5b997e87a716e9359e20251994e","signature":"053a2ec036c16303f59af74fb1a92d005a4323c889b7f07642e9dafa55dc586a05e1677db0acf733417a1f3a6df83bd4ad350386e2c835953238c7e20e568a0a"}
