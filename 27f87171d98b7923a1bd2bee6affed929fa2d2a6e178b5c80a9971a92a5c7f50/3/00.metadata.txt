@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1540415915,"name":"Ditto Communications Proposal for Decred","publickey":"9f0a8ad970275393d70d9bca8b33847c1747f9a276a0fca5b88ef51767af25fc","signature":"61305818c942c593c74b51531650add1b78dbcf0307207db5b8a558b11221031733dbf3e8eb3dbbd2255ee410128bbc0ed5033af33a6b2c422a560e0dde8bb03"}
