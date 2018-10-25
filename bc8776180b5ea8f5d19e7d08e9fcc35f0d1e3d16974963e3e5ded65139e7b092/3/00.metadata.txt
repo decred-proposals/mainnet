@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1540432223,"name":"Wachsman Communications Proposal for Decred","publickey":"2e7b5d746bc2765a256ca0e379be18f72d1957eb4347247a1a23ee095a57d443","signature":"e11ba13883038b9872a9677c996ccaf6c0a161869f9f9d5a379edd19450eb4d4d136ef14b07034cd0831e38a4792f475b9b08844b70b51470e44c1f16248a605"}
