@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1540938825,"name":"Premium Listing for Decred on Easyrabbit","publickey":"8e78378b2558eb2617dec4c446ec97991fdfd47ce4e0543877015f3f2cbb5b7b","signature":"46041fbfce9a934eb7e1ed031c46d40c305f48f54bb0e33868b01791e125b0a0c3f612f96157c12067550759752cdef2bc7e085d794eaf0198b13bda680c8a0a"}
