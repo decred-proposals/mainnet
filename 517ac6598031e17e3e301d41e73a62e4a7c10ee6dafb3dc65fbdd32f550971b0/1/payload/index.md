@@ -52,7 +52,7 @@ that finalized, another lottery will replace it, with the same rules.
 1000 DCR Drawings:
 
 Sales of tickets begins for the draw of 1000 DCR
-- Participants can purchase a total of 1020 tickets (there is no ticket limit per person, the odds are proportional)
+- Participants can purchase a total of 1030 tickets (there is no ticket limit per person, the odds are proportional)
 
 - Each ticket is worth 1 DCR (totaling 1030 DCR),
 If the draw is able to raise the full amount of 1030 DCR before the 168 hours complete, it will be done as soon as the total is accumulated.
