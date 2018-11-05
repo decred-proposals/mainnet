@@ -21,7 +21,7 @@ thousand times more that bet and create greater sustainability for the Decred pr
 **First draw proposals:**
 
 Are different types of raffles with different prizes
-and chances of winning, all automated and decentralized and transparent.
+and chances of winning, all automated, decentralized and transparent.
 
 There are 3 initial raffle sessions, each with a different percentage of chance of winning.
 
