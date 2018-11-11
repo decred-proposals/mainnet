@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1541904469,"name":"Upgrade mining algorithm to ProgPoW","publickey":"c7580e9d13a21a2046557f7ef0148a5be89fbe8db8c98d0fb9fe11b2535f06ad","signature":"ac8a1b69eb08b413b3ad3161c9b43b6a65a25c537f6151866d391a352cdfd2906bbd5713577b5b80ffc4c5b69ea5d246ba8151814596cdd079c3f7fc95c2ca05"}
