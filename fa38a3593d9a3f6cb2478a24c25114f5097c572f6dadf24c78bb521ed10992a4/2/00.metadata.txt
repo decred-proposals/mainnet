@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1542149534,"name":"Decred Contractor Clearance Process","publickey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","signature":"0eb353238b502c68bdd25d6605845ebc2ede9f896370535c6038caf13c606d85aed2eda52e116dd5dff5d96b88e80e36b7cac89649adbc436f59372d37e1d103"}
