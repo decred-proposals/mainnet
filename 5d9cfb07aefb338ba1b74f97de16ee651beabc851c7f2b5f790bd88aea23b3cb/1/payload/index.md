@@ -1,7 +1,7 @@
-Decred Open Source Research proposal 2
+Decred Open Source Research proposal 2 - research projects
 The purpose of this proposal is to collect and discuss ideas for research projects that this program should fund - as described in the edit to the [first research proposal](https://proposals.decred.org/proposals/c68bb790ba0843980bb9695de4628995e75e0d1f36c992951db49eca7b3b4bcd).
 
-The reason for using a Pi proposal is to take advantage of the system's document certification and anti-sock-puppet features. 
+The reason for using a Pi proposal is to take advantage of the system's document certification and anti-sockpuppet features. 
 
 Up/down votes on comments are stored transparently in the Pi repository and will soon be easily associated with user IDs. They can be relied upon to the same degree as individuals signalling agreement with text or "reactions" in the bridged communications channels, maybe more so because this signalling mechanism is available to everyone and robustly recorded. 
 
@@ -9,7 +9,7 @@ The plan for this proposal is that it remains open for some time, displaying a l
 
 **Please only submit research questions or projects as top-level comments.**
 
-For these top-level comments the **up-vote** and **down-vote** buttons should be used to signal that you **agree** or **disagree** that the specific project/question is worth pursuing. Essentially, up-vote top-level comments that represent lines of research you would be happy for the treasury to fund.
+For these top-level comments the **upvote** and **downvote** buttons should be used to signal that you **agree** or **disagree** that the specific project/question is worth pursuing. Essentially, upvote top-level comments that represent lines of research you would be happy for the treasury to fund.
 
 Feel free to reply to the top-level comments with questions, criticisms, or follow-on ideas.
 
