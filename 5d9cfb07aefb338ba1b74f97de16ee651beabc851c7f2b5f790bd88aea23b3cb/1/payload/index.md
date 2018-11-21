@@ -3,7 +3,7 @@ The purpose of this proposal is to collect and discuss ideas for research projec
 
 The reason for using a Pi proposal is to take advantage of the system's document certification and anti-sockpuppet features. 
 
-Up/down votes on comments are stored transparently in the Pi repository and will soon be easily associated with user IDs. They can be relied upon to the same degree as individuals signalling agreement with text or "reactions" in the bridged communications channels, maybe more so because this signalling mechanism is available to everyone and robustly recorded. 
+Up/down votes on comments are stored transparently in the Pi repository and will soon be easily associated with user IDs. They can be relied upon to a greater degree than individuals signalling agreement with text replies or "reactions" in the bridged communications channels, because this signalling mechanism is available to everyone (who pays the 0.1 DCR fee) and robustly recorded.
 
 The plan for this proposal is that it remains open for some time, displaying a list of the open research projects being worked on and linking to their respective repositories. 
 
