@@ -1,2 +1,2 @@
-Decredex - Decentralised Exchange
-Please view second final proposal, was unable to delete.
+Stable coin - USDD
+Stable coin - USDD
