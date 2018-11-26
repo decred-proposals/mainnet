@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1543199150,"name":"Decred Radio Advertising, 190+ FM and AM Stations, + Intl. Satellite","publickey":"b719b0bee46a2fb08a1d31f5b81577f886c1d51707da860645757ea28cc19e03","signature":"1f57e689bfbf940022a93af6420bd54ec65be6370eb23a4c156786b03a86bbdcb6c37c15d422ea376d7a382c09f92044911083534ca4b32383eef05326389d03"}
