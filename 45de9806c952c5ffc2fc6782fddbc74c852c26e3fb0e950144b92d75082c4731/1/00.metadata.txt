@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1543528308,"name":"Add Decred support to Coffee Wallet","publickey":"95118e6033b2f9aa19366eb5aca78b52f0e8f9cb125fddbf8629ddab500a3dbf","signature":"bc097f78a044d687b19e7854f925f3633d370ed7f5e950650678a61f707e4168dd9d6c63a9434fd25b8937277e1c409ab5abb9f89e35e0e0b19b6dd05843a70a"}
