@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1543757263,"name":"Decred integration into Crypto-ATMs","publickey":"478ba6d394b0a2252f7fcb65ed0727097367e1f747c4e65008ac7ac5db1f9b1d","signature":"3cce8e98e564c0e59e2f13fa062fa99391139921f35f6657a50765c2e62c28d352866ed0e991f6fff3aa4c0568df7848f668e8ada67d50416010280f5990da0f"}
