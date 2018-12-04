@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"a3cabbac727b0bce49f1dd2466f38ca62681cd6d48880e1c5ddf28635bf6681e","newstatus":4,"timestamp":1542042719}
+{"version":1,"adminpubkey":"a3cabbac727b0bce49f1dd2466f38ca62681cd6d48880e1c5ddf28635bf6681e","newstatus":4,"timestamp":1542042719}{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":6,"statuschangemessage":"No responses to legitimate comments have been made, and the proposal has not been put up for a vote.","timestamp":1543946266}
