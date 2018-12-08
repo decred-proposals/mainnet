@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1544287240,"name":"Decred Bug Bounty Proposal","publickey":"d18e6dc2871b96d4e0966f3a5d95acc3c1024b7557b15d24597080e4daa68a66","signature":"1d666abd85ffd9bb9f8924ee985d2e82cbeb7307eb905563c5fae2acf4a3b9954469affdfac96467cd2bcba4cc9b33b1ee77275b44f7e8746f84c8502963dc01"}
