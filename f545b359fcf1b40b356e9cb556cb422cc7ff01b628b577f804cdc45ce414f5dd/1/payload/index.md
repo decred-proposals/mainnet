@@ -138,7 +138,7 @@ Any company in 2018 must also be its own media company. We are deploying Garyvee
 
 ---
 
-We are on an 8 month runway with a burn of $50K/mo, kicking off on December 10, 2018; Milestones below are projections and are subject to change.
+We are on an 8 month runway with a burn of $50K/mo, kicking off on December 14, 2018; Milestones below are projections and are subject to change.
 
 ## Milestones
 1. **Super Ugly Playable Prototype** - *Jan 2019*
@@ -166,4 +166,4 @@ Here's a look at our burn, a budget sample for Seed & a projection for what burn
 We will authorize the proposal for voting on December 21, 2018. In the meantime, you can find us on [Twitter](https://twitter.com/gobaeond), and we'll be answering questions in our [Instagram](https://www.instagram.com/gobaeond/) Stories, so make sure you follow that one for sure. Join the [Discord](https://discord.gg/usMKph4) to engage with the community, and feel free to drop me a line at mark@baeond.com with anything else.
 
 # Thanks
-Thank you so much for taking the time to digest this information and consider our project for support. Can't wait to start sharing more of our work; here's looking forward!
+Thank you so much for taking the time to digest this information and consider our project for support. We can't wait to start sharing more of our work; here's looking forward!
