@@ -132,7 +132,7 @@ We are thrilled to work with the Decred team and are eager to work with Ditto to
 
 ## Media
 
-Any company in 2018 must also be its own media company. We are deploying Garyvee's *Document > Create* [strategy](https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content/), sharing the story of the sausage as it's being made. In the new year, you'll follow along with all the progress on Baeond, Playproof, tech, crypto, futuretech, and more on [`future_mark_`](https://www.youtube.com/channel/UCc5sWj6lqow2i3WFZ7SuzEA).
+Any company in 2018 must also be its own media company. We are deploying Garyvee's *Document > Create* [strategy](https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content/), sharing the story of the sausage as it's being made. In the new year, you'll follow along with all the progress on Baeond, Playproof, tech, crypto, futuretech, and more on [future_mark](https://www.youtube.com/channel/UCc5sWj6lqow2i3WFZ7SuzEA).
 
 # **When**
 
