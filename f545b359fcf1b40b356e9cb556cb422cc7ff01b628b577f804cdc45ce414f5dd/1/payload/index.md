@@ -1,5 +1,8 @@
 Baeond: The Futurepunk Card Game
 # **What**
+
+---
+
 Baeond is a #Futurepunk Living Card Game in which players forge their own cards though play. Each card is a Non-Fungible Token (NFT) on a native blockchain, minted in a skeleton state. All cards start from an identical point for each player, but some cards are taught Skills and imbued with new traits over time, changing their constitution. One card may have thousands of different playable permutations.
 
 Beyond the rules of the card game itself, the broader metagame is modeled after the success of shared-world looter-shooters in the last 4 years. In games like Destiny, players shoot their way through narrative (PVE) & competitive (PVP) activities to earn in-game items, materials, and more, otherwise known as Loot. *Baeond replaces shooter gameplay with a card game while retaining the hobbyistic nature of looter games that incentivize players to finish collections, complete challenges, creatively customize their avatars, and discover new unique lines of play.*
@@ -7,6 +10,9 @@ Beyond the rules of the card game itself, the broader metagame is modeled after 
 The global metagame is shaped by player choice. As deck archetypes rise to prominence, the player base will be incentivized to forge key cards that enable counter-archetypes, keeping the metagame fresh and exciting.
 
 # **Why**
+
+---
+
 Games are deeply human constructs. In the last decade, with the rise of mobile & f2p gaming, games have become commoditized as psychological manipulation tools used to capture attention for financial gain. These tactics keep digital games on the cusp of rising to the upper echelons of art alongside music, movies, television, and the written word. Baeond imagines a future where players own their destinies, digitally and socially.
 
 Games as art have a responsibility to reflect to the world a reality they are willing to actualize. We have an opportunity to shift the public perception of online games away from toxicity & tribalism toward altruism & inclusiveness. An undercurrent of optimism gives way to narratives that galvanize and champion the human spirit in all the myriad forms it takes. We are bursting at the seams to share more with you about the world we are building.
@@ -56,6 +62,9 @@ Games as art have a responsibility to reflect to the world a reality they are wi
 In addition, all non-VSP $DCR wallets that have voted at least 5 times by the time of the snapshot will receive an airdrop of a randomly selected starter deck. We are also exploring a [Merkle Mine](https://forum.livepeer.org/t/introducing-the-merklemine/204)-inspired Fairdrop open to holders of $DCR & $BTC.
 
 # **How**
+
+---
+
 We have been designing Baeond since early 2018. In December, we partnered with Choice Provisions to polish the prototype ruleset for a playable reveal during an early release presale. In early 2019, we'll reveal the rules, along with the first playable prototype featuring 5 preconstructed decks. If players enjoy the game and wish to support development, they can preorder (accepting BTC & $DCR) a preconstructed deck of in-game NFTs for use in the Baeond Alpha Testnet that will go live in tandem with the fiat presale 1-2 months later.
 
 We have secured $200,000 in Seed and are pursuing an additional $200,000 to complete the playable prototype. In early 2019, we'll presell ~250,000 preconstructed decks to crypto players, then to fiat players a few months later when the playable prototype & testnet are ready.
@@ -63,6 +72,9 @@ We have secured $200,000 in Seed and are pursuing an additional $200,000 to comp
 We are requesting 13,000 $DCR disbursed over 7 months. We aim to use this infusion as the second half of our Seed raise. Indeed, funds will be used for more than the Engineering budget, but we intend to staff one engineer exclusively with maintaining $DCR changes from upstream. Trusting Decred with its core competency allows us to focus on ours and make the game this technology deserves.
 
 # **Who**
+
+---
+
 ## Playproof LLC
 
 We are a Delaware-based LLC helmed by [Mark Burstiner](https://twitter.com/markb), tech industry veteran, YouTube personality, and gaming trailblazer. Mark's previous endeavor, FTW, sought to free players' saves from the silos of the consoles they're enjoyed on. We have been thinking about the problem of storing players' saves since 2009 and it turns out all those lessons are transferrable to digital assets; items we earn in-game *are* our saves. 
@@ -123,6 +135,9 @@ We are thrilled to work with the Decred team and are eager to work with Ditto to
 Any company in 2018 must also be its own media company. We are deploying Garyvee's *Document > Create* [strategy](https://www.garyvaynerchuk.com/the-garyvee-content-strategy-how-to-grow-and-distribute-your-brands-social-media-content/), sharing the story of the sausage as it's being made. In the new year, you'll follow along with all the progress on Baeond, Playproof, tech, crypto, futuretech, and more on [`future_mark_`](https://www.youtube.com/channel/UCc5sWj6lqow2i3WFZ7SuzEA).
 
 # **When**
+
+---
+
 We are on an 8 month runway with a burn of $50K/mo, kicking off on December 10, 2018; Milestones below are projections and are subject to change.
 
 ## Milestones
