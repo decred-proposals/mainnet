@@ -148,7 +148,7 @@ Here's a look at our burn, a budget sample for Seed & a projection for what burn
 
 ## Voting
 
-We will authorize the proposal for voting on December 21, 2018. In the meantime, you can find us on [Twitter](https://twitter.com/gobaeond), and we'll be answering questions in our [Instagram](https://www.instagram.com/gobaeond/) Stories, so make sure you follow that one for sure. Join the [Discord](https://discord.gg/xtNVGU) to engage with the community, and feel free to drop me a line at mark@baeond.com with anything else.
+We will authorize the proposal for voting on December 21, 2018. In the meantime, you can find us on [Twitter](https://twitter.com/gobaeond), and we'll be answering questions in our [Instagram](https://www.instagram.com/gobaeond/) Stories, so make sure you follow that one for sure. Join the [Discord](https://discord.gg/usMKph4) to engage with the community, and feel free to drop me a line at mark@baeond.com with anything else.
 
 # Thanks
 Thank you so much for taking the time to digest this information and consider our project for support. Can't wait to start sharing more of our work; here's looking forward!
