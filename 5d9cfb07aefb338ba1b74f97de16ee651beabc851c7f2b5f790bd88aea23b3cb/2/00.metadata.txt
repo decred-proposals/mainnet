@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1544570870,"name":"Decred Open Source Research proposal 2 - research projects","publickey":"cd6e57b93f95dd0386d670c7ce42cb0ccd1cd5b997e87a716e9359e20251994e","signature":"f0dc5953840adf3af43bd0c307e3b12c2ff117255a06bd99ee6a02af489811e4861e3854d4d148e1de087fbcf14aa2d0a6d4c6760727e8fd07004e442e78220b"}
