@@ -69,7 +69,7 @@ We have been designing Baeond since early 2018. In December, we partnered with C
 
 We have secured $200,000 in Seed and are pursuing an additional $200,000 to complete the playable Unity prototype. In early 2019, we'll presell ~250,000 preconstructed decks to crypto players, then to fiat players a few months later when the playable prototype & testnet are ready.
 
-We are requesting 13,000 $DCR disbursed over 7 months. We aim to use this infusion as the second half of our Seed raise. Indeed, funds will be used for more than the Engineering budget, but we intend to staff one engineer exclusively with maintaining $DCR changes from upstream. Trusting Decred with its core competency allows us to focus on ours and make the game this technology deserves.
+We are requesting 13,000 $DCR disbursed in a lump sum. We aim to use this infusion as the second half of our Seed raise. Indeed, funds will be used for more than the Engineering budget, but we intend to staff one engineer exclusively with maintaining $DCR changes from upstream. Trusting Decred with its core competency allows us to focus on ours and make the game this technology deserves.
 
 # **Who**
 
