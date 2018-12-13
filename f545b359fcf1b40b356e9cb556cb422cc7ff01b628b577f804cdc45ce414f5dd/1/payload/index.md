@@ -122,7 +122,6 @@ We are thrilled to work with the Decred team and are eager to work with Ditto to
 
 - Active investments in $WAX, $DCR, more
 - Seed round participant
-- Investor in Decred progenitor, Company Zero
 
 **[Gary Vaynerchuk](https://vaynermedia.com/)**
 
