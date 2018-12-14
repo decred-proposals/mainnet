@@ -25,13 +25,14 @@ Games as art have a responsibility to reflect to the world a reality they are wi
 
     We wholeheartedly agree that good governance is the key to a successful, nimble, adaptable crypto network. We believe the same is true tenfold in decentralized gaming.  With good governance, not only can you have any feature you want, you can give players the agency they so crave in an industry overrun with corporate interests. We aim to treat players more like constituents than customers and champion Decred as the technology that enables us to do so.
 
-- *There aren't good crypto games yet.*
-
-    Crypto doesn't understand games yet. We come from games and understand crypto. We are taking a game-first, light touch approach to in-game on-chain interactions, focused on how a governance model can help shift the balance of power in the gaming industry. We cannot overstate how ripe the space is for innovation. There is a massive opportunity to seize, and the next big thing always starts out looking like a toy. All eyes are on games as the next big driver of mass crypto adoption and a high tide raises all ships.
-
 - *Baeond will support $DCR LN swaps.*
 
     We anticipate the Baeond/$DCR to be the primary trading pair against any third party DEX implementations, exposing the crypto community and beyond to the value of an on-chain governance system and a hybrid network.
+
+
+- *There aren't good crypto games yet.*
+
+    Crypto doesn't understand games yet. We come from games and understand crypto. We are taking a game-first, light touch approach to in-game on-chain interactions, focused on how a governance model can help shift the balance of power in the gaming industry. We cannot overstate how ripe the space is for innovation. There is a massive opportunity to seize, and the next big thing always starts out looking like a toy. All eyes are on games as the next big driver of mass crypto adoption and a high tide raises all ships.
 
 - *Crypto is our killer feature*
 
@@ -59,7 +60,7 @@ Games as art have a responsibility to reflect to the world a reality they are wi
     - Support for non-fungible tokens
 
 ## Airdrop
-In addition, all non-VSP $DCR wallets that have voted at least 5 times by the time of the snapshot will receive an airdrop of a randomly selected starter deck. We are also exploring a [Merkle Mine](https://forum.livepeer.org/t/introducing-the-merklemine/204)-inspired Fairdrop open to holders of $DCR & $BTC.
+We're very interested in doing an Airdrop for $DCR holders and are also exploring a [Merkle Mine](https://forum.livepeer.org/t/introducing-the-merklemine/204)-inspired Fairdrop open to holders of $DCR & $BTC. Very interested in hearing from the community on this subject.
 
 # **How**
 
@@ -120,8 +121,9 @@ We are thrilled to work with the Decred team and are eager to work with Ditto to
 
 **Doyle Capital**
 
-- Active investments in $WAX, $DCR, more
 - Seed round participant
+- Ron Kochman, active investments in $WAX, $DCR
+- Jack Tatar, co-Author, "[Cryptoassets](https://amzn.to/2PCdKPe)"
 
 **[Gary Vaynerchuk](https://vaynermedia.com/)**
 
