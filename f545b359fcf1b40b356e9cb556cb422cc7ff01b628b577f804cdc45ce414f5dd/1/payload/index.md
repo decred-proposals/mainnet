@@ -17,9 +17,9 @@ Games are deeply human constructs. In the last decade, with the rise of mobile &
 
 Games as art have a responsibility to reflect to the world a reality they are willing to actualize. We have an opportunity to shift the public perception of online games away from toxicity & tribalism toward altruism & inclusiveness. An undercurrent of optimism gives way to narratives that galvanize and champion the human spirit in all the myriad forms it takes. We are bursting at the seams to share more with you about the world we are building.
 
-## Why fork Decred?
+## Why Decred?
 
-- *Baeond will prominently place Decred as a technology partner*
+- *Baeond will fork & prominently place Decred as a technology partner*
 
     Decred aims to be a store of value; it would not be practical to adopt the features required of a game with its own native chain. We seek an ongoing relationship with the Decred community as we explore the new frontier of decentralized gaming. We foresee a fruitful partnership akin to that of Google's Android & OEM Samsung. We look forward to exploring the space alongside the Decred community and sharing discoveries made along the way. 
 
