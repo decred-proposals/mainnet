@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1545413824,"name":"Smart Reach Partnership Proposal -- Jan 2019","publickey":"5f05194577a6bd5b733a700463ed8421191baf8d22678ad2c486c83d118d5f0c","signature":"a4ec0186da364b2093035eb5b0c4acba4adc8c9fc0db60ce58e70fd6e4803af12cb727c06ee28039a6b69535642b592dc23f08488ceee9db637fab06e647e403"}
