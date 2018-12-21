@@ -1,4 +1,4 @@
-Baeond: The Futurepunk Card Game
+Baeond: The Futurepunk Autonomous Card Game
 # **What**
 
 ---
