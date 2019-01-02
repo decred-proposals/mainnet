@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1546387683,"name":"Baeond: The Futurepunk Autonomous Card Game","publickey":"60e2e94c873e505adb18ec7b8fe78b58593adf7a6cb6e1b952a70505006e32b4","signature":"83f0a7156e254cf35b35d397237cab5ea72302da0966fc5f1e27ead8658956d3557c6402dddc7348a46fd63e3e991e0c31d4672ffeb4246d0e21e89afc5c3d0b"}
