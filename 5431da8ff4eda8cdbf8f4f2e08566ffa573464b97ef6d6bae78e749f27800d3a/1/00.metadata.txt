@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1549233334,"name":"RFP: Decred Decentralized Exchange Infrastructure","publickey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","signature":"123572f239f2d5df3c461d0e38caa3071baf186bb892a931e25f37957c9f6e167e91a4c52c62af76324b003e355570f110ee07cf9f52631a52182f2185798506"}
