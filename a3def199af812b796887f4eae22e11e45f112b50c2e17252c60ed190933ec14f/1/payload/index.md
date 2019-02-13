@@ -10,6 +10,7 @@ Proposed Statement Of Work (SOW) For Decred Blockchain Wallet Tutorial Campaign
 **Representatives For www.Cryptocurrency.Market:**
 Denni Lovejoy, Software Tutorial Specialist, https://twitter.com/DenniLovejoy
 
+
 **I. Summary**
 
 Currently there are over 2,000 cryptocurrency projects listed on coinmarketcap.com. Many of these cryptocurrency projects have their own official “decentralized wallets”, use recommended third-party wallets or are in the process of developing their wallet software.
