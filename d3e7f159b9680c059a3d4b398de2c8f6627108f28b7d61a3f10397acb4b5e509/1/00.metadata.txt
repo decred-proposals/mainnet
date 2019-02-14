@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1550185756,"name":"2019 Events Funding","publickey":"2cfe1335346e419a3f00fc3672c1a53ebcc1c15f48d3e9e174af7356be14bc5a","signature":"ad3a7576b565dfacd6459e9564477da83f4c554891c12cfe0bce93df306e0d10af91c854d424f2d4fd948369fac3e11baa8a7b8026cd7938f75efeb093299706"}
