@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1550264838,"name":"2019 Marketing Plan Funding","publickey":"2cfe1335346e419a3f00fc3672c1a53ebcc1c15f48d3e9e174af7356be14bc5a","signature":"41444d4fc6b077682ff43c26bda63e1aeede92e908258586c61f53a71e10bc7ef7a2a62e4f03b5b3687eb33edb0fa62a9827f304749d8008aa9f59aa48c8d504"}
