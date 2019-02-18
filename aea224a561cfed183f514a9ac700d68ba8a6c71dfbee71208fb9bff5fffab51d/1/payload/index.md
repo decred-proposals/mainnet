@@ -55,4 +55,4 @@ Estimated at 3-6 months.
 ### This Proposal
 Estimated the planning work will cost between USD 600 and 1000 to complete.
 ### Full Project
-Estimated the subsequent phases (second proposal required) will cost between USD 10000 and 20000 to complete.
+The subsequent phases (second proposal required) are roughly estimated cost between USD 10000 and 20000 to complete.
