@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1550618248,"name":"Proposed Statement Of Work (SOW) For Decred Blockchain Wallet Tutorial Campaign","publickey":"cd71155ab0f7944118e8a9ed46bdde77d4724f61f2c9ebffaf898308f0185b92","signature":"0092fefff324384a6f26131c6cc8d0c938beb968e96580d2e65391d90e835238f69b6213aaf8f5c5296c8eec871b46117a51d5774df99eb803febf484a6fa407"}
