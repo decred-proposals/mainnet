@@ -29,11 +29,12 @@ The lionshare of work is done. Following features are enabled:
 ## Under construction
 As mentioned, the prototype of the website is already complete. I have drafted a timeline for the next few weeks of work that I will do with support from the treasury.
 
-- Add multilanguage support
-- Adding articles written by Decred contributors(until february 19) and translations if available
-- Photo gallery
+- Page optimizations (Speed, LazyLoad Intersection Observer, js cleanups)
+- Add multilanguage support (and add allready translated articles)
+- Adding articles written by Decred contributors (until today)
+- Photo gallery (public + private)
 - password protected private Areas for press/investor material
-- Newsletter service
+- Newsletter service (multiple topics selections)
 - Mirrors of dcrdata, dcrdocs, hardforkdemo, testnet vsp available under <subdomain>.decredcommunity.com
 
 ## Costs
