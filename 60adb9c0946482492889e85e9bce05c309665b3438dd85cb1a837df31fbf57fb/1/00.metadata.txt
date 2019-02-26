@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1551164319,"name":"Decred Integration for IDAX Exchange","publickey":"3ec408dc7c50dd4dfc02c3264c4a40037ec06b05a6a802ca4a770998049c3786","signature":"576e45b0fdc6e06540fd26f26659951bcd63f8d5a4938a56ed737ce17ce8102d4df3376b9c130cb3ba8db0b6782df66021af1f2eece6193e089234c9d1176a02"}
