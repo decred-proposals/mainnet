@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1551073779,"name":"Decred ATM Integration - Approval for Planning Phase","publickey":"6336046c6f360e4a86f360e7802a5939642f2a4b668fdc01bfeef6040608f43b","signature":"985d84196aebdb720bd745f77d6f72283475e1e52026af55a3827b33baa1d0f93261d932b8a69181afe845234d799e0f8c86325ecf39406e056b1b58ae307c0e"}
