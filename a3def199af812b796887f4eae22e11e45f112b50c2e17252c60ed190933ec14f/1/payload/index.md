@@ -1,7 +1,7 @@
 Proposed Statement Of Work (SOW) For Decred Blockchain Wallet Tutorial Campaign
 **Date:** February 12, 2019
 
-**Client‚Äôs Names:** Decred
+**Clientís Name:** Decred
 
 **Project Name:** Decred Blockchain Wallet Tutorial Campaign
 
@@ -13,7 +13,7 @@ Denni Lovejoy, Software Tutorial Specialist, https://twitter.com/DenniLovejoy
 
 **I. Summary**
 
-Currently there are over 2,000 cryptocurrency projects listed on coinmarketcap.com. Many of these cryptocurrency projects have their own official ‚Äúdecentralized wallets‚Äù, use recommended third-party wallets or are in the process of developing their wallet software.
+Currently there are over 2,000 cryptocurrency projects listed on coinmarketcap.com. Many of these cryptocurrency projects have their own official ìdecentralized walletsî, use recommended third-party wallets or are in the process of developing their wallet software.
 
 For example, the Decred project created the Decrediton Wallet.
 
@@ -27,9 +27,9 @@ This set of tutorials will include:
 - How to download and install the Decrediton wallet
 - How to send and receive Decred using Decrediton
 - How to back up, protect and update Decrediton
+- How to make a Stakepool account and stake
 - How to make a Politeia account, upvote/downvote and comment
 - How to make a Politeia Proposal
-- How to make a Stakepool account and stake
 
 **II. Introduction**
 
@@ -39,11 +39,11 @@ My name is Denni Lovejoy, I am a Blockchain Tutorial Specialist at https://www.C
 
 **Blockchain Tutorial #19 - How To Setup A Decred Wallet** https://www.youtube.com/watch?v=-rWLI_pC0d4
 
-I started creating blockchain tutorials to help newbies avoid getting hacked by bad actors in the crypto community. I chose to work with Tai Zen & Leon Fu Dot Com‚Äôs www.Cryptocurrency.Market channel because they were the 1st and only channel on the internet back in early 2013 that I found to be talking about trading and investing in bitcoin and cryptocurrencies. For example, they were the only channel that I know of to recommend investing in Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Stratis, Monero, Decred, NXT, Antshares, etc. when everyone else was afraid to do so. These coins all turned out to be huge winners.
+I started creating blockchain tutorials to help newbies avoid getting hacked by bad actors in the crypto community. I chose to work with Tai Zen & Leon Fu Dot Comís www.Cryptocurrency.Market channel because they were the 1st and only channel on the internet back in early 2013 that I found to be talking about trading and investing in bitcoin and cryptocurrencies. For example, they were the only channel that I know of to recommend investing in Bitcoin, Bitcoin Cash, Ethereum, Ethereum Classic, Stratis, Monero, Decred, NXT, Antshares, etc. when everyone else was afraid to do so. These coins all turned out to be huge winners.
 
 I learned from the www.Cryptocurrency.Market channel that the #1 most important thing in cryptocurrencies is to survive. Unfortunately, many people who have bought cryptocurrencies lost them because of a lack of security, privacy and formal education on how to use their digital wallets correctly. The lack of blockchain tutorials amongst all cryptocurrencies is why I started my Blockchain Tutorial playlist on the Cryptocurrency Market channel. I believe uneducated newbies in the crypto community who do not understand what it takes to secure, protect and use their digital wallets will mistakenly leave their crypto on exchanges which is subject to being hacked or stolen and will not back up their private keys.
 
-I have been monitoring the digital wallet space for quite some time now and I have chosen to associate my brand/ reputation & seek funding from the Decred community for due to the project‚Äôs a) professionalism b) software engineering/technical abilities and most importantly c) a working governance model and lastly d) the Decred team has a working decentralized wallet called Decrediton which is located on https://www.decred.org/downloads/.
+I have been monitoring the digital wallet space for quite some time now and I have chosen to associate my brand/ reputation & seek funding from the Decred community for due to the projectís a) professionalism b) software engineering/technical abilities and most importantly c) a working governance model and lastly d) the Decred team has a working decentralized wallet called Decrediton which is located on https://www.decred.org/downloads/.
 
 For the above reasons and the fact that I am more comfortable working with people I have personally met in person, I RESPECTFULLY submit this formal proposal to the Decred community to request funding for myself to create an ambitious, 3rd party, independent, unbiased blockchain tutorials and online advertising campaign to educate the public on how to use the Decred wallet and Politeia account correctly.
 
@@ -55,7 +55,7 @@ To create a series of tutorial videos to:
 - Educate the public on how to set up a Politeia account and make a Politeia proposal step by step.
 - Educate the public on how to avoid common mistakes and pitfalls in key parts of the tutorials.
 
-**IV. ‚ÄúBlockchain Tutorial‚Äù Deliverables**
+**IV. ìBlockchain Tutorialî Deliverables**
 
 **TUTORIAL 1: How To Set Up & Use The Decrediton Wallet ($250)** 
 
@@ -63,29 +63,27 @@ To create a series of tutorial videos to:
 - Explain how to receive and send Decred on the Decrediton wallet
 - Explain how to backup, protect, and update the Decrediton wallet
 
-**TUTORIAL 2: How To Make A Politeia Account, Upvote/ Downvote and Comment ($250)**
+**TUTORIAL 2: How To Make A Stakepool Account, Stake And Vote ($250)**
 
-- In this phase, I will demonstrate how to make a Politeia account, show users how to upvote/ downvote and comment on the proposals.
+- In this phase, I will demonstrate step by step how to make a stakepool account and stake Decred. This phase will also include how to vote. 
 
-**TUTORIAL 3: How To Make A Politeia Proposal ($250)**
+**TUTORIAL 3: How To Make A Politeia Account, Upvote/ Downvote, Comment And Make a Proposal ($250)**
 
-- In this phase, I will provide step by step details on how to make a Politeia Proposal.
+- In this phase, I will dive deeper into becoming active in the Politeia process including showing users how to set up an account, how to upvote/ downvote and comment on the proposals.
 
-**TUTORIAL 4: How To Make A Stakepool Account And Stake ($250)**
-
-- In this phase, I will demonstrate step by step how to make a stakepool account and stake Decred.
+- Explain to users step by step how to make a proposal starting with the guidelines for putting together a proposal, discussing it on Slack, posting it on Reddit, editing proposal based off feedback,  finalizing proposal and submitting it, and getting community support. 
 
 **V. Pricing & Terms**
 
-If you are interested in having me create the video tutorials mentioned in Section IV. ‚ÄúBlockchain Tutorial‚Äù Deliverables for your crypto project the cost will be as follows:
+If you are interested in having me create the video tutorials mentioned in Section IV. ìBlockchain Tutorialî Deliverables for your crypto project the cost will be as follows:
 
-- I respectfully request $1,000 worth of Decred for me to complete the section IV. ‚ÄúBlockchain Tutorial‚Äù Deliverables.
+- I respectfully request $750 worth of Decred for me to complete the section IV. ìBlockchain Tutorialî Deliverables.
 
-- The grand total cost of section IV. ‚ÄúBlockchain Tutorial‚Äù Deliverables = $1,000.
+- The grand total cost of section IV. ìBlockchain Tutorialî Deliverables = $750.
 
-- The estimated completion time for this entire proposal: 8 Hours x 4 Videos = 31.25 Hours x $30 USD/hour = $1,000 USD for Content Creation. This proposed schedule is to do this work in under 1 month allowing me to create 1 tutorial per week.
+- The estimated completion time for this entire proposal: 25 Hours x $30 USD/hour = $750 USD for Content Creation. This proposed schedule is to do this work in under 1 month allowing me to create 1 tutorial per week.
 
-- Payment will be paid to me in Decred (DCR) by a Decred Representative and will be processed after all 4 tutorials are accepted by the Decred community. I will email a Decred Representative an invoice with the details.
+- Payment will be paid to me in Decred (DCR) by a Decred Representative and will be processed after all 3 tutorials are accepted by the Decred community. I will email a Decred Representative an invoice with the details.
 
 - I will include 1 revision per video.
 
@@ -95,7 +93,7 @@ If you are interested in having me create the video tutorials mentioned in Secti
 
 - I will get all my basic questions answered on Decred support channels.
 
-- I will state in the videos that I‚Äôm being sponsored by the Decred Community/ Politeia anywhere that is deemed appropriate.
+- I will state in the videos that Iím being sponsored by the Decred Community/ Politeia anywhere that is deemed appropriate.
 
 - Decred will own the copyrights to the content created in this SOW and the Decred Project has the right to use the content without asking me for permission.
 
@@ -109,7 +107,7 @@ I shared the first draft of my proposal on Reddit and Slack to invite feedback a
 
 *The following questions are for Decred to consider and are not part of the SOW.*
 
-**What is Denni Lovejoy‚Äôs big picture approach to help educate and promote Decred to the public?**
+**What is Denni Lovejoyís big picture approach to help educate and promote Decred to the public?**
 
 
 - This entire SOW is based on the premise that Decred is sponsoring me to do a series of educational/ tutorial style videos of the cryptocurrency governance coin sector.
@@ -142,20 +140,18 @@ Please let me know if you have any questions, suggestions, or commentary about m
 
 **NOTES:**
 
-**TUTORIAL 1: How To Set Up & Use The Decrediton Wallet ($250)**
+**TUTORIAL 1: How To Set Up & Use The Decrediton Wallet ($250)** 
 
 - In this phase, I will help viewers understand the initial process on how to download and install the Decrediton wallet.
 - Explain how to receive and send Decred on the Decrediton wallet
 - Explain how to backup, protect, and update the Decrediton wallet
 
-**TUTORIAL 2: How To Make A Politeia Account, Upvote/ Downvote and Comment ($250)**
+**TUTORIAL 2: How To Make A Stakepool Account, Stake And Vote ($250)**
 
-- In this phase, I will demonstrate how to make a Politeia account, show users how to upvote/ downvote and comment on the proposals.
+- In this phase, I will demonstrate step by step how to make a stakepool account and stake Decred. This phase will also include how to vote. 
 
-**TUTORIAL 3: How To Make A Politeia Proposal ($250)**
+**TUTORIAL 3: How To Make A Politeia Account, Upvote/ Downvote, Comment And Make a Proposal ($250)**
 
-- In this phase, I will provide the step by step details on how to make a Politeia Proposal.
+- In this phase, I will dive deeper into becoming active in the Politeia process including showing users how to set up an account, how to upvote/ downvote and comment on the proposals.
 
-**TUTORIAL 4: How To Make A Stakepool Account And Stake ($250)**
-
-- In this phase, I will demonstrate how to make a stakepool account and stake Decred.
+- Explain to users step by step how to make a proposal starting with the guidelines for putting together a proposal, discussing it on Slack, posting it on Reddit, editing proposal based off feedback,  finalizing proposal and submitting it, and getting community support. 
