@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1552906771,"name":"bring deCRED to Africa(Ghana) Adoption program for merchants and businesses","publickey":"205f28e751f08b4f8bbb42667f01c68664d1bf4b3e8f7adc4fb0edf8e51d2098","signature":"50e92c3b60b7610dc921a7550b9c5f29cafdbb4669d6e5ef1a7e13101d5f16724e57bf3bbffe152f2a5e0a16546d6f01577a5a2eec519257c666d6807aa8310f"}
