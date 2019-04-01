@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1554120820,"name":"Fiat Pairs integration on EXMO Exchange","publickey":"915f08766972d9dcad6202bc53b8c4f7b9ca4c0ae05ce3dc193ba48921ddcd75","signature":"50422a900a55d043470972ed8c1a29a3a1a11258bee2768969ecf1e7e86d973455bfd6f3fa68fc3e75e0cf188e5a46d4a5066d855ae55bc9c40b0d525abc1e04"}
