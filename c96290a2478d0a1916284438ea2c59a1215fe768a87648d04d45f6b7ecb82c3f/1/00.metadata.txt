@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1554215531,"name":"Decentralize Treasury Spending","publickey":"a3cabbac727b0bce49f1dd2466f38ca62681cd6d48880e1c5ddf28635bf6681e","signature":"445f4ba5a2d5b5ad36c30f2dd2261cb5c37984eb60045fead5b05057d03c0f519b23cbf7dc9f18edcbc27bed6aef2d575da208c0a56cded4332ea700102cdb0c"}
