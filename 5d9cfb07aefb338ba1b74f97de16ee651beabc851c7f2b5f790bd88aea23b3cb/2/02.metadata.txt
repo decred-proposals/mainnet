@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":4,"timestamp":1543249744}
+{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":4,"timestamp":1543249744}{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":6,"statuschangemessage":"richard-red used this proposal to solicit ideas from the community for research.  That process has effectively stopped, so this proposal is being closed.","timestamp":1554489985}
