@@ -12,7 +12,7 @@ In order to prove the critics wrong, Decred needs a “big use case” that can 
 
 In order to find use cases and early users, most centralized technology companies have a so-called “BD Team” to build the business case for platform; attract partners, users, and build momentum; and to define technical and business requirements for the engineering and product teams based on studying the behaviors and gathering the feedback of users.  
 
-Typically for a project at Decred's stage in the old centralized world, it would be possible to do “BD Deals” in the size range of $1m to $10m per contract if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development towards the partners value-added requirements.
+Typically for a project at Decred's stage in the centralized world, it would be possible to do “BD Deals” in the size range of $1m to $10m per contract if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development effort towards the partners specific value-added requirements.
 
 Unfortunately, Decred lacks a BD team or mandate to do co-development style of deals, and therefore, it is unable to gain ever-so important requirements from early, forward-looking partners who might be interested to fund building-out of the vision if/as goals are co-aligned.
 
