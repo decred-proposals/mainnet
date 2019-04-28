@@ -16,7 +16,7 @@ Typically for a project at Decred's stage in the old centralized world, it would
 
 Unfortunately, Decred lacks a BD team or mandate to do co-development style of deals, and therefore, it is unable to gain ever-so important requirements from early, forward-looking partners who might be interested to fund building-out of the vision if/as goals are co-aligned.
 
-**Personal Enthusiasm:**
+**Basis of Personal Enthusiasm:**
 
 Personally, as a huge Decred fan, I would love to be able to try and “bring a deal to the table” via my friends and contacts in major organizations.   For example, I’d love to spend a week pitching Decred co-development ideas at Apple, Google, Government of Alberta, World Bank, etc. where I have personal relationships at senior levels.
 
