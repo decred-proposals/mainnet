@@ -4,7 +4,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
 
-Without near-term practical use cases, it is not clear where adoption will come from. Furthermore, as experienced technologists, we know that gathering requirements from real-world users who are excited by the technology can sharpen the focus of the technology delivered.
+Without near-term practical use cases, it is not clear where adoption will come from. Furthermore, as experienced technologists, we know that gathering requirements from co-development partners and real-world users who are excited by the technology can sharpen the focus of the technology delivered.
 
 In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the real world and drive early user adoption.
 
