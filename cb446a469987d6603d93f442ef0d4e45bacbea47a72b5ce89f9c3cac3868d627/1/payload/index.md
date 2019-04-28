@@ -20,7 +20,7 @@ Unfortunately, Decred lacks a BD team or mandate to do co-development style of d
 
 Personally, as a huge Decred fan, I would love to be able to try and “bring a deal to the table” via my friends and contacts in major organizations.   For example, I’d love to spend a week pitching Decred co-development ideas at Apple, Google, Government of Alberta, World Bank, etc. where I have personal relationships at senior levels.
 
-However, at present, I am not incentivized to do so, and I don’t have a process to follow to introduce such an opportunity to a partner or back to the Decred ecosystem.
+However, at present, I am not incentivized to do so, and I don’t have a process to follow to introduce such an opportunity back into the Decred ecosystem.
 
 Probably there are lots of other Decred fans like me with great relationship and BD skills, who would love to bring an opportunity to the stakeholder community that could create value for the ecosystem, and real-world problems and requirements for the developer community to sink their teeth in to.
 
