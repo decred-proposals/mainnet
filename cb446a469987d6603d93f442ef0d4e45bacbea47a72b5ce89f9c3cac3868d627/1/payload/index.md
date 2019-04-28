@@ -53,5 +53,7 @@ _(3) Decred Evangelists would be rewarded according to the following scheme:_
 
 •	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary and also to account for the fact that Decred is still pretty new and therefore getting major BD deals done will be a labor of love.  
 
+**Benefit of the Proposal to Decred Ecosystem:**
+
 By supporting this proposal, Decred community stakeholders can equip the Decred ecosystem with a mechanism to attract skilled BD executives to develop relationships with major ecosystem co-development partners, and to gather additional funding for the project from these partners, as well as to define real-world requirements for Decred contractors, in order to accelerate the pace of build-out of the protocol and software tools within the Decred ecosystem.
  
