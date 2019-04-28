@@ -22,7 +22,7 @@ Personally, as a huge Decred fan, I would love to be able to try and “bring a 
 
 However, at present, I am not incentivized to do so, and I don’t have a process to follow to introduce such an opportunity back into the Decred ecosystem.
 
-Probably there are lots of other Decred fans like me with great relationship and BD skills, who would love to bring an opportunity to the stakeholder community that could create value for the ecosystem, and real-world problems and requirements for the developer community to sink their teeth in to.
+Probably there are lots of other Decred fans like me with great relationship and BD skills, who would love to bring an opportunity to the Decred stakeholder community that could create value for the ecosystem, and real-world problems and requirements for the developer community to sink their teeth in to.
 
 **Proposal:**
 
