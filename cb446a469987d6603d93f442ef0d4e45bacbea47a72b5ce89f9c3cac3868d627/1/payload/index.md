@@ -1,14 +1,14 @@
 Incentivizing BD Evangelists within the Decred Ecosystem
 
-**Problem**
+**Background:**
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases (eg. comments by Coinbase representative at Decred developer event at Coinbase HQ in SF;  comments by Placeholder VC representative at OKCoin-hosted event in SF; analysis by CryptoBriefing).   
 
 Without near-term practical use cases, it is not clear where adoption will come from. As experienced technologists, we know that building technology in a vacuum without requirements from real-world users is rarely a recipe for success.
 
-In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the real world and drive real world adoption.
+In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the real world and drive early user adoption.
 
-**Gap**
-In order to find early users and use cases, most centralized corporate entities have a “BD Team” to attract these customers to the platform and to define technical and business requirements.  
+**Gap in the Decred Ecosystem:**
+In order to find use cases and early users, most centralized technology companies have a “BD Team” to build the business case for platform; attract partners, users, and snowball the momentum; and to define technical and business requirements for the engineering and product teams.  
 
 Typically for a project at Decred's stage in the old centralized world, it would be possible to do “BD Deals” in the size range of $1m to $5m if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development towards the partners specific requirements.
 
