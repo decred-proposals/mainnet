@@ -62,7 +62,7 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	Royalty or license fee to be provided by the partner, e.g. usd$1,000,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by State of California
 
-_(4) Decred Evangelists would be rewarded according to the following scheme:_
+_(4) Decred Evangelists would be rewarded according to the following framework:_
 
 •	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary and also to account for the fact that Decred is still pretty new and therefore getting major BD deals done will be a labor of love.  
 
