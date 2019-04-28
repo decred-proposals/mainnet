@@ -29,24 +29,35 @@ Probably there are lots of other Decred fans like me with great relationship and
 As a proposal to fix the fact that the Decred lacks a mechanism to fund top BD people who might be excited by the mission and vision of the project and also willing to allocate some time to working on it, I would like to propose the following:
 
 •	We create a new class of participant in the Decred Ecosystem called “Decred Evangelist”,
+
 •	Individuals who would like to become a Decred Evangelist submit their identity and resume to the Decred Community to be approved in a rolling vote held every three-months,
+
 •	Once approved by a majority of the community, Decred Evangelists can represent the project and solicit business partnerships on behalf of the ecosystem,
+
 •	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed,
 
 _(1) Decred Evangelists would be focused on the following goals:_
 
 •	Finding major governments, corporates, or technology companies that would like to partner with Decred to scope a project and co-develop it on top of Decred's decentralized infrastructure,
+
 •	Definining the scope of the co-development project, the specific usage of Decred’s technology, the specific technical requirements to be delivered by the project, and the developer skills and effort required, 
+
 •	Negotiating a pledge of a one-time lump sum payment and/or an ongoing royalty or license-fee stream to be paid by the partner to the Decred Treasury,
+
 •	Specifying any additional funding needed from the Decred treasury in order to cement the financial contribution of the co-development partner,
 
 _(2) Decred Evangelists would post fully worked-up proposals to the stakeholder community on Politeia including the following information:_
 
 •	Name of project partner, e.g. Apple
+
 •	Scope of project, e.g. Create an iOS App to enable Voter Elibibility Verification and Voting in a State Election in California leveraging Decred’s blockchain and infrastructure
+
 •	Specific technical requirements, i.e. 5-10 page document would define user stories & requirements
+
 •	Funds required from the Treasury, e.g. $250,000
+
 •	One-time match funding to be provided by the partner, e.g. $5,000,000
+
 •	Royalty or license fee to be provided by the partner, e.g. usd$1,000,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by State of California
 
 _(3) Decred Evangelists would be rewarded according to the following scheme:_
