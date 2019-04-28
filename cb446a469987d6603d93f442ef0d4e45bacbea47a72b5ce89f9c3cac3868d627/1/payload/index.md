@@ -1,14 +1,13 @@
 Incentivizing BD Evangelists within the Decred Ecosystem
 
-
+**Problem**
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases (eg. comments by Coinbase representative at Decred developer event at Coinbase HQ in SF;  comments by Placeholder VC representative at OKCoin-hosted event in SF; analysis by CryptoBriefing).   
 
-Without near-term practical use cases, it is not clear where adoption will come from. 
+Without near-term practical use cases, it is not clear where adoption will come from. As experienced technologists, we know that building technology in a vacuum without requirements from real-world users is rarely a recipe for success.
 
-In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the world, leverage its leadership position with decentralized governance, and harness the differentiated advantage of its unique team capabilities and core tech. 
+In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the real world and drive real world adoption.
 
-As experienced technologists, we know that building technology in a vacuum without requirements from real-world users is rarely a recipe for success.
-
+**Gap**
 In order to find early users and use cases, most centralized corporate entities have a “BD Team” to attract these customers to the platform and to define technical and business requirements.  
 
 Typically for a project at Decred's stage in the old centralized world, it would be possible to do “BD Deals” in the size range of $1m to $5m if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development towards the partners specific requirements.
@@ -49,5 +48,4 @@ Decred Evangelists would be rewarded according to the following scheme:
 •	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  This fee is a little bit higher than what a skilled BD person at Oracle or IBM would make, to account for lack of maturity of Decred ecosystem, and therefore difficulty of getting major BD deals done.  
 
 By supporting this proposal, Decred community stakeholders can equip the Decred ecosystem with a mechanism to attract skilled BD executives to develop relationships with major ecosystem co-development partners, and to gather additional funding as well as real-world requirements for Decred contractors, in order to accelerate the pace of build-out of the protocol and software tools.
-
 
