@@ -1,6 +1,7 @@
 Incentivizing BD Evangelists within the Decred Ecosystem
 
 **Background:**
+
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases (eg. comments by Coinbase representative at Decred developer event at Coinbase HQ in SF;  comments by Placeholder VC representative at OKCoin-hosted event in SF; analysis by CryptoBriefing).   
 
 Without near-term practical use cases, it is not clear where adoption will come from. As experienced technologists, we know that building technology in a vacuum without requirements from real-world users is rarely a recipe for success.
@@ -8,13 +9,14 @@ Without near-term practical use cases, it is not clear where adoption will come 
 In order to prove the critics wrong, Decred needs a “big use case” that can revolutionize the real world and drive early user adoption.
 
 **Gap in the Decred Ecosystem:**
+
 In order to find use cases and early users, most centralized technology companies have a so-called “BD Team” to build the business case for platform; attract partners, users, and build momentum; and to define technical and business requirements for the engineering and product teams based on studying the behaviors and gathering the feedback of users.  
 
 Typically for a project at Decred's stage in the old centralized world, it would be possible to do “BD Deals” in the size range of $1m to $10m per contract if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development towards the partners value-added requirements.
 
 Unfortunately, Decred lacks a BD team or mandate to do co-development style of deals, and therefore, it is unable to gain ever-so important requirements from early, forward-looking partners who might be interested to fund building-out of the vision if/as goals are co-aligned.
 
-**My Own Motivation:**
+**Personal Enthusiasm:**
 
 Personally, as a huge Decred fan, I would love to be able to try and “bring a deal to the table” via my friends and contacts in major organizations.   For example, I’d love to spend a week pitching Decred co-development ideas at Apple, Google, Government of Alberta, World Bank, etc. where I have personal relationships at senior levels.
 
