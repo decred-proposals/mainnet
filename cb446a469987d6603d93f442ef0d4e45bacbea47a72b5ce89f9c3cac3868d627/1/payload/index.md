@@ -68,5 +68,5 @@ _(4) Decred Evangelists would be rewarded according to the following framework:_
 
 **Benefit to Decred Ecosystem:**
 
-By supporting this proposal, Decred community stakeholders can equip the Decred ecosystem with a mechanism to attract skilled BD executives to develop relationships with major ecosystem co-development partners, and to gather additional funding for the project from these partners, as well as to define real-world requirements for Decred contractors, in order to accelerate the pace of build-out of the protocol and software tools within the Decred ecosystem.
+By supporting this proposal, Decred community stakeholders can equip the Decred ecosystem with a mechanism to attract skilled BD executives to develop relationships with major ecosystem co-development partners, and to gather additional funding for the project from these partners, as well as to define real-world projects and requirements for Decred contractors, in order to accelerate the pace of build-out of the protocol and software tools within the Decred ecosystem in a pragmatic way.
  
