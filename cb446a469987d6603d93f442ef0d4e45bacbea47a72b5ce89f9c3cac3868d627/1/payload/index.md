@@ -60,7 +60,7 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	One-time match funding to be provided by the partner, e.g. $5,000,000
 
-•	Royalty or license fee to be provided by the partner, e.g. usd$1,000,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by State of California
+•	Royalty or license fee to be provided by the partner, e.g. usd$1,000,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by at least 3 governments
 
 _(4) Decred Evangelists would be rewarded according to the following framework:_
 
