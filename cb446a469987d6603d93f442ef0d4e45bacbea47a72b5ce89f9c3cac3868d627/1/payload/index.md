@@ -52,7 +52,7 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	Name of project partner, e.g. Apple
 
-•	Scope of project, e.g. Create an iOS App to enable Voter Elibibility Verification and Voting in a State Election in California leveraging Decred’s blockchain and infrastructure
+•	Scope of project, e.g. Create an iOS App to enable Voter Elibibility Verification and Voting System to Run a State Election in State of California leveraging Decred’s blockchain and infrastructure
 
 •	Specific technical requirements, i.e. 5-10 page document would define user stories & requirements
 
@@ -60,7 +60,7 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	One-time match funding to be provided by the partner, e.g. $5,000,000
 
-•	Royalty or license fee to be provided by the partner, e.g. usd$1,000,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by at least 3 governments
+•	Royalty or license fee to be provided by the partner, e.g. usd$300,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by at least 3 governments
 
 _(4) Decred Evangelists would be rewarded according to the following framework:_
 
