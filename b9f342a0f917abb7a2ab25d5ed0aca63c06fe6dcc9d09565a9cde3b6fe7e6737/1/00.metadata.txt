@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1556672852,"name":"A Journey to the Future of Work- Telling the DCR story through Politeia","publickey":"947e2d3d5ed7dfaff737bb90163b46d68d7dafe02c31566184af2c71b224b2e7","signature":"6ebc6e9bb241935ef2d7112f58e5653600e10a4da29da704be322f7e7cb3f551b57e85ac763bd98fd48073fcab794840203f73fff73e96bd75629be3d7f52a01"}
