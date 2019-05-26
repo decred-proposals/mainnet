@@ -1,6 +1,7 @@
 Incentivizing BD Evangelists within the Decred Ecosystem
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -13,13 +14,13 @@ In order to prove the critics wrong, Decred needs a “big use case” that can 
 
 In order to find use cases and early users, most centralized technology companies have a so-called “BD Team” to build the business case for platform; attract partners, users, and build momentum; and to define technical and business requirements for the engineering and product teams based on studying the behaviors and gathering the feedback of users.  
 
-Typically for a project at Decred's stage in the centralized world, it would be possible to do “BD Deals” in the size range of $1m to $10m per contract if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development effort towards the partners specific value-added requirements.
+Typically for a project at Decred's stage in the centralized world, it would be possible to do “BD Deals” in the size range of $250k to $10m per contract if a team is effective in finding appropriate co-development partners with a suitable problem that the platform can solve with a bit more co-development effort towards the partners specific value-added requirements.
 
 Unfortunately, Decred lacks a BD team or mandate to do co-development style of deals, and therefore, it is unable to gain ever-so important requirements from early, forward-looking partners who might be interested to fund building-out of the vision if/as goals are co-aligned.
 
 **Basis of Personal Enthusiasm:**
 
-Personally, as a huge Decred fan, I would love to be able to try and “bring a deal to the table” via my friends and contacts in major organizations.   For example, I’d love to spend a week pitching Decred co-development ideas at Apple, Google, Government of Alberta, World Bank, etc. where I have personal relationships at senior levels.
+Personally, as a huge Decred fan, I would love to be able to try and “bring a deal to the table” via my friends and contacts in major organizations.   For example, I’d love to spend time pitching Decred co-development ideas at Apple, Google, Government of Alberta, World Bank, etc. where I have personal relationships at senior levels.
 
 However, at present, I am not incentivized to do so, and I don’t have a process to follow to introduce such an opportunity back into the Decred ecosystem.
 
@@ -31,7 +32,7 @@ As a proposal to fix the fact that the Decred lacks a mechanism to fund top BD p
 
 _(1) Creation of Decred Evangelist Role_
 
-•	We create a new class of participant in the Decred Ecosystem called “Decred Evangelist”,
+•	We create a new class of participant in the Decred Ecosystem called “Decred Evangelist”
 
 •	Individuals who would like to become a Decred Evangelist submit their real-world identity and CV to the Decred Community to be approved in a rolling vote held every three-months by the majority of the stakeholder community,
 
