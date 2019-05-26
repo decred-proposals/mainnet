@@ -1,5 +1,6 @@
 Incentivizing BD Evangelists within the Decred Ecosystem
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -36,7 +37,7 @@ _(1) Creation of Decred Evangelist Role_
 
 •	Once approved, Decred Evangelists can represent the Decred project and solicit business partnerships on behalf of the ecosystem,
 
-•	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the contracts of evangelists who have delivered results,
+•	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the tenures of evangelists who have delivered results,
 
 _(2) Decred Evangelists would be focused on the following goals:_
 
@@ -58,9 +59,9 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	Funds required from the Treasury, e.g. $250,000
 
-•	One-time match funding to be provided by the partner, e.g. $5,000,000
+•	One-time match funding to be provided by the partner, e.g. $1,000,000
 
-•	Royalty or license fee to be provided by the partner, e.g. usd$300,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by at least 3 governments
+•	Royalty or license fee to be provided by the partner, e.g. usd$100,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by 3 official elections
 
 _(4) Decred Evangelists would be rewarded according to the following framework:_
 
