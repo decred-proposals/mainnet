@@ -22,6 +22,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -96,7 +97,7 @@ _(6) The Program Administrator shall play the following functions:_
 
 •	Engage a design agency to put up the portal announcing the Decred BD evangelist program,
 
-•	Recruit Decred evangelists to apply to represent the project, review the credentials of candidates that apply, and extend an invitation to qualified individuals to represent the project,
+•	Recruit Decred evangelists to apply to represent the project, review the credentials of candidates that apply, and extend an invitation to qualified individuals to represent the project as an Evangelist,
 
 •	Send each new Decred evangelist a welcome package including Decred business cards, Decred t-shirt, and Decred key ring,
 
@@ -108,9 +109,11 @@ _(6) The Program Administrator shall play the following functions:_
 
 •	Portal - design agency - $18,000 - https://www.thegoodkind.co/
 
-•	Program administration - experienced Silicon Valley tech leader - $6,000 per mo. - https://www.linkedin.com/in/ryan-j-orr-05853/
+•	Program administration - experienced Silicon Valley tech leader - $5,000 per mo. - Reddit profile:  **fintechprof**
 
-•	Our commitment - we will put our full heart, soul, and energy into the project's success; we will HODL, stake, & vote all DCR income earned thru the project
+•	Program administration support - $2,000 per mo. - we expect to incentivize up to a half-dozen individuals to manage various small tasks to help make the program a big success (e.g. weekly conference call leads, graphic design of BD slide decks, marketing company to get word out, etc.)
+
+•	Our commitment - we will put our full heart, soul, and energy into the project's success; I will HODL, stake, & vote any DCR income retained thru the project
 
 **Benefit to Decred Ecosystem:**
 
