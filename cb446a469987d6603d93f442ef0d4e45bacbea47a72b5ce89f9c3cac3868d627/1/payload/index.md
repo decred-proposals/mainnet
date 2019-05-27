@@ -16,6 +16,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -44,21 +45,21 @@ Probably there are lots of other Decred fans like me with great relationship and
 
 As a proposal to fix the fact that the Decred lacks a mechanism to fund top BD people who might be excited by the mission and vision of the project and also willing to allocate some time to working on it, I would like to propose the following:
 
-_(1) Creation of Decred Evangelist Program and Role_
+_(1) Creation of Decred Evangelist Program and Role:_
 
 •	We establish a pilot program for 12 months to run on an experimental basis
 
 •	Under this program, we would plan to recruit six to twelve “Decred BD Evangelists”
  
-_(2) Recruiting Decred Evangelists:_
+_(2) Recruitment of Decred Evangelists:_
 
-•	We would put up a website so that individuals can apply to become a Decred Evangelist by submitting their identity, CV, and targeted relationships that they would want to pursue as a BD Evangelist,
+•	We would put up a portal to share information about the program and to enable prospective Decred Evangelists to submit an application and to share targeted relationships that they would want to pursue as a BD Evangelist,
 
-•	Decred Evangelists would be approved by the program administrator to represent the Decred project and solicit business partnerships on behalf of the ecosystem,
+•	Decred Evangelists would be approved by the program administrator to represent the Decred project and solicit business partnerships with the targeted relationships on behalf of the ecosystem,
 
-•	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the tenures of evangelists who have achieved solid results,
+•	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the tenures of evangelists who have delivered solid results,
 
-_(3) Decred Evangelist goals:_
+_(3) Decred Evangelist job description:_
 
 •	Finding major governments, corporates, or technology companies who would like to partner with Decred to scope a project and co-develop it on top of Decred's decentralized infrastructure,
 
@@ -110,7 +111,7 @@ _(6) The Program Administrator would play the following functions:_
 
 •	Program administration - $6,000 per mo.
 
-We will HODL, stake, & vote all income from the project
+We will HODL, stake, & vote all DCR income for minimum 36 months
 
 **Benefit to Decred Ecosystem:**
 
