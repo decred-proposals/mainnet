@@ -6,6 +6,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -38,8 +39,8 @@ _(1) Creation of Decred Evangelist Program and Role_
 
 •	We establish a pilot program for 12 months to run on an experimental basis
 
-•	Under this program, we create 6x “Decred Evangelist” roles
-
+•	Under this program, we would plan to recruit four to six “Decred BD Evangelists”
+ 
 _(2) Selection of Decred Evangelists:_
 
 •	We would put up a website so that individuals can apply to become a Decred Evangelist by submitting their identity, CV, and targeted relationships that they would want to pursue as a BD Evangelist,
@@ -75,6 +76,12 @@ _(4) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 _(5) Decred Evangelists would be rewarded according to the following framework:_
 
 •	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary, and also to account for the fact that Decred is still pretty new and therefore getting major BD deals done with partners and approved by the community will be a labor of love and quite high-risk.  
+
+_(6) The Program Administrator would play the following functions:_
+
+•	Put up the website announcing the Decred BD evangelist program,
+•	Recruiting Decred BD evangelists to represent the project,
+•	Put up the website announcing the Decred BD evangelist program,
 
 **Benefit to Decred Ecosystem:**
 
