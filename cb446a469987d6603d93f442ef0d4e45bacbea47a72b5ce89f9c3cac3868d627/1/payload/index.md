@@ -35,6 +35,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -107,9 +108,9 @@ _(5) Reward Framework - Decred Evangelists:_
 
 •	For projects approved by the majority of the Decred community that go ahead, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  The commission-based fee is a little bit higher than the commission-based fee compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary, and also to account for the fact that Decred is still a young project, which translates into a reality where winning major BD deals with partners and gaining community support will be a labor of love and quite high-risk.  
 
-_(6) Program Administrator - Role
+_(6) Program Administrator - Role:_
 
-The Program Administrator shall play the following functions:_
+The Program Administrator shall play the following functions:
 
 •	Engage a design agency to launch the portal announcing the Decred BD evangelist program,
 
