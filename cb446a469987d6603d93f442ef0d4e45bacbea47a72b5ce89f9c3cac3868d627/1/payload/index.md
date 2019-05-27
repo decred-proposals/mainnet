@@ -15,6 +15,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -49,7 +50,7 @@ _(1) Creation of Decred Evangelist Program and Role_
 
 •	Under this program, we would plan to recruit six to twelve “Decred BD Evangelists”
  
-_(2) Selection of Decred Evangelists:_
+_(2) Recruiting Decred Evangelists:_
 
 •	We would put up a website so that individuals can apply to become a Decred Evangelist by submitting their identity, CV, and targeted relationships that they would want to pursue as a BD Evangelist,
 
@@ -57,7 +58,7 @@ _(2) Selection of Decred Evangelists:_
 
 •	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the tenures of evangelists who have achieved solid results,
 
-_(3) Decred Evangelists would be focused on the following goals:_
+_(3) Decred Evangelist goals:_
 
 •	Finding major governments, corporates, or technology companies who would like to partner with Decred to scope a project and co-develop it on top of Decred's decentralized infrastructure,
 
