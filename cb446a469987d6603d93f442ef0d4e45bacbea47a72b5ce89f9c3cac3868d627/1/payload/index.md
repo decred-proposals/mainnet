@@ -20,6 +20,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -56,7 +57,7 @@ _(1) Creation of Decred Evangelist Program and Role:_
  
 _(2) Recruitment of Decred Evangelists:_
 
-•	We would put up a portal to share information about the program and to enable prospective Decred Evangelists to submit an application and to share targeted relationships that they would want to pursue as a BD Evangelist,
+•	We would put up a portal to share information about the Decred evangelist program and to enable prospective Decred evangelists to submit an application to serve the community as a BD Evangelist,
 
 •	Decred Evangelists would be approved by the program administrator to represent the Decred project and solicit business partnerships with the targeted relationships on behalf of the ecosystem,
 
@@ -72,7 +73,7 @@ _(3) Decred Evangelist job description:_
 
 •	Specifying any additional funding needed from the Decred Treasury on a match basis in order to cement the financial contribution of the co-development partner,
 
-_(4) Decred Evangelists would post fully worked-up proposals to the stakeholder community on Politeia including the following information:_
+_(4) Decred Evangelists shall post fully worked-up proposals to the stakeholder community on Politeia including the following information:_
 
 •	Name of project partner, e.g. Apple
 
@@ -86,11 +87,11 @@ _(4) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	Royalty or license fee to be provided by the partner, e.g. usd$100,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by 3 official elections
 
-_(5) Decred Evangelists would be rewarded according to the following framework:_
+_(5) Decred Evangelists shall be rewarded according to the following framework:_
 
-•	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner or the Treasury towards the project.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary, and also to account for the fact that Decred is still pretty new and therefore getting major BD deals done with partners and approved by the community will be a labor of love and quite high-risk.  
+•	For projects approved by the majority of the Decred community that go ahead, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury for the project.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary, and also to account for the fact that Decred is still a young project and therefore winning major BD deals done with partners and approved by the community will be a labor of love and quite high-risk.  
 
-_(6) The Program Administrator would play the following functions:_
+_(6) The Program Administrator shall play the following functions:_
 
 •	Engage a design agency to put up the portal announcing the Decred BD evangelist program,
 
@@ -108,7 +109,7 @@ _(6) The Program Administrator would play the following functions:_
 
 •	Program administration - experienced Silicon Valley tech leader - $6,000 per mo. - https://www.linkedin.com/in/ryan-j-orr-05853/
 
-•	Our commitment - we will HODL, stake, & vote all DCR income earned from the project
+•	Our commitment - we will put our full heart, soul, and energy into the project's success; we will HODL, stake, & vote all DCR income earned thru the project
 
 **Benefit to Decred Ecosystem:**
 
