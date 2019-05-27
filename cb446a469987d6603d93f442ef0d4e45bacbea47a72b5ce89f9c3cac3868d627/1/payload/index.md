@@ -4,6 +4,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -46,7 +47,7 @@ _(2) Selection of Decred Evangelists:_
 
 •	A Decred Evangelist role is valid for 12 calendar months, and upon expiry must be renewed;  the community should only renew the tenures of evangelists who have achieved solid results,
 
-_(2) Decred Evangelists would be focused on the following goals:_
+_(3) Decred Evangelists would be focused on the following goals:_
 
 •	Finding major governments, corporates, or technology companies who would like to partner with Decred to scope a project and co-develop it on top of Decred's decentralized infrastructure,
 
@@ -56,7 +57,7 @@ _(2) Decred Evangelists would be focused on the following goals:_
 
 •	Specifying any additional funding needed from the Decred Treasury on a match basis in order to cement the financial contribution of the co-development partner,
 
-_(3) Decred Evangelists would post fully worked-up proposals to the stakeholder community on Politeia including the following information:_
+_(4) Decred Evangelists would post fully worked-up proposals to the stakeholder community on Politeia including the following information:_
 
 •	Name of project partner, e.g. Apple
 
@@ -70,7 +71,7 @@ _(3) Decred Evangelists would post fully worked-up proposals to the stakeholder 
 
 •	Royalty or license fee to be provided by the partner, e.g. usd$100,000 equivalent of DCR purchased by the partner on the open market and gifted back to the Treasury annually for 5-years, assuming adoption and recurring use by 3 official elections
 
-_(4) Decred Evangelists would be rewarded according to the following framework:_
+_(5) Decred Evangelists would be rewarded according to the following framework:_
 
 •	For projects approved by the majority of the Decred community that go into production, the Decred Evangelist would be paid ten-percent of any upfront fees and/or any long-term royalties or license fees paid by the co-development partner into the Treasury.  This fee is a little bit higher than the commission fee based compensation that a skilled BD executive at Oracle or IBM would make, to account for lack of monthly salary, and also to account for the fact that Decred is still pretty new and therefore getting major BD deals done with partners and approved by the community will be a labor of love and quite high-risk.  
 
