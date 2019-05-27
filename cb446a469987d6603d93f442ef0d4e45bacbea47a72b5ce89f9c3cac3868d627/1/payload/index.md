@@ -36,6 +36,7 @@ Incentivizing BD Evangelists within the Decred Ecosystem
 
 
 
+
 **Background:**
 
 As a project, Decred has been praised for its vision, governance model, developer team, network security, and decentralization.  However, there have been criticisms that the project lacks near-term practical use cases.  For example, there were comments along these lines by a Coinbase representative at a Decred developer event at Coinbase HQ in SF last week;  comments by a Placeholder VC representative at an OKCoin-hosted event in SF four-weeks ago; and a C+ grade given to Decred by CryptoBriefing in their Digital Asset Report, see:  https://cryptobriefing.com/decred-digital-asset-report-dcr-token-review/.
@@ -64,11 +65,11 @@ Probably there are lots of other Decred fans like me with great relationship and
 
 As a proposal to fix the fact that the Decred lacks a mechanism to fund top BD people who might be excited by the mission and vision of the project and also willing to allocate some time to working on it, I would like to propose the following:
 
-_(1) Establishment - Decred Evangelist Program and Role:_
+_(1) Establishment - Experimental Program:_
 
 •	We establish a pilot program for 12 months to run on an experimental basis
 
-•	Under this program, we would plan to recruit six to twelve “Decred BD Evangelists”
+•	Under this program, we would plan to recruit six to twelve “Decred BD Evangelists” and pursue BD partnership deals on behalf of the Decred community
  
 _(2) Recruitment - Decred Evangelists:_
 
