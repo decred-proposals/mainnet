@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1559161338,"name":"Incentivizing BD Evangelists within the Decred Ecosystem","publickey":"dd92f95dd474977f48f25dbc0f7a61f0733d9911703711187676ce8d8aad0079","signature":"8a3162f37093dabf5ab94a8e3bc1b8c3f2fc26c4550aaa8c749a7719911ea984408d4e4347c32dbea3e962acd6af9609d1543e0ddb9d772750ec359c053d3502"}
