@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1559242090,"name":"Decred Open Source Research proposal: Phase 2","publickey":"cd6e57b93f95dd0386d670c7ce42cb0ccd1cd5b997e87a716e9359e20251994e","signature":"4e1a91658ac0075863e0c1ea8838d1bfc6b85e1d4da530af7d0ca51880c2f73ecbf00c31570b8166a1aa66a1f848cd24e5248b62aada1f181e0cae87636a6202"}
