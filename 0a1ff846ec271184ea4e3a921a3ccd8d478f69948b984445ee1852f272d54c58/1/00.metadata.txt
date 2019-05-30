@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1559231975,"name":"Block Header Commitments Consensus Change","publickey":"937e0161deb065604266635e24506e1e79c8cbbd27c7a83483a56ff1b2293f9b","signature":"6d9a8205d126ac64aae257dc9058cff479133df2e54d0a84c98bfcdcf91c9a8f5765f237764a9d97e7ce5c537ea8e64f18bbdb7aeb431f3eac240f256e846f00"}
