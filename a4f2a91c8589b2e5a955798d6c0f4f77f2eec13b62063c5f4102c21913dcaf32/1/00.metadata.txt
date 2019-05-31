@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1559311024,"name":"Decentralized Exchange Specification Document","publickey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","signature":"cef96be2ed79b72286a6c44d94578c46127e3a092fa7e8633b743ea41dfa129533b61b27d5198c425722e1889534540811336cfec37ce09801b85d25abf22a06"}
