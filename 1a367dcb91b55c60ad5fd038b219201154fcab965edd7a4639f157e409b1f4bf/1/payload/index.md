@@ -1,6 +1,7 @@
 DECREED MEDIA CAMPAIGN PROPOSAL - Crypto Economy - 2019/2020
 
 
+
 # **WHAT**
 
 Our media aims to bring blockchain technology to the general public showing the benefits of this technology not in relation to the earnings but as a way to achieve an individual financial sovereignty contributing a significant improvement in the lives of people.
@@ -33,7 +34,7 @@ For this we have prepared an annual plan which includes:
 | :------- | :------- | ------: | -----: |
 | Press services | Press releases & updates; weekly price analysis; guides & tutorials; interviews | $1,200 | $14,400 |
 | Permanent banner | All pages top header banner placement | $200 | $2,400 |
-| Decreed giveaway | Prize; Gleam; community management; press | $1,200 | $1,200 |
+| Decreed giveaway | Prize; Gleam; community management; press | $100 | $1,200 |
 | Youtube | Several weekly mentions on Youtube videos | $1,000 | $12,000 |
 | Community | Community management & Newsletter | $300 | $3,600 |
 | TOTAL | | $2,800 | $33,600 |
