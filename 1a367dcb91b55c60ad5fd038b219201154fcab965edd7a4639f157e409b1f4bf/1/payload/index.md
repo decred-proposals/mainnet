@@ -2,6 +2,7 @@ DECREED MEDIA CAMPAIGN PROPOSAL - Crypto Economy - 2019/2020
 
 
 
+
 # **WHAT**
 
 Our media aims to bring blockchain technology to the general public showing the benefits of this technology not in relation to the earnings but as a way to achieve an individual financial sovereignty contributing a significant improvement in the lives of people.
@@ -60,7 +61,7 @@ We have also published some articles to make the Decred project known by our aud
 
 # **WHEN**
 
-If approved, we plan to star the campaign as soon as possible after the approval of the proposal and it will last until the same day of 2020.  We would need 2 weeks to prepare the firsts materials for its publication (articles, video, etc).
+If approved, we plan to start the campaign as soon as possible after the approval of the proposal and it will last until the same day of 2020.  We would need 2 weeks to prepare the firsts materials for its publication (articles, video, etc).
 
 ----------------------
 
