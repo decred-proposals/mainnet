@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1560414885,"name":"Decred  Media Campaign Proposal - Crypto Economy - 2019/2020","publickey":"6bf827030057fcc9fc6c8d4719dad36cd985014f9ebbf06aca10c0b152b5b406","signature":"abb98cf2d8f4c8f211839c8c538fc1d69a5d062d95006645c681a9f1bbeeb68555278c2bdaf34ae9f6f36a2904d9a55b069bbe0d9468c54fb17fdeaad6601b0b"}
