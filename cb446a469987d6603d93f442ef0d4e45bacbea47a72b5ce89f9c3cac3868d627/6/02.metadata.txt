@@ -1,1 +1,1 @@
-{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":4,"timestamp":1558981422}
+{"version":1,"adminpubkey":"e575447e1acb624bedb7c7934f291e3c1b51bb7223f2c06647e551e4cf93f360","newstatus":4,"timestamp":1558981422}{"version":1,"adminpubkey":"1b7eefd4769c37397eb670a443c3f1827cb77a49d3ca812cd8e53b7344238346","newstatus":6,"statuschangemessage":"Proposal owner stated that they no longer wish to put this proposal to a vote.","timestamp":1560619205}
