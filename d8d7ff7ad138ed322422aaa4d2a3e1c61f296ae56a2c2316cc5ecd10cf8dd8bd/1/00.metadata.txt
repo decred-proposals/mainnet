@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1561262498,"name":"Supplemental Proposal For Decred Tutorials By Denni Lovejoy","publickey":"b6e65c0df66747e82d2671b95bf32b90b77d6ec29c392b71d6710bae149a59d0","signature":"61027a81057cbbf5ee314de6e460dcbb31c4e1e8606b8de7d393523a53a25ee3e747938acd0d0e105c9e2b972d79bbce83ea32e9d9687562b2a8f1676a680509"}
