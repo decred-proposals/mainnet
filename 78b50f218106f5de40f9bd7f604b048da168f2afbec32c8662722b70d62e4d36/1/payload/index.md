@@ -1,5 +1,6 @@
 Decred Fundamental Metrics Research Proposal - Phase 1
 
+
 This Pi Proposal summarises the objectives, strategies and focus areas for a series of data-driven research papers into the fundamentals of Decred. Each piece of analysis will be coupled with a strong social media dissemination campaign to enhance market awareness and community education and engagement.
 
 This is the first Phase of what may become a much larger campaign and opens pathways for more detailed research, collaboration and engagement strategies for Decred.
@@ -41,7 +42,7 @@ Articles will be delivered and disseminated via:
 Social campaigns which have recently yielded positive community feedback have a focus on evidence based fundamentals and positive, constructive commentary. Examples are *#DecredChallenge, #GetDecrEducated* and *#DontSleepOnDecred*.
 
 ## Contributers
-I (Checkmate) will lead the analysis and research however see a great opportunity to collaborate with the Decred team and become increasingly involved in the project. Please let me know in the comments if you are interested to contribute and/or see additional opportunities.
+I ([Checkmate](https://twitter.com/_Checkmatey_)) will lead the analysis and research however see a great opportunity to collaborate with the Decred team and become increasingly involved in the project. Please let me know in the comments if you are interested to contribute and/or see additional opportunities.
 
 There is an opportunity to leverage experience and knowledge from thinkers in the space who have already developed valuable Decred insights (Richard Red, Permabull Nino, Murad Mahmadov, Zubair Zia et al.)
 
