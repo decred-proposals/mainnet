@@ -1,4 +1,5 @@
-TinyDecred: A Python Toolkit for Python
+TinyDecred: A Python Toolkit for Decred
+
 
 My name is Brian (@buck54321 on github). I've been a Decred contributor for 
 about a year and a contractor almost as long, working mostly on dcrdata. 
