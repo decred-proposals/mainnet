@@ -1,19 +1,20 @@
 i2 Trading: DCR Market Making
 
-**DCR Designated Market Maker Proposal**
+
+# i2 Trading DCR Designated Market Maker Proposal
 August 1st, 2019
 
 
 
-**About i2 Trading:**
+### About i2 Trading:
 
 Founded in 2016, Iterative Capital is an alternative investment manager with a focus on large-scale Decred and Bitcoin mining. In 2018 it launched i2 Trading, a wholesale cryptocurrency dealer with offices in New Jersey, London, and Hong Kong, which has grown to over $500M in monthly notional trading volume. The firm is noted in the DCR community for the Iterative Capital [**investment thesis**](http://iterative.capital/thesis), which provided new justification for Decred&#39;s dual-consensus design. In addition to providing liquidity in the OTC market, Iterative Capital operates the 4th-largest DCR Voting Service Provider and mining pool operator [**Megapool**](https://www.megapool.info/) **.** In summary, the Iterative companies are the largest stakeholders in the DCR network and its infrastructure of any potential market-maker.
 
-**Mission:**
+### Mission:
 
 All liquid asset classes benefit from market-making, but Decred especially so. The Decred community&#39;s strong confidence in the project means that  roughly 50% of outstanding tokens are staked at any given time, and thus unavailable for trading; the result is poor liquidity.  Without deep markets, investors large and small are reluctant to invest into DCR and suffer substantial slippage costs. We are confident that by providing a tighter and deeper market, the DCR ecosystem can grow faster and buyers and sellers will be able to transact with much greater ease.
 
-**Current State of DCR Market:**
+### Current State of DCR Market:
 
 _Observed on July 30th, 2019_
 
@@ -28,7 +29,7 @@ _Observed on July 30th, 2019_
 
 _Slippage columns imply how much the market price would be adversely affected by a Buy/Sale of a 5 BTC market order_
 
-**Liquidity Proposal:**
+### Liquidity Proposal:
 
 - Maintain a tight average market spread: 0.3% for BTC pairs, and .5% for USDT/USD pairs
   - A tight top of book spread is integral for DCR to increase mass market usage
@@ -38,11 +39,13 @@ _Slippage columns imply how much the market price would be adversely affected by
   - 5 BTC ($50k) per side within +/-4% of BBO
 - 90% uptime assuming no exchange outages/hacks
 
-**Execution Lead Time:**
+
+### Execution Lead Time:
 
 If our proposal was to win, i2 Trading requires _up to_ 60 days to complete development and testing prior to going live.  If we are able to launch earlier, we will do so.
 
-**Compensation:**
+
+### Compensation:
 
 - **Zero up-front set up costs**
 -  Interest free loan of 5,000 DCR per cross. Willing to reduce the inventory request at a proportional rate to reducing the depth we offer.  i2 requests delivery of the loan one day prior to the start of the 6 month program.
