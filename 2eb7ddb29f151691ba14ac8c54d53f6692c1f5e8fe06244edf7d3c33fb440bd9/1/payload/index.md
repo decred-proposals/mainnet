@@ -1,8 +1,8 @@
 i2 Trading: DCR Market Making
 
 
+
 # i2 Trading DCR Designated Market Maker Proposal
-August 1st, 2019
 
 
 
