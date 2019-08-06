@@ -2,13 +2,14 @@ i2 Trading: DCR Market Making
 
 
 
+
 # i2 Trading DCR Designated Market Maker Proposal
 
 
 
 ### About i2 Trading:
 
-Founded in 2016, Iterative Capital is an alternative investment manager with a focus on large-scale Decred and Bitcoin mining. In 2018 it launched i2 Trading, a wholesale cryptocurrency dealer with offices in New Jersey, London, and Hong Kong, which has grown to over $500M in monthly notional trading volume. The firm is noted in the DCR community for the Iterative Capital [**investment thesis**](http://iterative.capital/thesis), which provided new justification for Decred&#39;s dual-consensus design. In addition to providing liquidity in the OTC market, Iterative Capital operates the 4th-largest DCR Voting Service Provider and mining pool operator [**Megapool**](https://www.megapool.info/) **.** In summary, the Iterative companies are the largest stakeholders in the DCR network and its infrastructure of any potential market-maker.
+Founded in 2016, Iterative Capital is an alternative investment manager with a focus on large-scale Decred and Bitcoin mining. In 2018 it launched i2 Trading, a wholesale cryptocurrency dealer with offices in New Jersey, London, and Hong Kong, which has grown to over $500M in monthly notional trading volume. The firm is noted in the DCR community for the Iterative Capital [**investment thesis**](http://iterative.capital/thesis), which provided new justification for Decred&#39;s dual-consensus design. In addition to providing liquidity in the OTC market, Iterative Capital operates the 4th-largest DCR Voting Service Provider and mining pool operator [**Megapool**](https://www.megapool.info/). In summary, the Iterative companies are the largest stakeholders in the DCR network and its infrastructure of any potential market-maker.
 
 ### Mission:
 
