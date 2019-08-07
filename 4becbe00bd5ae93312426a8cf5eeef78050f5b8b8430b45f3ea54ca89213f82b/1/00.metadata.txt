@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1565202221,"name":"Grapefruit Trading Market Making proposal","publickey":"4e745973d789988916efc0bedc426a5f253910ef37255fbe650a5bcfd39663fc","signature":"6bca0f9563e440bb324c78ee37787ae905fa96c368fbd7144ba5a781bda01b47951155d14e15ba416d174a36b2f7da1c84fe8604cffa038ec93fce722e06d902"}
