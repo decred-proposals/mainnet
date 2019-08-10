@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1565480531,"name":"Decentralized Exchange Development","publickey":"22b54aa3030d05ebb4ab31c5c719b8fec9d979928ce517222fe80195e0d3596d","signature":"22d8150b2aeb9252deda7b1b765f84b44a76d9d6320524241c829ef447a9b2c30d4518ac9a9a9c0b315e46f1021ad55480ff960bf10b358222d6ad5bdcdc280b"}
