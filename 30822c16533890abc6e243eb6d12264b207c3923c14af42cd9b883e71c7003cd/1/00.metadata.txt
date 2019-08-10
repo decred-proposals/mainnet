@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1565462138,"name":"RFP: Decred Designated Market Maker","publickey":"db4f9959fdc395bf2db48e1992d58d5366f05397345e3985b901b0294993a6f8","signature":"0ba9b2190b7c117c4abb5ace8cc9a1d6cbb1dfb63b9d91a249b83d9fa3515238a43070329e59a7a38f0df5fb3259ce932e6947e79ff43f80d6b48eb4cb8d410f"}
