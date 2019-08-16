@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1565916017,"name":"Market Making Proposal for Decred","publickey":"0d003e0b388cb8f86f98eafa56fa69a6c0f336c5037bc5b8c7f6ea8e4c08873b","signature":"f6517c3ebb5b4392145b8db00f0fadb71be8dd2d053e277c2f30edde361e1e4f32c1ef3550ce1db9ba743e0a5a5931474f3c6e1c9bbcd0fbd63806f611bcb40b"}
