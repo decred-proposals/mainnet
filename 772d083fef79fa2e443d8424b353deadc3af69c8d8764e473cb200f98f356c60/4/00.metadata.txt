@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1565919077,"name":"Proposal Withdraw","publickey":"0d003e0b388cb8f86f98eafa56fa69a6c0f336c5037bc5b8c7f6ea8e4c08873b","signature":"e5e7ae5c1f5837963589e48989db8d5faed5e0cb744a4ee21f6d5662e9bd222cb3d5cdb09de44bd26a363c41776606023e839fdfe1ef3210bda5e61eea2faf05"}
