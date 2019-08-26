@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1566824212,"name":"i2 Trading: DCR Market Making","publickey":"9772402a280884cdfa9a6708ab4e2e09ddc06ae2ac2c1a920eb33398c0a8a456","signature":"76a87eb4f21d55883448ce156d6a91a3c1ca5d3e97578097e8c2c05444b5b0ce339b86c6a068c94fccc3bc5f0a9f27f92d0bd8394febf3d20fd1164df35a580e"}
