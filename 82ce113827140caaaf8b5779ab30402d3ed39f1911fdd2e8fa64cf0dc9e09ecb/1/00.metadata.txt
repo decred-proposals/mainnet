@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1566956952,"name":"Tantra Labs - Market Making Proposal","publickey":"85053532ee6bdd69b434d8ab89c799e9efab602c0823ae32db2f3bc3d3fc5ad4","signature":"3363df4dde4b77bbf2faaf7117ac5c2cf61f375182659697e59deac70f0786fc4b69c9e6d93ce38d0d2de4f79ddb0b23e88d45789c204147e6afc63d71a6b500"}
