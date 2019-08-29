@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1567107981,"name":"Incrementalist Proposal as Small Step to Solving Decred's Liquidity Problem","publickey":"dd92f95dd474977f48f25dbc0f7a61f0733d9911703711187676ce8d8aad0079","signature":"71dbc792f0c4adb2db31ad9933c271d41c355a03467cee7be7a98efb5f8d1f7e9fb6a8b8ea380674aa9dbfcdb4aab090e4f89561b64687719c76527f5ff3f90e"}
