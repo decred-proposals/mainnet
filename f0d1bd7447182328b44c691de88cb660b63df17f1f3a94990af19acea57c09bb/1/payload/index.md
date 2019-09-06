@@ -1,5 +1,6 @@
 Research & Publication of On-Chain DCRUSD & DCRBTC Indicators
 
+
 **Personal Introduction:**
 
 For those who do not know me, I’m Permabull Nino and I’ve been a Decred community member since January 2018. Upon buying my first Decred, I immediately started tracking DCR ticket data and have been doing so every day since (~20 months of research). The majority of my contributions to date surrounding Decred have been focused on two topics:
@@ -50,17 +51,17 @@ Bitcoin has an entire suite of on-chain analytical tools which stakeholders from
 
 **Funding:**
 
-- 700 DCR (~$17,500 at today’s prices) – payment for project at large, denominated in DCR, payable upon project completion
-- $4,000 – payment in arrears for 20 months of research without pay, denominated in USD, payable upon publication of first written piece 
-- Total *Projected* Compensation: **$21,500 USD**	
+- $21,000 – payment for project at large, billable monthly
+- $3,000 – payment in arrears for 20 months of research without pay, payable upon publication of first written piece 
+- Total Compensation: **$24,000 USD**	
 
-I recognize (1) I am denominating my payment in DCR instead of USD and (2) that my request is more expensive than the standard research proposal. This is why I not only consider this reasonable but also a great value proposal for the community:
+I recognize that my request is more expensive than the standard research proposal. This is why I consider this reasonable and a great value proposal for the community:
 
-- It took me 12 months of research to make my initial discovery of the HHP, and another 8 months to build a full suite of tools / understanding around it, all without pay. 
-- There is a potentially big opportunity cost to publishing my research – as you would see in the posts, this tool is useful for short and long timeframes when it comes to evaluating DCR prices on both a USD and BTC basis. Receiving my payment in DCR guarantees that if price moves up between proposal approval and project completion I still receive same amount of DCR (which helps me participate more in the DCR price appreciation, which helps make up for my opportunity costs). I’m comfortable receiving less than $17,500 if DCR price moves down during / following project completion, it will still be 700 DCR total
+- It took me 12 months of research to make my initial discovery of the HHP, and another 8 months to build a full suite of tools / understanding around it, all without pay 
+- There is a potentially big opportunity cost to publishing my research – as you would see in the posts, this tool is useful for short and long timeframes when it comes to evaluating DCR prices on both a USD and BTC basis. Although this isn't my full suite of DCR on-chain tools, it's certainly enough of it that I will lose part of my "edge" after publication
 - I’m proposing work that has already been completed – pen just needs to be put to paper, so I already know what I’m providing is of the value I am requesting
-- The value that the project will receive from the publication of this research will be more than ~$17k, as I believe it will help everyone understand that there is something incredibly special going on with Decred’s on-chain data and further help cement Decred as a legitimate and premium digital store of value contender
-- $4,000 payment in arrears for 20 months of research = $200 / month. Think it’s fair to receive some sort of upfront payment for such a long period without compensation, but if there’s big pushback on this I’m open to discuss this part of the proposal
+- The value that the project will receive from the publication of this research will be more than ~$24k, as I believe it will help everyone understand that there is something incredibly special going on with Decred’s on-chain data and further help cement Decred as a legitimate and premium digital store of value contender
+- $3,000 payment in arrears for 20 months of research = $150 / month. Think it’s fair to receive some sort of upfront payment for such a long period without compensation, but if there’s big pushback on this I’m open to discuss this part of the proposal
 
 **Timeline:**
 
