@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1568663207,"name":"Research \u0026 Publication of On-Chain DCRUSD \u0026 DCRBTC Indicators","publickey":"1b71a61a2b246e60a358f3a3a9f19704e8dece58ca58f2955b1774b522bbc731","signature":"1be218ebe66c5a0eee1f8fe2cb14edee7089e6648564d49ba236a9bc7ef2ed66772ad03a2713e32cfabad9fb8e8e469fcbed76ab16ca492c1d5cf1fa06ff2609"}
