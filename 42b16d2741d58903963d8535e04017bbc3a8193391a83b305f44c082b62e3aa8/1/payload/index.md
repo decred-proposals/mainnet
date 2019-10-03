@@ -1,5 +1,6 @@
 Amin Rafiee: Decred Hackers Congress
 
+
 **What:**
 The Hackers Congress, hosted by Paralelni Polis in Prague, remains as one of the most important locations and events in the crypto space. It is the only place in the world operating purely on cryptocurrencies in its 6 years of operation. It has hosted figures such as Andreas Antonopoulos, Amir Taaki, Peter Tod, and many more great talents and faces. The audience includes some of the most educated, dedicated, and supportive individuals who are there to learn about how the world is shifting. 
 
@@ -9,7 +10,7 @@ I am a supporter and advocate of Decred. I have been selected to speak at the Ha
 ##
 Netexplo UNESCO award winner, Amin Rafiee, a regular speaker at Bitcoin and decentralization conferences throughout Europe, including the UNESCO house in Paris and the European 
 Commission as well as other locations throughout America and Australia. Amin has been helping share the truth, freedom, and choice that Bitcoin and other decentralized systems have to offer
-since 2013. A digital nomad, bio-hacker, consultant, journalist, designer, advisor and co-founder, always looking to demonstrate the higher possibilities. An advocate of privacy, P2P economies and decentralization in an otherwise centralized world.
+since 2013. A digital nomad, bio-hacker, consultant, journalist, designer, advisor and co-founder, always looking to push boundaries and explore new possibilities. An advocate of privacy, P2P economies and decentralization in an otherwise centralized world.
 ##
 
 My past work with Decred:
