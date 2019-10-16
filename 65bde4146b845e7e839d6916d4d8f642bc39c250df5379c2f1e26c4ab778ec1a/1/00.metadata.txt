@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1571194128,"name":"Decred - An economic phenomenon [Research and Education proposal]","publickey":"d688413dc7b1c88f115915c8ea0fd9afbcb33642da6816f625be2c131767827d","signature":"7112bc6028a23cac05afc5871fc814ac424c1f67808faf9b8c54efe1cb918867d32ca6a553942895cf3bf9d84b2563b646473de5641fbe5cf37382be4e23970e"}
