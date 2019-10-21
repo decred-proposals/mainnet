@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1571666770,"name":"Open DotA 2 Pubs for Decred Purse","publickey":"bf01d76a9fcec9a2f7a718085da3759c92c7f6237695a3b6b7577f4b565897ca","signature":"1fb3aaabd2d82f0f17d4888636a682a4d9edbfb24c949999970feed282bc8a321950d51963430045692a77c38039bc7e943f9d95113de99985316b0490abbe09"}
