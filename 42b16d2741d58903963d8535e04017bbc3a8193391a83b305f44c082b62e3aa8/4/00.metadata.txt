@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1572642193,"name":"Amin Rafiee: Decred Hackers Congress","publickey":"cb50a534eec341f5b0f1fb50cf30e05bf15e86dcc15bb8331ae0bafd1212b033","signature":"caec875fc6b683d64b64f39db8710f5477da356999540305873b984dd098d14fc147cd4c728ddb5ae123c93c14c6774c0441f11fcc51026a745f25dae02d9102"}
