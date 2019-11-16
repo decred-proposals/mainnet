@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1573869677,"name":"Decred Latam Marketing and Events Proposal","publickey":"f9da0bd73ab97e9e4b3097c71cfbac5273466eeac44520872fc65ae5c24274b0","signature":"77fc51e6895057cafe7f896dcfe684529559dfafb5c00a3201ca7b8d0093862264777e25f1b1fab18d83eb7105373ecc29137463444e93e77d43decab315160a"}
