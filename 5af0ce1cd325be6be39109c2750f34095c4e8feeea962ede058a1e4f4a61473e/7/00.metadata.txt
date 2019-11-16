@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1573869384,"name":"Decred in Spanish Marketing and Events Proposal","publickey":"f9da0bd73ab97e9e4b3097c71cfbac5273466eeac44520872fc65ae5c24274b0","signature":"2c0dabeeaf3dd60356ca6dea754d43b3b16fb1b0f11f451f94a19b47fe1b4380a938716305bd5a4db97f46b95683e806155e0f01478b3922161c68e2a11cdb03"}
