@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1574615689,"name":"TinyDecred Budget","publickey":"7e0d27a299b37423a7951e30361c178fdd6cbdc731b62a6c33c1185aabd5e60a","signature":"dad8a50bb8ae4759391b86eeff3b62a36a1f6c12b9e1396886cf57395fba20c91cdcbfbc99b15a5cc46f5daf0ae71a792412e935ed400409767e2b03c3888f00"}
