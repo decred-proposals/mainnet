@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1574874355,"name":"PlusBit-POS-App for Decred (DCR)","publickey":"8a7e5fbcdea923ce9d27a4545d9f33ea0a4a400fe6a5de5a81a8bbd8f682e264","signature":"ddd9e32a05c758cad2e8882fe3bea87b81a0e0714eab71691f39a4c16025db20cc6195248afbe57405bebd604d72de1f495e65b6557f866271098af8dc5f8402"}
