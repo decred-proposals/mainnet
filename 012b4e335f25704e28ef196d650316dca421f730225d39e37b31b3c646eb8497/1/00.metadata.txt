@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1578084317,"name":"Ditto Communications Proposal for Decred: Phase 3","publickey":"c6e4610c5a6c12076673c93c8817bb10b9bae651d36d5f6fa97d73b465d8e051","signature":"f3fbc0c4a886acbe83e65dd4925ee8372b3e2fde6e7240c0b1922bd430f7813d89c0bc197bfdda59a357f6eab4d25d88f107d41e87f611ffe812506668951308"}
