@@ -1,7 +1,6 @@
 Ditto Communications Proposal for Decred: Phase 3
 
-**Recap of the Past Year
-**
+**Recap of the Past Year**
 
 [Ditto](https://www.dittopr.co/) has been a proud partner with Decred for one year. We were the first proposal to be approved on Politeia, which was a “contentious” bid against another PR firm. Six months ago, we were overwhelmingly approved to continue our work. It has been an honor to work with Decred. 
 
@@ -11,8 +10,7 @@ In 2019, we created a big foundation of broad awareness by definitively answerin
 
 In the spirit of transparency, below is a thorough summary of our results for Phase 2 (you can see our results for Phase 1 in our [previous proposal](https://proposals.decred.org/proposals/52ea110ea061c72d3b31ed2f5635720b212ce5e3eaddf868d60f53a3d18b8c04)): 
 
-*Phase 1 vs. Phase 2 Coverage Comparison
-*
+*Phase 1 vs. Phase 2 Coverage Comparison*
 
 The bulk of our Phase 2 proposal was focused on continuing our media momentum and building upon the solid foundation we laid in Phase 1. 
 
@@ -24,7 +22,7 @@ Our efforts paid off in spades, and we’re excited to report these highlights o
 - Features: 150% increase from 6 to 9
 
 *Interviews*
-- Secured 38 interviews and expanded our bench of spokespeople. In Phase 1, Decred’s primary spokespeople were Jake, Marco, and Luke. In Phase 2, we added Akin, JZ, richardred, and Zubair. Akin has been very active lately, particularly with the mainstream media, as his corporate and government finance background and experience in Africa is of high interest to reporters - giving him credibility and opportunity to talk about Decred.
+- Secured 38 interviews and expanded our bench of spokespeople. In Phase 1, Decred’s primary spokespeople were Jake, Marco, and Luke. In Phase 2, we added Akin, JZ, richardred, and Zubair. Akin has been very active lately, particularly with the mainstream media, as his corporate and government finance background and experience in Africa are of high interest to reporters — giving him credibility and opportunity to talk about Decred.
 - 14 interviews (37%) were Tier-One, with reporters at outlets like CoinDesk, The Block, Fortune, and Robb Report. 
 - We secured 4 interviews for Akin on his NYC media tour, which included Fortune, The Block, Pomp’s Off the Chain podcast, and the Chain Reaction podcast. 
 - 7 appearances on the top crypto podcasts (details in the media section below). 
@@ -49,7 +47,7 @@ Our efforts paid off in spades, and we’re excited to report these highlights o
 
 *Speaking & Events*
 - Ditto worked with Decred to organize a range of events, from local Meetups to the bigger, more mainstream technology stages like Web Summit and CES. We:
-   - Secured a high-profile speaking opportunity for Akin on the Digital Money Forum at CES “The Libra Effect” panel (January 7, 2020). This puts Decred in the company of moderator Michael Casey, who is the Chief Content Officer for CoinDesk, and the Head of Policy for Libra. 
+   - Secured a high-profile speaking opportunity for Akin on the Digital Money Forum at CES [“The Libra Effect” panel](https://thedigitalmoneyforum.com/2020-agenda/) (January 7, 2020). This puts Decred in the company of moderator Michael Casey, who is the Chief Content Officer for CoinDesk, and the Head of Policy for Libra. 
    - Offered remote media support for Web Summit and Marco’s panel by creating comprehensive briefing materials. 
    - Coordinated Jake’s presentation on the crypto privacy landscape and Decred’s implementation to the SF Bitcoin Meetup (a first-ever for Decred), and Decred SF Devs Meetup at Coinbase. 
 
@@ -57,62 +55,89 @@ Our efforts paid off in spades, and we’re excited to report these highlights o
 
 A new goal and mandate for Ditto in Phase 2 was to grow Decred’s presence and engagement on social media, especially on Crypto Twitter, where the industry influencers have their conversations, and where newbies go to find out what’s happening. We developed a comprehensive social media playbook and reviewed it with a core group of community members who wanted to help with our efforts. 
 
-We recruited and activated 35 community members to actively participate in organic Twitter engagement. Ditto researched and compiled a list of Thought Leader and Influencer Accounts by category with the community, allowing them greater opportunity to engage on Decred’s behalf. 
+We recruited and activated 35 community members to actively participate in organic Twitter engagement. Ditto researched and compiled a list of thought leader and influencer accounts by category with the community, allowing them greater opportunity to engage on Decred’s behalf. 
 
 We launched a grassroots social media campaign in August 2019. Since that time, here are some major milestones: 
 
-- Twitter engagement: From July to August, we helped to double impressions of the Decred project handle to over 5.6 million and engagement often includes resources and calls to action for new potential supporters. From [Decred Digest](https://medium.com/decred/decred-journal-august-2019-43626ee68ff): “Outreach has made a concerted effort to increase engagement on Twitter via quality content and education regarding Decred. This was demonstrated by project impression counts more than doubling from July to over 5.6M.”
-- Helped coordinate broad social media campaigns on governance, privacy, and Decred in general as well as a campaign specific to crypto developers. For example: 
-   - #Cryptodevs: A campaign to focus on building awareness of the unique challenges and abilities that come with being a blockchain developer as a way to get the blockchain developer and greater crypto community more exposure to Decred’s successful and sustainable model resulting in 44 tweets, reaching ~56K accounts by 27 participants. 
+- Twitter engagement: From July to August, we helped to double impressions of the Decred project handle to over 5.6 million, and engagement often includes resources and calls to action for new potential supporters. From [Decred Digest](https://medium.com/decred/decred-journal-august-2019-43626ee68ff): “Outreach has made a concerted effort to increase engagement on Twitter via quality content and education regarding Decred. This was demonstrated by project impression counts more than doubling from July to over 5.6M.”
+- Helped coordinate broad social media campaigns on governance, privacy, and Decred in general, as well as a campaign specific to crypto developers. For example: 
+   - #Cryptodevs: A campaign to focus on building awareness of the unique challenges and abilities that come with being a blockchain developer as a way to get the blockchain developer and greater crypto community more exposure to Decred’s successful and sustainable model, resulting in 44 tweets, reaching ~56K accounts by 27 participants. 
    - #decreddancechallenge: A campaign born out of one spontaneous dance became a hashtag and rally for Decred overnight, thanks to Team Ditto picking up the torch and branding the dance with #decreddancechallenge, resulting in 36 tweets by 20 participants from all over the world.
 
 We hope that these results illustrate our commitment and understanding of Decred, as well as how to communicate its core values across a variety of audiences and channels. 
+
+**Recap of DCR and Crypto in 2019: Looking at Price During Alt Season**
+
+Ditto knows as well as the community does that 2019 wasn’t a great year for alts in terms of price comparisons to Bitcoin. Bitcoin had a great 2019 up nearly 90%, while other cryptocurrencies remained flat or were even down.  
+
+DCR was $19.96 when we started working together in December 2018, and as of the writing of this proposal, it was at $18.69. Meanwhile, the treasury value was $11.9M, compared to $12.1M now. There were a few price spikes this year, as DCR climbed above $30 in late June and early July 2019 when Facebook announced Libra. It also saw a major spike in November after major upgrades to Politeia. Another positive takeaway is that DCR is over 50% staked!  
+
+Remember: 2019 was supposed to be a building year, so Ditto is confident alt winter is close to over, and we have hit the bottom. But we feel the same frustration as you do, which makes this next 6 months even more important. 
+
+What does this mean? We need to be thinking about price more in our PR work. And this doesn't mean "pumping a coin,” but getting Decred the type of awareness that drives anyone — retail and institutional — to buy DCR either throughout the year or at the right “moment” during the year. 
+
+How will we do this? As you will read below:
+
+1. Month-over-month: Ditto will generate continued, ongoing awareness both broadly and around specific topics like staking, governance, privacy, etc.
+2. Project news moments: Ditto will put more focus around Decred news like Lightning Network, exchange listings like Binance.US, and other liquidity news and DEX. 
+3. National news: Ditto will keep Decred in the national media around big crypto news (BTC hitting $15K, Libra news, other big announcements).
+
+Going beyond the media, we also want to continue our online awareness and education campaigns with Decred. And we think it’s important for the Decred community to remain super positive online. When there are “moments to buy DCR,” we want people to see how amazing, smart, and positive the community is. 
 
 This humbly brings us to our third proposal for Decred.   
 
 **What**
 
-Ditto is proposing a communications campaign that builds upon the momentum and success of the past year. At a high level, we want to continue to drive broad awareness of Decred and its unique value proposition. This will be done through a strategic month-over-month approach to communications that includes cementing the project’s ownership of topics like governance and privacy, as well as through hard news announcements like Lightning Network and other proposals that have been approved through Politeia. 
+We laid the type of foundation in 2019 that puts Decred in an amazing position to break out in 2020. And while the first year was broad awareness and defining what Decred is, we want to be laser focused on opportunities to highlight Decred’s work in a way that has tangible, positive benefits — like more people staking, buying, etc. Because when the next retail wave happens, DCR has to be top of mind! 
 
-We want to take the awareness we’ve built and trade it up for higher-impact opportunities that consolidate Decred’s position as a top project. In the next phase, we need to answer the question, “Why Decred?” Moving forward — and especially in the current market — we need to strategically position Decred so that your audiences understand and appreciate its long-term value relative to other cryptocurrencies. The quality of communications will be particularly important in this next phase. And at the same time, we’ll need to maintain a steady stream of coverage in the background to keep the crypto community involved and excited about Decred. 
+Ditto is proposing a communications campaign that builds upon the momentum and success of the past year. At a high level, we want to continue to drive broad awareness of Decred and its unique value proposition. This will be done through a strategic month-over-month approach to communications that includes cementing the project’s ownership of topics like governance and privacy, as well as through hard news announcements like LN and other proposals that have been approved through Politeia. 
+
+Much of what we will propose will sound very similar to the work we did in 2019, and it should. Decred had a great year in terms of awareness. 
+
+We want to take the awareness we’ve built and trade it up for higher-impact opportunities that consolidate Decred’s position as a top project. In the next phase, we need to answer the question, “Why Decred?” Moving forward — and especially in the current market — we need to strategically position Decred so that its audiences understand and appreciate its long-term value relative to other cryptocurrencies. 
 
 Our Phase 3 proposal entails: 
-- Evolving Decred’s positioning, messaging, and talking points
-- Continuing month-over-month, high-quality media coverage, which also includes op-ed drafting and placement
-- Amplifying awareness through smart, strategic community activation
 
-In this next phase, we believe Decred should be focusing on the following target audiences:
-- Tier-one reporters: From big podcasts to big crypto outlets to mainstream publications, Ditto will continue to utilize our relationships in the media and Decred’s work and vision to generate broad awareness and differentiate Decred from other projects.  
-- Crypto community: There are two types of crypto community members: 1) those who already hold DCR in their bag and 2) those who remain on the sidelines. Decred needs to consistently remind the former why they should continue to hodl, and convince the latter that DCR should be in their portfolio.
-- Smart money: As smart money — be it Family Offices, VCs, Funds or HNW investors — steadily comes off the side or looks to increase their position in digital assets, Decred needs to be top-of-mind.  
+1. Evolving Decred’s positioning, messaging, and talking points
+2. Continuing month-over-month, high-quality media coverage, which also includes op-ed drafting and placement
+3. Driving bigger, more impactful awareness around “crypto moments”
+4. Amplifying awareness — and highlighting the optimism of the community — through smart, strategic activation
+
+And our target audiences are about the same as they were before:
+
+- Tier-one reporters and outlets: From big podcasts like Charlie Shrem to big crypto outlets like Cointelegraph to mainstream publications like Bloomberg, Forbes, and Fortune, Ditto will continue to utilize our relationships in the media and put Decred in front of the right reporters.  
+- Crypto community and beyond: From Nic Carter to Murad Mahmudov, Decred has sparked the interest of so many people in the crypto community — especially the maxis. We need to stay in front of these people! At the same time, Decred needs to be in the perfect position to attract newbies when those moments occur this year. 
+- Smart money: As smart money — be it Family Offices, VCs, Funds or HNW investors — steadily comes off the side or looks to increase its position in digital assets, Decred needs to be top-of-mind.  
 
 We are happy to answer any questions in response to the community’s feedback.
 
 **Why**
 
-2019 was a groundbreaking year for crypto. Facebook’s Libra turned crypto into the water cooler topic overnight and blew the lid off mainstream media conversations around crypto: what it is, how it’s governed, and who the important players are (could you imagine Decred being quoted in Mashable before June 2019?!). In Washington D.C., there were hearings on crypto and Donald Trump Tweeted about it! Can you imagine that 2-3 years ago? China announced their interest in utilizing blockchain — as did several other nation-states. While privacy has always been a topic of conversation in the community, it really caught fire in the second half of the year, both inside and outside crypto. And while some projects shut down, the crypto pie continued to grow, with corporations and institutional players like Fidelity entering from the sidelines. 
+2019 was a groundbreaking year for crypto. Facebook’s Libra turned crypto into the water cooler topic overnight and blew the lid off mainstream media conversations around crypto: what it is, how it’s governed, and who the important players are (could you imagine Decred being quoted in Mashable before June 2019?!). In fact, DCR spiked big during this time frame! 
 
-The crypto conversation significantly matured in 2019, and Decred was an important part of discussions around decentralized governance, store of value, staking, and privacy. Many reporters knew instinctively to include Decred in such stories, but the truth is that reporters in outlets like CoinDesk were attracted to projects that are bigger, have been around longer (many backed by big VCs) and have a semi-famous founder or lead developer (Zooko, Justin, CZ, etc.). As a result, even the most mundane actions coming out of projects like ZCash, Dash, EOS, and Cosmos got media attention. 
+In Washington D.C., there were hearings on crypto, and Donald Trump even tweeted about it! Can you imagine that 2-3 years ago? China announced its interest in utilizing blockchain — as did several other nation-states. While privacy has always been a topic of conversation in the community, it really caught fire in the second half of the year, both inside and outside crypto. And while some projects shut down, the crypto pie continued to grow, with corporations and institutional players like Fidelity entering from the sidelines. 
 
-Pricewise, the entire crypto market took a hit — Decred included. DCR did experience a few unique wins, though: As Checkmate pointed out, DCR demonstrated a Power Law relationship with Bitcoin this year. It also saw a major spike in November after major upgrades to Politeia, while other projects like Dash and Zcash steadily declined throughout that same time period. While no one can say for sure what’s behind price changes, continued education and awareness have a role to play in ensuring Decred’s audiences understand its value and want to participate in the project.
+The crypto conversation significantly matured in 2019, and Decred was an important part of discussions around decentralized governance, store of value, staking, and privacy. Many reporters knew instinctively to include Decred in such stories, but the truth is that reporters at outlets like CoinDesk were attracted to projects that are bigger, have been around longer (many backed by big VCs), and have a semi-famous founder or lead developer (Zooko, Justin Sun, CZ, etc.). As a result, even the most mundane actions coming out of projects like ZCash, Dash, EOS, and Cosmos got media attention. 
 
-In 2020, the competition will only heat up. The crypto space will continue to consolidate around an ever-shrinking pool of big names, and Decred will need to be smart and aggressive about keeping its (rightfully deserved) seat at that table. As the project continues to build and develop, smart communications will have an important role to play in flipping Decred’s status from an undervalued project to a valued and valuable project. 
+So, why does Decred need PR? And why should Ditto be your PR firm?
 
-The good news is that awareness of Decred has never been higher. More people know and (somewhat) understand the project. We can’t stop now! We believe Decred needs to maintain high awareness to prepare for the next wave of adoption and capture market share from anyone looking to enter the fold, from day traders to institutional investors, to everyone in between. Though it’s an open secret that many maximalists hold DCR in their bags as a hedge, we’ll need to keep the pedal down in 2020 to not only defend, but grow, Decred’s voice in the conversations (and the bags!) that matter. We need to keep the puck moving forward to ensure that Decred remains ahead of the curve, no matter what type of market we’re in. 
+This is the year for Decred! The foundation has been laid, awareness is high, and there are some huge possible announcements and news for the project this year! And Decred needs to be top-of-mind and fully understood and appreciated when the next breakout happens. 
 
-So, why Ditto? We’ve been a partner to Decred for a whole year. We’re completely integrated into the Decred community. We have a deep understanding of Decred and a daily (if not hourly!) rapport with dozens of community members. With our fingers on the pulse of the media landscape, we’re uniquely positioned between journalists and the community to keep Decred in front of the media day after day. We have proven that we can give strategic guidance, move fast, and listen to the community. We’re transparent, and as our bi-weekly updates show, we’re able to regularly deliver impactful results. 
+We believe Decred needs to maintain high awareness to prepare for the next wave of adoption and capture market share from anyone looking to enter the fold, from day traders to institutional investors, to everyone in between. Though it’s an open secret that many maximalists hold DCR in their bags as a hedge, we’ll need to keep the pedal down in 2020 to not only defend, but grow, Decred’s voice in the conversations (and the bags!) that matter.
 
-And we love working with Decred!
+But competition will only heat up. The crypto space will continue to consolidate around an ever-shrinking pool of big names, and Decred will need to be smart and aggressive about keeping its (rightfully deserved) seat at that table. 
+
+So, why Ditto? We’ve been a partner to Decred for a whole year. We’re completely integrated into the Decred community. We have a deep understanding of Decred and a daily (if not hourly!) rapport with dozens of community members. With our fingers on the pulse of the media landscape, we’re uniquely positioned between journalists and the community to keep Decred in front of the media day after day. We have proven that we can give strategic guidance, move fast, and listen to the community. We’re transparent, and as our bi-weekly updates show, we’re able to regularly deliver impactful results. Can we improve? Yes! And we want to have that conversation. 
 
 **How**
 
 *1. Evolve Decred’s positioning, messaging, and talking points* 
 
-Messaging is where we got our start with Decred, and it has a no less important role to play as we head into Phase 3. Because what we are talking about and how we talk about it has to change, evolve and improve.
+Messaging is where we got our start with Decred, and it has a no less important role to play as we head into Phase 3. What we are talking about and how we talk about it has to change, evolve, and improve.
 
 In coordination with the community, we created and significantly built out Decred’s foundational messaging platform throughout 2019. This document has served as the cornerstone of almost everything we’ve done, from rallying the community to engage on Twitter, to building the educational resources repository, to providing Decred spokespeople with talking points for interviews, to educating journalists on how Decred works. 
 
-Ditto’s first action item if we are approved will be to re-evaluate how to talk about Decred depending on the audience and how to talk about topics like privacy and Lightning Network that relate back to the project. Something we have been thinking a lot about is using phrases like “digital money,” “mobile money,” and “digital currency.” We also want to cement how we talk about staking from an educational and practical use case perspective. 
+Ditto’s first action item if we are approved will be to re-evaluate how to talk about Decred depending on the audience and how to talk about topics like privacy and Lightning Network that relate back to the project. We also want to think about how we talk about Decred in a way that influences anyone thinking of buying (more) crypto. Something we have been thinking a lot about is using phrases like “digital money,” “mobile money,” and “digital currency.” We also want to cement how we talk about staking from an educational and practical use case perspective. 
 
 It’s this type of message refining that will continue to best explain Decred and allow the community and spokespersons to own topics in crypto like staking in a way that everyone associates it with Decred. 
 
@@ -120,41 +145,51 @@ Ditto will work with the community to maintain, refine, and update the document 
 
 *2. Continue month-over-month, high-quality media coverage, including op-ed drafting and placement*
 
-From Laura Shin to WSJ to Cointelegraph to Forbes to Pomp, Ditto has produced both quality and quantity. At this stage, we can confidently say that every reporter in the crypto space knows who Decred is. Now that we have broad awareness in place, we see a need to achieve three simultaneous goals: 
+As we touched on above, there are a few ways we will approach media coverage in 2019. Some of this will sound very familiar because we want to keep doing what we were doing before. Other parts will have a different approach and angle, as we look to drive people to buy DCR.
 
-- Expand Decred’s piece of the crypto pie by cementing its reputation in the broader crypto community 
-   
-- Expand the pie beyond crypto to include the smart money standing on the sidelines
-  
-- Solidify Decred’s association with relevant topics (privacy, staking, governance, etc.)
+We see a need to achieve three simultaneous goals: 
 
-To achieve these goals, at the next stage we will focus on three broad buckets:
+1. Expand Decred’s piece of the crypto pie by cementing its reputation in the broader crypto community, and with smart money on the sidelines 
+2. Solidify Decred’s association with relevant topics (privacy, staking, governance, etc.)
+3. Spike coverage when news happens
 
-- a) High-impact, tier one stories
+- Focusing on Tier-One Outlets 
 
 We will hand pick the highest-quality, most impactful media opportunities in tier-one crypto media (CoinDesk, Cointelegraph, The Block, etc.) to ensure that Decred is securing feature coverage around releases and moments of importance to the project. We will also pursue tier-one non-crypto media outlets (Bloomberg, CNBC, Cheddar, Nasdaq, etc.) that are read by the smart money still standing on the sidelines of crypto waiting to get in on the right project. We’ll set a goal of securing at least one more big mainstream feature, similar to The Wall Street Journal story we secured in 2019. While these types of stories occur less often, they will generate the quality reliable sources Decred needs to consolidate its reputation long-term.
 
-Some of Decred’s best conversations and content have been podcast recordings and in-person interviews at events and conferences. Therefore, as part of our high-impact outreach, we will both maintain Decred’s presence on the podcast circuit, and, similar to what we did at Web Summit, the World Crypto & Blockchain Conference, etc., continue to schedule on-site interviews for Decred spokespeople at events to maximize Decred’s time on the ground. 
+- Broad awareness on topics that matter
 
-- b) Steady drumbeat of awareness 
+We need to be vigilant about solidifying Decred’s association with important topics like privacy, staking, security, store of value, Lightning Network, DAO, etc. That means keeping the project in front of reporters, day after day, with smart commentary and insight — and that includes relevant announcements. 
 
-While our focus will be on high-tier, high-impact media coverage, it’s especially important in a bear market not to lose sight of the role that consistent crypto trade coverage plays in keeping Decred top of mind and in a positive light. Non-tier-one trades still have a broad crypto readership, many of whom are DCR holders. It’s important we keep them abreast of the good work Decred is doing, and Decred must maintain its foothold on the awareness it has earned over the past year. This will require that we consistently stay in front of crypto journalists to ensure that Decred is taking part in conversations around staking, governance, store of value, treasury spending, DAOs, etc. 
+And while our focus will be on high-tier, high-impact media coverage, it’s especially important in a bear market not to lose sight of the role that consistent crypto trade coverage plays in keeping Decred top of mind and in a positive light. Non-tier-one trades still have a broad crypto readership, many of whom are DCR holders. It’s important we keep them abreast of the good work Decred is doing, and Decred must maintain its foothold on the awareness it has earned over the past year. This will require that we consistently stay in front of crypto journalists to ensure that Decred is taking part in conversations around staking, governance, store of value, treasury spending, DAOs, etc. 
 
-- c) Op-eds and placement
+- Op-eds and placement
 
 Ditto worked with the community on a variety of content last year, from co-creating and publishing thought leadership op-eds in CoinDesk, Cointelegraph, and CCN to crowdsourcing and placing points of view on breaking news of the day (Facebook Libra, China’s state-owned cryptocurrency, etc.) in mainstream media outlets like CNBC and Mashable. 
 
-At the next stage, Ditto will continue to identify opportunities for Decred to produce content on a monthly basis. With the community’s help, we will create topic-relevant op-eds on staking, privacy, and other topics relevant to Decred. In some cases, Ditto’s in-house content creation team will draft the articles or points of view in coordination with the community; in others, community members can lead the way and Ditto can review/edit. Ideally, the output would be 1 piece of content per month.
+At the next stage, Ditto will continue to identify opportunities for Decred to produce content on a monthly basis. With the community’s help, we will create topic-relevant op-eds on topics relevant to Decred. In some cases, Ditto’s in-house content creation team will draft the articles or points of view in coordination with the community; in others, community members can lead the way and Ditto can review/edit. Ideally, the output would be 1 piece of content per month.
 
-*3. Amplify awareness through smart, strategic community activation*
+*3. Drive bigger, more impactful awareness around “crypto moments”*
 
-In the past six months, Ditto has had the opportunity to work closely with Decred’s highly engaged and vibrant community. We successfully equipped community members to build Decred’s online awareness in an educational and impactful way. And while these efforts were previously ad hoc and distributed, now, numerous individuals who stood on the sidelines are acting as powerful, smart, educational voices on Crypto Twitter — and as a result, engagement is higher than it’s ever been. 
+There will inevitably be moments throughout the year when big news hits: BTC pops again, an institution enters the fold, Libra launches and attracts newbies to the space, or even Decred announces a new feature. We need to take advantage of these spike moments when it really matters, because they're when the most people are watching and evaluating their holdings. By adding fuel to the flame and spreading the word about DCR at exactly the right time, we’ll generate not only awareness, but also inspire action. 
 
-We’ve also worked closely with the community to build a master repository of educational content intended to educate Decred’s target audiences. That repository — which at the time of this writing is being prepared for publication on Decred’s website — makes it easy for journalists, crypto enthusiasts, investors, and anyone interested in Decred to find that information. 
+Ditto will put rapid response plans in place to capitalize on these opportune moments with “spike coverage”, so that when big, market-moving news does hit — no matter what it is — Decred is in front of journalists at just the right moment with insightful commentary or news.
 
-The next step is to merge the community engagement and educational resources repository pieces together into a single combined campaign aimed at amplifying and educating. With our solid foundation of educational materials, we will build proactive campaigns around each topic (similar to the #cryptodevs campaign) to create an echo effect across media outlets and social media. We will activate the community to participate on social media by sharing key messages from the messaging document, as well as sharing links to the best Decred content around the web, pulled from the educational resources repository. 
+*4. Amplify awareness through smart, strategic community activation*
+
+After successfully equipping the community to build Decred’s online awareness, as well as building a master repository of educational content, the next step is to merge these efforts together into a single combined campaign aimed at amplifying and educating. With our solid foundation of educational materials, we will build proactive campaigns around each topic (similar to the #cryptodevs campaign) to create an echo effect across media outlets and social media. We will activate the community to participate on social media by sharing key messages from the messaging document, as well as sharing links to the best Decred content around the web, pulled from the educational resources repository. 
+
+And when we talk about “message,” Ditto believes tone is equally as important. We want to activate the community in a way that portrays intelligence, confidence, optimism, and excitement! We want people to see and feel the community’s excitement in a way that draws them to the project; that makes them curious to hear more. 
 
 Finally, the educational resources repository is not a static document — it’s a living body of work that needs to grow and change along with the project. Since we already have our finger on the pulse of the media, Crypto Twitter, and third-party content websites, Ditto will keep the repository up to date with the latest, best-quality content from around the Internet, be it a new blog post by checkmate, an op-ed by Jake in CoinDesk, or a Lightning Network blog post by matheus. And we’ll continually seek out opportunities to spread the Decred message outside the community and pull a growing number of players into the fold. 
+
+**How We Think About Metrics and Measurement**
+
+As you read above, there have been some “easy” ways to measure our work. Some simple metrics to continue to monitor include:
+
+1. Social media: Increase in engagement, participants, impressions, etc. And we can also measure clicks to the educational repository. 
+2. Media coverage: More coverage, bigger coverage. We can use our past work as the standard for the next 6 months. 
+3. Price: We’ve purposely never associated our work with the price of DCR. But we should look at the work we do and see how it correlates to price. For instance, if the DEX launched in 2020, we would want to see how price is impacted as a result of the awareness we drive. 
 
 **Who**
 
@@ -184,6 +219,12 @@ Leslie (also known as “Crypto Leslie”) is a content strategist, panelist, an
 
 Anastasia is a PR specialist with extensive experience in financial and blockchain projects. Prior to joining Ditto, she managed communications for various blockchain startups in Russia, Europe and the U.S. such as Bitfury, Waves, SingularityNET and others. Her specialties include crisis communications, media relations, analyst relations, and community management. Anastasia holds a bachelor’s degree in Communications with a specialization in Public Relations from Moscow State University and National Chengchi University in Taiwan.
 
-**When**
+**When and How Much**
 
-Decred had a fantastic year on the development side: Progress on Lightning Network, mobile wallets launching, privacy implementation, and the DEX, to name just a few. But the bear market presents challenges to every crypto project, with most being forced to tighten their belts to weather the storm. In recognition of these challenges, and as our work evolves to become more targeted and strategic, Ditto is reducing its monthly retainer — thought this won’t sacrifice our level of engagement with the community. As we’ve done for the past year, this will be a 6-month contract with a simple 30-day out clause. Ditto proposes a monthly budget of $20,000 equivalent in DCR for the above services to be rendered.
+A year ago, Ditto fought to win Decred’s business because we believed in the project. We agreed to be paid in DCR, and we reduced the price based on the community’s feedback.
+
+Fast forward one year, and none of us realized how deep and meaningful our partnership would become. This has become as much about the project as it is about our retainer. And Ditto has never been the type of PR firm that chased a faster buck or a bigger client. What does that mean? This bear market is a test of the Decred/Ditto relationship. And during cold seasons like the one we are in now, Ditto wants to not just stick it out with you, but we are going to come out the other end of this chilly alt season together. And for Ditto to go all the way through this bear market together, that means we need to reduce our price until we make it.
+
+Ditto proposes another 6-month contract with a simple 30-day out clause. We propose a monthly budget of $17,500 equivalent in DCR for the above services to be rendered. This is a 30% reduction in price. 
+
+When? Now! We are ready to keep going, if you’ll have us! 
