@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1578680627,"name":"Public Relations Proposal for Decred","publickey":"648456696a107c67c7c09cc361f7b464869010a644957cde6f43775576e0f360","signature":"4d53a3fea5e04db73f345ac0db488e0a5ba6b9f232ac4fa120f052e07985a5b00c239788260d77caa6556e43c15c51cbd8eb4135ff805e3c744bd9ef51404f01"}
