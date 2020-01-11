@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1578754177,"name":"Decred Open Source Research Program: Phase 3","publickey":"cd6e57b93f95dd0386d670c7ce42cb0ccd1cd5b997e87a716e9359e20251994e","signature":"a89f872f8de634ef2b761662115949854450bfc725dfe10c611551b569a3465c653808b207858b4f8a006241a3b0efd884c17db1906e3bfe8987dcf55af06f09"}
