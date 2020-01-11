@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1578758546,"name":"PR Proposal for Decred by Monde Public Relations ","publickey":"648456696a107c67c7c09cc361f7b464869010a644957cde6f43775576e0f360","signature":"72be8c15cd9ee7afbab695f89c6d64e052b6a7c9c03ea31615f1172336d2407ab9b5d7d4f8d52504cd73627f137215ded987afddc38eaf8b80550e85fa7eef06"}
