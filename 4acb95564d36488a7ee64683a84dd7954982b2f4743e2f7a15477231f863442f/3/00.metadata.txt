@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1578826839,"name":"Decred Stickers: Enlarge Decred community","publickey":"9c69a9dd4e4593ae171fda06fbd2624850a16fae9358a99150b2ed2c3f626195","signature":"9da1f31d78c6fb216b62e0302db6fc5f2b851703ca0896424d324b8127f8b422b3c24043be46a992c81caeadff66de81ff56cfceb40071399b87e967283d2a0e"}
