@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1579164734,"name":"Facebook Manager and Events Individual Contractor Budget","publickey":"cc0f0a8bf403d8516049d9764e49fac0cf10ce3019eac27fd980ff4ba4d582c9","signature":"1867a8f02e8a6c363d73d3f8d6ac80dd12ea4bb7eae6e49afd862ed232bd176f64514ebea1863b3b3429778ec70e3ec929cfa9f799e4dadc17c6648ebef23607"}
