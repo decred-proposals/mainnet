@@ -2,12 +2,11 @@ Video Content Production for Decred
 
 ## Summary
 
-This proposal seeks funding for 6 months of Video Content Creation for the Decred Project.
+This proposal seeks funding for 6 months of Video Content Creation for the Decred project. This Video content will help educate newcomers, expose Decred to a wider audience, and keep Stakeholders and other community members up to date on what's happening with the project.
 
 ## Why
 
-Currently, most of Decred's News, Updates, Education and Research is text-based.  Disseminating content in a video format may be a preferred way for Stakeholders to keep up with the project, and a better way for newcomers to learn more about Decred. It will also help DCR's activity reach a wider audience by
-existing on mainstream media platforms like YouTube.
+Currently, most of Decred's News, Updates, Education and Research is text-based. While we all love to read, disseminating content in a video format may be a preferred way for Stakeholders to keep up with the project, and a better way for newcomers to learn more about Decred. It will also help DCR's activity reach a wider audience by existing on mainstream media platforms like YouTube.
 
 ## News and Events
 
@@ -15,7 +14,7 @@ existing on mainstream media platforms like YouTube.
 
 - **Bi-weekly News Reports**: Think the [Decred Drive](https://medium.com/@decreddrive) and [Decred Journal](https://medium.com/decred/decred-journal-december-2019-9b48c8bf8516) but visualized for the DCR community (and newcomers) to see in video format on YouTube.
 
-- Continually Generate **"Best Of" Snippets** for both old and new content captured from DCR's Media.
+- Continually Generate **"Best Of" Snippets** for both old and new content captured from DCR's Media. Bite-sized media that best shows the ethos of the project.
 
 - Videos **breaking down major Politeia Proposals** as they occur.
 
@@ -25,7 +24,7 @@ existing on mainstream media platforms like YouTube.
 
 ## General Videos about Decred
 
-I would like to produce general videos related to Decred as a sort of educational "101 Series". 
+I would like to produce general videos about Decred as a sort of educational "101 Series". 
 
 A sample of videos I would like to make:
 
@@ -41,8 +40,9 @@ A sample of videos I would like to make:
 - Videos about the Lightning Network
 - Videos covering the work of DCR's Researchers (Checkmate, PermaBull, RichardRed, ammarooni)
 - Mobile Wallet Overviews
+ - And more. 
 
-And any other suggestions the community may have for video content.
+I also encourage community members to submit ideas of their own.
 ## Goals
 
 My aim with these videos is to deliver content that is **direct, interesting, informative, and meaningful**. Videos will be highly edited to be **at most** 10 minutes in length in order to secure high retention rates among viewers.
