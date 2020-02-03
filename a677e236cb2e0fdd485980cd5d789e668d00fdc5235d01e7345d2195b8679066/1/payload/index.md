@@ -93,14 +93,14 @@ This Phase intends to extend both the depth and breadth of research into a numbe
 
 **Research** - this will be conducted by myself with usual coordination.
 
-2) At minimum 4x research papers of quality similar to those delivered in Phase 1. The intention will be to generate more lightweight but more specific topics following Phase 1 which was focused on establishing larger scale fundamental positions. All  research outcomes and insights will be appropriately disseminated via social media channels (Twitter, Reddit, Telegram, Matrix etc). 
+2) At minimum 4x research papers (although target for 5-6) of quality similar to those delivered in Phase 1. The intention will be to generate more lightweight but more specific topics following Phase 1 which was focused on establishing larger scale fundamental positions. All  research outcomes and insights will be appropriately disseminated via social media channels (Twitter, Reddit, Telegram, Matrix etc). 
 
 **Budget Requested for 2) = $15,000** includes all research work and dissemination.
 
-Based on my burn rate from Phase 1, This will represent ~6-8 months of work. Typical burn rate is $1.8k to 2.2k/mth. Given I will be mobile for some part of this year, I suggest that the proposal should carry on until the budget is exhausted to allow for flexibility in timing of deliverables (one paper every 2-3months can be expected).
+Based on my burn rate from Phase 1, This will represent ~8 months of work. Typical burn rate is $1.8k to 2.2k/mth. Given I will be mobile for some part of this year, I suggest that the proposal should carry on until the budget is exhausted to allow for flexibility in timing of deliverables (one paper every 2-3months can be expected).
 All work outlined in non-billable section above such as Our Network, podcasts, socials and other project exposure opportunities will remain explicitly non-billable and labor of love.
 
-**TOTAL BUDGET = $17,500 covering 6-8mths work or until exhausted**
+**TOTAL BUDGET = $17,500 covering 8mths work or until exhausted**
 
 *Please Note - as part of this proposal work, I will be learning required code skills to extract from dcrdata. As with Phase 1, I do not bill work during the learning curve but do bill work that is directly attributed to research outcomes (i.e. the analysis and developing chart outputs)*
 
