@@ -82,27 +82,30 @@ This Phase intends to extend both the depth and breadth of research into a numbe
 - Comparison between the Bitcoin 'consensus by upgrade' and Decred 'upgrade by consensus' governance models.
 - Decred as a digital cypher-punk / Crypto anarchic society.
 
-## Deliverables
+## Deliverables and Budget
 **dcrdata specs** - PermabullNino and myself will work towards this. I anticipate ad-hoc input from dcrdata devs however suggest that billable work associated with integration be a separate proposal once metrics are specified and technical/time requirements are better understood.
 
 1a) dcrdata git issues for metrics above
 
 1b) standard format for delivery of metric specs for faster integration into dcrdata
 
+**Budget for 1a and 1b = $2,500** includes developing specification Git Issues for dcrdata metrics including a sample chart to confirm layout and requirements.
+
 **Research** - this will be conducted by myself with usual coordination.
-2a) At minimum 4x detailed research papers of quality similar to those delivered in Phase 1
 
-2b) Continued dissemination of research outcomes and insights via social media channels (Twitter, Reddit, Telegram, Matrix etc)
+2) At minimum 4x research papers of quality similar to those delivered in Phase 1. The intention will be to generate more lightweight but more specific topics following Phase 1 which was focused on establishing larger scale fundamental positions. All  research outcomes and insights will be appropriately disseminated via social media channels (Twitter, Reddit, Telegram, Matrix etc). 
 
-Based on my burn rate from Phase 1, This will represent ~6-8 months of work. Typical burn rate is $1.8k to 2.2k/mth as a part time basis. Proposal will carry on until budget is exhausted.
+**Budget Requested for 2) = $15,000** includes all research work and dissemination.
 
-## Budget Requested
-- **1a and 1b = $2,500** for developing specification Git Issues for dcrdata metrics including a sample chart to confirm layout and requirements.
-- **2a and 2b = $14,000** for all research work and dissemination.
-- All work outlined in non-billable section above such as Our Network, podcasts, socials and other project exposure opportunities will remain explicitly non-billable and labor of love.
-- **TOTAL = $16,500**
+Based on my burn rate from Phase 1, This will represent ~6-8 months of work. Typical burn rate is $1.8k to 2.2k/mth. Given I will be mobile for some part of this year, I suggest that the proposal should carry on until the budget is exhausted to allow for flexibility in timing of deliverables (one paper every 2-3months can be expected).
+All work outlined in non-billable section above such as Our Network, podcasts, socials and other project exposure opportunities will remain explicitly non-billable and labor of love.
+
+**TOTAL BUDGET = $17,500 covering 6-8mths work or until exhausted**
 
 *Please Note - as part of this proposal work, I will be learning required code skills to extract from dcrdata. As with Phase 1, I do not bill work during the learning curve but do bill work that is directly attributed to research outcomes (i.e. the analysis and developing chart outputs)*
 
 ## Risks
-The primary risk is that research can have dead ends and it may take me some time to get my head around dcrdata. That said, the aggregate data I have studied to date has only built my conviction. Going more granular is more likely to improve insights than not. Thus proposal is suggested to extend until budget is depleted to allow flexibility of delivery timing.
+The primary risk is that research can have dead ends and it may take me some time to get my head around dcrdata. That said, the aggregate data I have studied to date has only built my conviction and going more granular is more likely to improve insights than not.
+
+Thanks and look forward to the discussion!
+CM
