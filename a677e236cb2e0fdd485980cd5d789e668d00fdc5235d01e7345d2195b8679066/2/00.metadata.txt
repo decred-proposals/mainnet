@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1580922731,"name":"Decred Fundamental Metrics Research Proposal - Phase 2","publickey":"ee69df0bdf51299b5b2db07c0ae8eab99968632632eba228271a68c661142323","signature":"b35cf4f63a693f89abfb16ae800b129357612b9fe47b31473e835c2d690e8ddc01ce930cfea8a396e508b9a8c2e957a470d4506c77cac8331b7ee7d1e28eb706"}
