@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1581240068,"name":"Decred - Creative Economy [Research and Education proposal]","publickey":"3738ddd976bb8a7f9d79dbfbdce6bd6f86e71962d14ddbb2a1332a424cded680","signature":"fe12c1a8cbac4c8fdd6b11dcb7d9f7b7ab1d57a6944d6e388f63ffd879c4b54c645c74382b2db9170085537766f30f10b3938968391ecfa0cc40ad61827a8c03"}
