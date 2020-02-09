@@ -1,4 +1,4 @@
-Decred - Creative Economy [Research and Education proposal]
+Decred - Creative Economy I + D + I [Research and Education proposal]
 
 Hi everyone!!
 
@@ -145,5 +145,4 @@ I believe that this adaptability will turn out to be a positive net result for t
 .
 This is my first proposal, I based on several that I saw in POLITEIA and I am very happy to be part of this community, and I hope to contribute in all possible aspects, I hope to receive your comments, doubts, ideas, suggestions and reflections.
 
-With much love, for humanity, for a better world for everyone, de la banda pa la banda, Oscar Gamboa lml 
-
+With much love, for humanity, for a better world for everyone, de la banda pa la banda, Oscar Gamboa lml
