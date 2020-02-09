@@ -7,7 +7,7 @@ My name is OscarGamboae, I am a freak from Irapuato Guanajuato, Mexico, but I tr
 
 Taking into account the education and culture we receive at LATAM, we are working together with various Civil Associations, to achieve, motivate, inspire, support, collaborate and co-create with various creative communities to design and develop various networking projects that encourage communities to develop assets and / or professional services that use blockchain and cashless payment methods such as DCR, to increase the supply and demand of the economy, thanks to the new active users and technology that the DCR team facilitates. as the newest Lighting Network.
 
-My research will continue by JULY 2020 at two festivals in EUROPE, Hungary at OzoraFestival.org and in Portugal at Boomfestival.org, this latest “anti-system” festival awarded by UNESCO (ONY & ONY HABITTAT) as “the champions of sustainability” in the year 2015, and that are part of the 17 SDGs Sustainable Development Goals, driven by which the theme of this year 2020 is #Antrophocene, a combination of anthropology, sustainability, planet and human action.
+My research will continue by JULY 2020 at two festivals in EUROPE, Hungary at OzoraFestival.org and in Portugal at Boomfestival.org, this latest “anti-system” festival awarded by UNESCO (ONU & ONU HABITTAT) as “the champions of sustainability” in the year 2015, and that are part of the 17 SDGs Sustainable Development Goals, driven by which the theme of this year 2020 is #Antrophocene, a combination of anthropology, sustainability, planet and human action.
 
 
 "There is no Plan B, or better, Planet B. We have to live on this planet and save it."
@@ -92,7 +92,7 @@ The objectives are:
 
 Research and publication topics:
 
-In my research I touch very diverse and very deep topics, mainly of philosophy and circular economy, of colors (Rainbow) mainly in LATAM, such as the green, blue, orange, red and black economy, the new urban agenda, 17 Objectives of Sustainable developments, Art everywhere, creative cities, sustainable tourism, UNESCO, UN HABITTAT, BigData, Smart Cities, Blockchain Cities, development of innovation and infrastructure, music, Festivals, RAVES, Tic´s, cashless payments.
+In my research I touch very diverse and very deep topics, mainly of philosophy and circular economy, of colors (Rainbow) mainly in LATAM, such as the green, blue, orange, red and black economy, the new urban agenda, 17 Objectives of Sustainable developments, Art everywhere, creative cities, sustainable tourism, UNESCO, ONU HABITTAT, BigData, Smart Cities, Blockchain Cities, development of innovation and infrastructure, music, Festivals, RAVES, Tic´s, cashless payments.
 
 
 When relevant or necessary, in research I will link with Decred's existing research to maximize the impact of community assets.
