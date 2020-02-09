@@ -2,12 +2,12 @@ Decred - Creative Economy I + D + I [Research and Education proposal]
 
 Hi everyone!!
 
-My name is OscarGamboae, I am a freak from Irapuato Guanajuato, Mexico, but I try to be more and more human, communicologist, growth hacker, eco cultural promoter, artist off the list, lately working as a business development, he participated in various projects cultural, movement, civil associations, artistic festivals, my strange life led me to investigate about life, and these last 3 years I have been dedicated to doing research "without an end , even ”, where I deal with topics of considerable interest in the daily life of the different societies in LATAM, and thus be able to accelerate their social, cultural and economic development, through various strategies on communication, marketing, growth hacking, eco life "mindfulness", hackingmind, adventure, travel, art, sustainability, development and lots of fun, to be able to devote time to what that really matters. Loving and not stop smiling, with our special people ...
+My name is OscarGamboae, I am a freak from Irapuato Guanajuato, Mexico, but I try to be more and more human, communicologist, growth hacker, eco cultural promoter, artist off the list, lately working as a business development, he participated in various projects cultural, movement, civil associations, artistic festivals, my strange life led me to investigate about life, and these last 3 years I have been dedicated to doing research "without an end , even ”, where I deal with topics of considerable interest in the daily life of the different societies in LATAM, and thus be able to accelerate their social, cultural and economic development, through various strategies on communication, marketing, growth hacking, eco life "mindfulness", hackingmind, adventure, travel, art, sustainability, development and lots of fun, to be able to devote time to what that really matters. Loving and not stop smiling, with our special people...
 
 
 Taking into account the education and culture we receive at LATAM, we are working together with various Civil Associations, to achieve, motivate, inspire, support, collaborate and co-create with various creative communities to design and develop various networking projects that encourage communities to develop assets and / or professional services that use blockchain and cashless payment methods such as DCR, to increase the supply and demand of the economy, thanks to the new active users and technology that the DCR team facilitates. as the newest Lighting Network.
 
-My research will continue by JULY 2020 at two festivals in EUROPE, Hungary at OzoraFestival.org and in Portugal at Boomfestival.org, this latest “anti-system” festival awarded by UNESCO (UN & UN HABITTAT) as “the champions of sustainability” in the year 2015, and that are part of the 17 SDGs Sustainable Development Goals, driven by which the theme of this year 2020 is #Antrophocene, a combination of anthropology, sustainability, planet and human action.
+My research will continue by JULY 2020 at two festivals in EUROPE, Hungary at OzoraFestival.org and in Portugal at Boomfestival.org, this latest “anti-system” festival awarded by UNESCO (ONY & ONY HABITTAT) as “the champions of sustainability” in the year 2015, and that are part of the 17 SDGs Sustainable Development Goals, driven by which the theme of this year 2020 is #Antrophocene, a combination of anthropology, sustainability, planet and human action.
 
 
 "There is no Plan B, or better, Planet B. We have to live on this planet and save it."
@@ -74,20 +74,19 @@ This proposal will be carried out 7 months of research and to be able to deepen 
 
 The objectives are:
 
-Promote the development of powerful assets that can promote new networks of well-informed ambassadors in general, to develop new opportunities for social, educational and economic development.
+- Promote the development of powerful assets that can promote new networks of well-informed ambassadors in general, to develop new opportunities for social, educational and economic development.
 
-Promote the development and knowledge of artistic DCR communities.
+- Promote the development and knowledge of artistic DCR communities.
 
-Create content for the development implementation of DCR media and journal.
+- Create content for the development implementation of DCR media and journal.
 
-Promote the adaptability of DCR as a Lightning Network in different communities of the artistic universe of LATAM.
+- Promote the adaptability of DCR as a Lightning Network in different communities of the artistic universe of LATAM.
 
-Boost the economic development (micro-macro economic) of the new DCR communities in LATAM and the world.
+- Boost the economic development (micro-macro economic) of the new DCR communities in LATAM and the world.
 
-Research on: “Decred Land; Blockchain City, the first crypto city in Mexico. ”
+- Research on: “Decred Land; Blockchain City, the first crypto city in Mexico. ”
 
-
-Proposal for a Work Plan 2020-2026 México - LATAM
+- Proposal for a Work Plan 2020-2026 México - LATAM
 
 
 
