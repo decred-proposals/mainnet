@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1581996013,"name":"Decred Europe - Grassroots Marketing and Events Proposal","publickey":"a854b650432a639cacba20b1e84627418c4a408f215c76f0754748746b436da6","signature":"bdf68265f0c5bedfdf50c16b5606889f764c08ff5b8c57e4f5445a8e9b63a055533e9bfd9a9ba7400959f7280edd7af9550b295852696cecb2067cbfac1de40b"}
