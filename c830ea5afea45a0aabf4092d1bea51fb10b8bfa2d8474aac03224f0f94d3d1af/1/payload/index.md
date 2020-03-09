@@ -14,6 +14,7 @@ This new plan takes into consideration recommendations from the report, and cont
 * Facilitate and manage public relations efforts
 * Facilitate messaging and release plans for new software
 
+
 **How?**
 
 All roads lead to Decred is a well known phrase used in the community.
@@ -49,9 +50,9 @@ The proposed output is as follows:
     *  Communication with other geographic leads and community
     *  Media (articles, podcast, video, public relations)
 *  Ongoing Updates to Marketing Materials (including design)
-   *  Development of [keynotes](https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409): Intro to Decred (updated), DEX, Privacy (when iterated), Lightning Network, Decred Governance Systems, Intro to Crypto, Crypto Ecosystem. These presentations will be recorded and published to the YouTube channel.
-  *  Updates to Business Brief
-  *  Updates to website (articles, releases, etc.)
+     *  Development of [keynotes](https://www.notion.so/Decred-Keynotes-5c3fdfb0a73841c0a394efe002003409): Intro to Decred (updated), DEX, Privacy (when iterated), Lightning Network, Decred Governance Systems, Intro to Crypto, Crypto Ecosystem. These presentations will be recorded and published to the YouTube channel.
+    *  Updates to Business Brief
+    *  Updates to website (articles, releases, etc.)
 
 | Tactic | Number | Cost Per (USD) | Extended Cost (USD) |
 |-----------------------------------------|--------|----------------|---------------------|
