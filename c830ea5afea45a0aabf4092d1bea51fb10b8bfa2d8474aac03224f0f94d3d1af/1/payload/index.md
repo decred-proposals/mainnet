@@ -1,6 +1,7 @@
 US Marketing & Project Release Coordination 2020
 
-Why?
+**Why?**
+
 In 2019, I passed two proposals - one for Marketing and one for Events - in an effort to gain stakeholder approval via Politeia for much of the existing spend. 
 The intention was to help formalize spending within the DAO structure, where stakeholders have the power to authorize expenditures but contributors have the autonomy to make decisions within an approved framework. 
 The stated goal was to help establish parameters to determine how this new type of organization will run. 
@@ -9,7 +10,9 @@ This new plan takes into consideration recommendations from the report, and cont
     • Continue to build awareness of Decred and develop tools to enable the community
     • Facilitate and manage public relations efforts
      • Facilitate messaging and release plans for new software
-How?
+
+**How?**
+
 All roads lead to Decred is a well known phrase used in the community.
 For many contributors their involvement with the project has come through the realization of just how future facing the project has been since it was first proposed. Other, better funded and more vocal projects, are now trying to solve issues that the project has already worked through.
 Decred takes an educational rather than a marketing approach which we believe aligns better with the project's constitution and values.
@@ -61,7 +64,8 @@ The proposed output is as follows:
 | Total |  |  | 201,800 |
 
 
-Who?
+**Who?**
+
 Each of the tactics involves the following Decred contributors:
 Decred Journal: A team of roughly one dozen community members, currently led by @bee.
 Politeia Assembly: richard red
@@ -72,5 +76,7 @@ Decred in Depth & Rough Consensus: Mr. Black, at times with @checkmatey_ and @pe
 Community Organizing: Dustorf (Chicago), Mr. Black (Los Angeles), TBD in New York and San Francisco
 Decred Assembly: Dustorf & jy-p
 Release planning and ongoing updates will be led by Dustorf, but involve other contractors who decide to contribute.
-When?
-This proposal back funds work from January 1st, 2020, and funding will last through the end of 2020. 
+
+**When?**
+
+This proposal back funds work from January 1st, 2020, and funding will last through the end of 2020.
