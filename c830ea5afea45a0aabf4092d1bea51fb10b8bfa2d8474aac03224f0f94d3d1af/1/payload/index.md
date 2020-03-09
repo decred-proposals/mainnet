@@ -10,9 +10,9 @@ The stated goal was to help establish parameters to determine how this new type 
 At the end of the proposal funding period, I published a 2019 [Marketing Report](https://blog.decred.org/2020/02/26/Decred-2019-Marketing-Report/) detailing all marketing expenses, analyzing what worked and what didn’t, and making a series of recommendations for the future.
 
 This new plan takes into consideration recommendations from the report, and continues to decentralize the marketing function. This proposal’s objectives are to:
-    *  Continue to build awareness of Decred and develop tools to enable the community
-    * Facilitate and manage public relations efforts
-    * Facilitate messaging and release plans for new software
+*  Continue to build awareness of Decred and develop tools to enable the community
+* Facilitate and manage public relations efforts
+* Facilitate messaging and release plans for new software
 
 **How?**
 
