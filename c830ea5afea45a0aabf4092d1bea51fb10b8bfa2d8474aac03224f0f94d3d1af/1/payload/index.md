@@ -2,7 +2,7 @@ US Marketing & Project Release Coordination 2020
 
 **Why?**
 
-In 2019, I passed two proposals - one for Marketing and one for Events - in an effort to gain stakeholder approval via Politeia for much of the existing spend. 
+In 2019, two proposals were passed - one for Marketing and one for Events - in an effort to gain stakeholder approval via Politeia for much of the existing spend. 
 
 The intention was to help formalize spending within the DAO structure, where stakeholders have the power to authorize expenditures but contributors have the autonomy to make decisions within an approved framework. 
 The stated goal was to help establish parameters to determine how this new type of organization will run. 
@@ -84,7 +84,7 @@ Decred Drive: Decred Dragon
 
 Newsletter: Dustorf
 
-Original Content: Dustorf
+Original Content: Dustorf, richard red, others
 
 Decred in Depth & Rough Consensus: Mr. Black, at times with @checkmatey_ and @permabullnino_
 
