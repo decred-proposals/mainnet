@@ -43,7 +43,7 @@ The proposed output is as follows:
         *  New York University
     *  Local Bitcoin & Blockchain organizations, privacy groups, trading groups, etc. 
 
-*  Public Relations Coordination: The community has approved Monde PR in a recent proposal. My work will help direct  Lindsey’s efforts, qualify and determine opportunities, and facilitate or create content. This includes message development, targeting, spokesperson cultivation, coaching and more. 
+*  Public Relations Coordination: The community has approved Monde PR in a recent proposal. Funding will enable management of  Lindsey’s efforts, including qualifying  opportunities and facilitatating or creating content. This includes message development, targeting, spokesperson cultivation, coaching and more. 
 *  Release Planning and Coordination: Work with the Decred developers to coordinate the promotion of releases, including:
     *  Messaging 
     *  Keynote preparation
@@ -75,6 +75,7 @@ The proposed output is as follows:
 **Who?**
 
 Each of the tactics involves the following Decred contributors:
+
 Decred Journal: A team of roughly one dozen community members, currently led by @bee.
 
 Politeia Assembly: richard red
@@ -96,4 +97,4 @@ Release planning and ongoing updates will be led by Dustorf, but involve other c
 
 **When?**
 
-This proposal back funds work from January 1st, 2020, and funding will last through the end of 2020.
+This proposal back funds work from January 1st, 2020, and funding will last through calendar year 2020.
