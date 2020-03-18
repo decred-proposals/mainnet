@@ -2,7 +2,7 @@ DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card
 
 ### PolisPay APP (brief explanation)
 
-> There is a presentation attached that explains the capabilities of the app.
+> There are images attached that explain the properties of the wallet.
 
 The PolisPay app is a complete non-custodial and trustless cross-platform wallet (available for iOS, Android, Linux, and macOS) that enables users to safely store cryptocurrencies and enables to purchase goods and services. 
 
