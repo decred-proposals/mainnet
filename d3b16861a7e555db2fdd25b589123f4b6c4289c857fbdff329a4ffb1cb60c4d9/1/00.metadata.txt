@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1584497992,"name":"DCR to PolisPay App - Gift Cards, Mobile TopUps and Debit Card","publickey":"de238961b681492c1a0949a5784d2ce7e09eae8803ba98e4db72b8099d3906c7","signature":"57217e2789a500ae21683d1d0af5729615a93f801c186ab0ce1add7d8f95f76130a9925344b963460eb507a2e7fc93fe2616c58e6bcf0bbbf05c31a001237a03"}
