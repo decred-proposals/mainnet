@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1584720456,"name":"Decred Brazil Marketing and Events Proposal","publickey":"c1cd38140c03bf6c34130ae6f89e592fb13ecad9b83aa660ffd8a74da4655d38","signature":"45182eea885c586ff193abe4b76bf1c3a7a1f869ef4e77d94876d5fd605e114e1adb39da725ca34bcb45f4ba3b0ee93129e5a2da2b50b7ce914fe4f783d41d04"}
