@@ -138,5 +138,4 @@ Each comic involves research, scripting, pen and paper storyboarding, digital de
 
    **Total: 45 hours**
 
-We would get paid after delivering each issue of the comic (**$1350** per comic). The total cost of this second DCR Comic season would be **$16500** and would produce **12 new visual explainers**. We estimate it will take us between 6 and 8 months to finish this second season.
-
+We would get paid after delivering each issue of the comic (**$1350** per comic). The total cost of this second DCR Comic season would be **$16200** and would produce **12 new visual explainers**. We estimate it will take us between 6 and 8 months to finish this second season.
