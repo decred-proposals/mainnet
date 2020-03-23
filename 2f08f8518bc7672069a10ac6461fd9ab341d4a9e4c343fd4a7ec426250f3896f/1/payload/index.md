@@ -20,7 +20,7 @@ The DCR Comic proposal centers on the development of **visual explainers** that 
 
 For **Season 2**, we intent to produce **12 more comics**, this time focusing not only on specific Decred technology but also on **the broader problems Decred aims to solve**. We are targeting larger audience, and we intent to keep expanding our public as the project evolves.
 
-Every asset can be found at [GitHub](https://github.com/pLabarta/dcrwebcomic/master) and anyone can read all the comics at the [DCR Comic website](https://dcrcomic.org).
+Every asset can be found at [GitHub](https://github.com/pLabarta/dcrwebcomic) and anyone can read all the comics at the [DCR Comic website](https://dcrcomic.org).
 
 This time we want to **double up the hours spent on creating content for Social Media platforms**, specially [Twitter](https://twitter.com/DCRComic) and [Instagram](https://www.instagram.com/dcrcomic/). This drives the cost of each comic from **$1200 to $1350**, adding 5 more hours to the mix for a total of 45 work hours.
 
