@@ -24,7 +24,7 @@ Every asset can be found at [GitHub](https://github.com/pLabarta/dcrwebcomic/mas
 
 This time we want to **double up the hours spent on creating content for Social Media platforms**, specially [Twitter](https://twitter.com/DCRComic) and [Instagram](https://www.instagram.com/dcrcomic/). This drives the cost of each comic from **$1200 to $1350**, adding 5 more hours to the mix for a total of 45 work hours.
 
-**Total budget: $16500 for 12 new comics and SM management**
+**Total budget: $16200 for 12 new comics and SM management**
 
 ---
 
