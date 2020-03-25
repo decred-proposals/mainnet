@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1585177426,"name":"Decred Daily Initiatives Proposal","publickey":"ae0f4e642ae723191c0c487b5283763b2ad60d9de83cad6be12d44ca9c708b01","signature":"00c07aad9d99270f6f19b50dd9c63457e200e312be7f572150f6d505803c5ee25acf49b36a62cc7117f178e910a9cbba454e8c2f2c7908792614a802f1cce50b"}
