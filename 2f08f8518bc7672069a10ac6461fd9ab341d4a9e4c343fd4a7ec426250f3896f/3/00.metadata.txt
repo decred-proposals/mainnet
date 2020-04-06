@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1586197075,"name":"DCR Comic: a visual guide to Decred - Season 2","publickey":"903bf04614196f0fa36bb4aaf806df54b104a3f68ef039f5f51feb049b2c5464","signature":"80234b7b3fd59066d1dce5ba3556ae9c4cf551e934c7bc9dc98c994f144e4fb36f65c6478a074d9e4a9f43b837e68d78f1441c187bb69e14b4afa12ee776750d"}
