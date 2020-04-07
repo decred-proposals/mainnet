@@ -15,6 +15,7 @@ A carefully planned campaign throughout [Hollywood](https://i.imgur.com/sf0kfNT.
 -	Superior Store of Value
 -	Your money, your power
 -	Decentralized, Credible, Robust
+
 Here is a [rough concept](https://i.imgur.com/zzTajz9.jpg) at one of the locations. Here is [another](https://i.imgur.com/xHdcpFT.jpg).
 
 **Who**
