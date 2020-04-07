@@ -20,8 +20,8 @@ I currently work at an advertising agency in West LA (Woodshop Studios), where w
 
 **When**
 Due to uncertainty with Covid-19, billboards are inexpensive. There’s an imperative to capitalize on affordable marketing, but also we don’t want to launch before Quarantine is over. Therefore, I posit 6 months from now provides a reasonable window. Currently looking to launch in October (provided availability). 
-•	Hollywood (25 Billboards) - Package Rate per 4 weeks: $10,000
-•	West LA (25 Billboards) – Package Rate per 4 weeks: $10,000
-•	I will design and manage the creation of the Billboards - 80 hours at 40$/hr: $3,200
-•	Production cost for printing and materials - $1250
+-	Hollywood (25 Billboards) - Package Rate per 4 weeks: $10,000
+-	West LA (25 Billboards) – Package Rate per 4 weeks: $10,000
+-	I will design and manage the creation of the Billboards - 80 hours at 40$/hr: $3,200
+-	Production cost for printing and materials - $1250
 Once erected, I will take photos of all the billboards and submit to the community.
