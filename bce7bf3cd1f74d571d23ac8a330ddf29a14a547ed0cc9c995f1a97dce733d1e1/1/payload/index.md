@@ -29,6 +29,6 @@ Due to uncertainty with Covid-19, billboards are inexpensive. There’s an imper
 -	Hollywood (25 Billboards) - Package Rate per 4 weeks: $10,000
 -	West LA (25 Billboards) – Package Rate per 4 weeks: $10,000
 -	I will design and manage the creation of the Billboards - 80 hours at 40$/hr: $3,200
--	Production cost for printing and materials - $1,250
+-	Production cost for printing and materials: $1,250
 
 Once erected, I will take photos of all the billboards and submit to the community.
