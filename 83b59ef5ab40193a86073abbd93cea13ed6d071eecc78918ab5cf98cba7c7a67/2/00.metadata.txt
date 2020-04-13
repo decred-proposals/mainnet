@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1586743487,"name":"Decred Content Marketing with CriptoNoticias","publickey":"1fff82a5bb4a5c60d169e873a5f1be40c9a129b58471d062c9a15c151bb383e9","signature":"250432d1c1e1568c96e17051af10a4c5090153c692d5f4c7cddd67f60c448d6933a326ccb404d10b110a458438f3565284c031ee72b926f5fc56a56bf8e47d04"}
