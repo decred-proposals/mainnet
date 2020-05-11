@@ -68,7 +68,7 @@ These will be a series of "mini-pubs" which provide the following:
 - Concise analysis of chart(s) within the publication
 - Calculation for tool
 - Link to code on Github that fetches data and calculates the metric 
-- A copy of the publication will be present in Github as part of an ongoing library of Decred on-chain tools, which should be helpful for some of Checkmate's work on building an on-chain landing page for Decred
+- A copy of the publication will be present in Github as part of an ongoing library of Decred on-chain tools
 
 - This type of analysis will provide a better bang-for-buck for the community as it eliminates the extra time needed for longer-form pieces
 
