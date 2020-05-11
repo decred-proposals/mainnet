@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1589213798,"name":"DCR On-Chain Research: Phase 2","publickey":"8f9fa531b543c6e0b805a1abcc858400f8316cd937785c40e36f4d05171e83b5","signature":"fedaffa8540faeac98a3d80214c0773d460169395c761e5407993d7ca87034f9022d57dcd6be64159cf7c1e0791ecf1ddc2c125427cf3997304f58f41bbe7001"}
