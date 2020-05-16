@@ -121,6 +121,7 @@ The team has discussed possible future development of this portal for community 
 - Additional charts and metrics developed by researchers/analysts as they are created in the future.
 - Embedded video explainer sessions similar to [https://youtu.be/NOyyAx6Ab_0](https://youtu.be/NOyyAx6Ab_0) and even a location for hosting live community AMA sessions/virtual meetups like [https://www.youtube.com/watch?v=H_COE9A-t3I&t=268s](https://www.youtube.com/watch?v=H_COE9A-t3I&t=268s)
 - Community-driven blog or regular newsletter
+- Possible to add metrics for other networks like Bitcoin as an attraction for outside audience
 
 We are happy to answer any questions from the community and look forward to the vote!
 
