@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1589748934,"name":"Decred OnChain - A Research and Charting Resource","publickey":"bd0f6b20cb6665cf1f07725d75c81b3fa9752be3ba0c4136a143224b3c07f9dd","signature":"35d5a96cf2e6dd6ea34ed966cb8a6de9d4adbb622f49a5a6f06f5db6c4b6781bd37278b90c9d636ea2d2207f6d422ea3b8caecbd742bffab084d8e0ca1c2c806"}
