@@ -23,23 +23,23 @@ Learn more about W3BT & FMW [here](https://w3bt.io/about/).
 
 **Potential Broadcast Reach Breakdown of FMW's T.V. Network:**
 
-• FOX Business: (95 + M households)
-• Bloomberg (U.S. & International): (combined potential reach of +549 M households)
-• iSUN Asia: (24 M households)
-• Cumulus Media: (245 M households)
-• Cultura Colectiva: (81 M households)
-• ionTV: (100 M households)
-• KRON: (2.7M households)
-• and other outlets.
+*• FOX Business: (95 + M households)
+*• Bloomberg (U.S. & International): (combined potential reach of +549 M households)
+*• iSUN Asia: (24 M households)
+*• Cumulus Media: (245 M households)
+*• Cultura Colectiva: (81 M households)
+*• ionTV: (100 M households)
+*• KRON: (2.7M households)
+*• and other outlets.
 
 The Decred project will benefit greatly from this level of exposure because many institutional investors follow this blockchain TV program and will make a big difference for (DCR).
 
 **This T.V. exposure has the potential to increase:**
 
-• Market cap: (+731%)
-• Daily trade volume: (+632%)
-• Token price: (+901%)
-• Investor relations
+*• Market cap: (+731%)
+*• Daily trade volume: (+632%)
+*• Token price: (+901%)
+*• Investor relations
 
 **How it works:**
 
@@ -51,14 +51,14 @@ A few months ago Binance was on this Blockchain TV Program and they got more res
 
 [Binance Tweet ](https://twitter.com/realW3BT/status/1261699640702861313?s=19)
 
-[Binance Interview](https://youtu.be/zi5w3Yho4p4)
+[Binance Interview (video)](https://youtu.be/zi5w3Yho4p4)
 
 
 **Native Coin (N8V) Case Study (Q1 of 2020):**
 
 The stats below are from [NativeCoin (N8V)’s Coinmarketcap page](https://coinmarketcap.com/currencies/native-coin/).
 
-Native Coin (N8V)](https://native-coin.io/) After 2 Months (2 Parts) Of Our T.V. Broadcast Services:
+[Native Coin (N8V)](https://native-coin.io/) After 2 Months (2 Parts) Of Our T.V. Broadcast Services:
 
 +457% Market Cap Increase: 
 Dec 2nd 2019: $1,038,471 | Feb 19th 2020: $4,746,098
@@ -69,7 +69,7 @@ Dec 2nd 2019: $0.04 | Feb 19th 2020: $0.20
 +161% 24 Hour Trade Volume Increase:   
 Dec 2nd 2019: $49,078 | Feb 19th 2020: $79,242
 
-[N8V Interview](https://youtu.be/hrerLLXthvY)
+[N8V Interview (video)](https://youtu.be/hrerLLXthvY)
 
 
 **Proposal:**
