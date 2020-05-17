@@ -150,7 +150,7 @@ Bloomberg: Airdates & times TBD: Bloomberg U.S. +125M Homes. Bloomberg Internati
 
 [Demographics (PDF)](https://w3bt.io/wp-content/uploads/2020/02/Deomographics-W3BT-Exploring-the-Block-New-To-The-Street.pdf)
 
-[Global Press Releases ](https://w3bt.io/wp-content/uploads/2020/05/Global-Press-Releases.pdf)
+[Global Press Releases (PDF) ](https://w3bt.io/wp-content/uploads/2020/05/Global-Press-Releases.pdf)
 
 
 **Contact:**
