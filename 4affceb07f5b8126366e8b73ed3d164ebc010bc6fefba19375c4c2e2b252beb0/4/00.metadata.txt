@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1590150097,"name":"CoinStory - The History and Evolution of Cryptocurrencies (Book)","publickey":"94926ba3db7d6013326665c24f850c798c077736680fbd2cc3d94996068531f2","signature":"f794b55b594e90d068ad6334fd67efa7b144ca7d35d6a06f92914a91bc7b4abd6e094adc7bea79b5eab9b8b88f6de6e57cd3bd5f25958438ea4e3f150974860c"}
