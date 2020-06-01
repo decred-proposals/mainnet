@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1591028438,"name":"Decred Bug Bounty Proposal: Phase 3","publickey":"d18e6dc2871b96d4e0966f3a5d95acc3c1024b7557b15d24597080e4daa68a66","signature":"c74774b312a19a61c8e0cc7ae557e6e41ca3328f66cb004f31e528ff7de87cced726164a1fc3dc5a809d022c909aa037a9a95da5188e958e0a90700a8cd3c30b"}
