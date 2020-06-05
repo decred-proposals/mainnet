@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1591399358,"name":"Planet Decred launch proposal","publickey":"eb82b264d3dad64ca85f5167f6bd5cf64897d546159cdb12303edd50cc7b47d1","signature":"d848de80ccd8c538ce453406011766bbc48df5c38373c87bd0011be55ae01d11e099639af4d5a03e7adfb3fd26696fd5baa20f058ece3c359c6df11d4e88150b"}
