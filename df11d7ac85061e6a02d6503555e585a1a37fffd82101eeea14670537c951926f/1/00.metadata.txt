@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1592438707,"name":"Content Production for Decred in russian","publickey":"c98646cf771f1c2fbbf2e81524ad6ea4f2d4e1acd72d7e2de7084a5cb5e09661","signature":"c01d8d3fc344566c0704d5796a3dd278e150ab3ab26987d0ede98dad3c51f89de057a102ffdaa24165e50bccfcbd702dd28e3f30ae4d3564b6868bbbc19feb09"}
