@@ -1,12 +1,15 @@
 PR by Monde Public Relations - Phase Two
 
 **1) What is the problem that this proposal aims to address or solve?**
+
 Continue to increase awareness about Decred through the media, in order to reach our target audience to inspire action. The main focus over the last six months has been pitching Decred-related story ideas and expert comments about relevant news events to target media. Decred spokespeople have been included in mainstream conversations about key crypto events such as the Bitcoin Halving and Central Bank Digital Currency developments. Looking ahead, the goal is to continue to be a part of key crypto conversations and build upon this by sharing newsworthy project updates. Articles have been secured in leading crypto publications such as Cointelegraph and CoinDesk in addition to several mainstream publications including The New York Times, Reuters, Forbes, Business Insider and ZeroHedge. [Here’s a link](https://github.com/decredcommunity/pr/blob/release/monde-pr-media-coverage.csv) to the full list. 34 articles were secured, syndicated to 142 publications across 24 countries. 
 
 ****2) Why does this problem exist? Why is it a good idea to solve this problem?****
+
 Journalists have plenty of projects to write about, we want to ensure they’re writing about Decred and communicating our key messages. An increased media presence will result in more people knowing about the project and contributing to its growth. 
 
 ****3) How do you plan to solve this problem? Go into detail with each step you will take.****
+
 Continue to carry out monthly PR activity, as detailed in the [last proposal](https://proposals.decred.org/proposals/bdd02d82547bd78fc95939c1e2b3df21ebec6e8d31444df5bea3c133b0199f05).
  
 Monthly PR Activity 
@@ -38,4 +41,4 @@ Lindsey holds a BA (hons) in Ancient History and History from the University of 
 
 **5) When will you be able to finish this project? Include a thorough project plan and outline, with key dates and funding amounts relative to milestones.**
  
-Fee: $3,500 per month for a one year commitment. Weekly meetings, monthly reporting. 
+Fee: $3,500 per month for a one year commitment. Weekly meetings, monthly reporting.
