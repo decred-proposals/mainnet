@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1594827764,"name":"Augmented Reality posters","publickey":"6b0cc17d37de38beb81d4310e63583c0b96ae301000fba62d447413822c7a81e","signature":"be691a7560165b51204d147eb7e56b81b6ffd4cc571ee69e0e3fec4e6d502f2a9ef26f5323a358c9d737dbac88875d5ae0273e8a46cd0dd6cbad31fd7c527305"}
