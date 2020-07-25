@@ -77,11 +77,13 @@ Designing fair compensation for moderating chats is non-trivial. On the one hand
 Per-platform breakdown of monthly expected/maximum USD:
 
 - Discord: $240 / $300
-- Matrix: $120 / $200
+- Matrix: $120 / $240
 - Politeia: $300 / $600
-- Reddit: $110 / $220
+- Reddit: $90 / $180
 - Telegram: $120 / $200
-- reserve: $0 / $180
+- reserve: $180
+
+Some of the contributors listed in these roles do not bill for their work, and so the projected budgets are lower in areas where more of the moderators are volunteers.
 
 The reserve is added to the monthly limit to account for activity unforeseen by the estimates of individual moderators.
 
