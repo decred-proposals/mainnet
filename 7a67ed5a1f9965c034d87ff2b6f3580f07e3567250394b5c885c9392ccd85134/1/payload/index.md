@@ -7,8 +7,9 @@ A Poker series with free entry and price pools in Decred, funded by the treasury
 
 
 
-**Why**
 
+
+**Why**
 
 Decred lacks the attention it deserves and people complain it has no utility apart from being a store of value.
 So I thought why not give the people something they can have fun with and win Decred along the way and as a side effect increase the chatter and attention about DCR.
