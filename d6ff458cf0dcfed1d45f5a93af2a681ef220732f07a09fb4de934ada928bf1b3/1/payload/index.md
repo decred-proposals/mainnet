@@ -1,6 +1,6 @@
-Decred - A Revolutionary Institution
+Decred - A Revolutionary Decentralised Institution
 
-# Decred - A Revolutionary Institution
+# Decred - A Revolutionary Decentralised Institution
 
 ## Overview
 
@@ -40,13 +40,14 @@ In the end, a good solution should aim to abstract complexity and condense the p
 
 - **How it works pt2** (detail of how system core components work) PoW/PoS security, predictable supply issuance etc etc
 
-### **Headline: A Revolutionary Institution.**
+### **Headline: A Revolutionary Decentralised Institution.**
 
-## Breaking down A Revolutionary Institution
+## Breaking down A Revolutionary Decentralised Institution
 
-The two words play well together and bridge the divide:
+The three words can bridge the divide and provide stepping stones to more detailed explainations:
 
 - **Revolutionary** - adds excitement, accurately describes the technology and the project culture.
+- **Decentralised** - it's a core project ethos and also signals how Decred is different to legacy institutions.
 - **Institution** - adds weight, alludes to governance, capital formation, strong fundamental assurances and the sense of a long time horizon. 
 
 Together they offer a succinct and relatable proposition that feels cogent with the existing community, differentiates with Bitcoin and can connect to those inside crypto whilst also being relatable to those outside.
@@ -55,13 +56,13 @@ Together they offer a succinct and relatable proposition that feels cogent with 
 
 There is a short hand used in crypto-investment circles of 'smart money' - those who invest ahead of the mainstream and where future value will accrue. 
 
-As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly back projects based on shared values, mission and social impact. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital who share an understanding of the importance of the mission. 
+As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly back projects based on shared values, mission and social impact. By setting out Decred's status as a Revolutionary Decentralised Instititution, it will be easier to target and attract aligned capital who share an understanding of the importance of the mission. 
 
 ## A note on Stakeholder Governed Sound Money narrative.
 
 As Noah has already noted all crypto-currency projects are stakeholder governed and sound money has limited appeal - certainly as website lede. 
 
-Within the context of a Revolutionary Institution the principle of a predictable issuance can also be directly related to an understanding of an institution by definition being something that is necessarily built on strong and sound foundations. Sound money, sound software, sound instrastructure... 
+Within the context of a Revolutionary Decentralised Institution the principle of a predictable issuance can also be directly related to an understanding of an institution by definition being something that is necessarily built on strong and sound foundations. Sound money, sound software, sound instrastructure... 
 
 ## A note on the DAO narrative
 
@@ -73,18 +74,18 @@ It does however have a number of advantages - namely its central focus on privac
 
 Decred does not need to have thousands of developers and millions of hodlers for it to have an outsized impact on the crypto ecosystem and in the real world.
 
-Going forward the project can double-down on its creation of a single Revolutionary Institution (the DecredDAO) and set a vision moving forward to build a network of Revolutionary Institutions that can take a number of forms.
+Going forward the project has the potential to double-down on its creation of a single Revolutionary Decentralised Institution (the DecredDAO) and set a vision moving forward to build a network of Revolutionary Institutions that can take a number of forms.
 
 Examples include:
 
 - Decred Working Groups focused on specific initiatives that receive consistent stream funding from the treasury into a multi-sig with a small approved council who can spend the grants, something that is possible today and has been discussed within the community.
 - Thinking further forward, there are discussions around subDAOs that leverage sidechains, drivechains and other mechanisms that leverage the mother chain’s security, but enable daughter DAOs that are autonomously funded and governed.
 
-## Examples of how a Revolutionary Institution might 'market' itself.
+## Examples of how a Revolutionary Decentralised Institution might 'market' itself.
 
-The aim would be to leverage theRevolutionary Institution positioning to attract contributors to both the main project and to initiatives that leverage the underlying infrastructure whilst also acting as ‘marketing’ for the projects mission of building a fairer financial system.
+The aim would be to leverage the positioning to attract contributors to both the main project and to initiatives that leverage the underlying infrastructure whilst also acting as ‘marketing’ for the projects mission of building a fairer financial system.
 
-An example of a group who might find use in a Revolutionary Institution:
+An example of a group who might find use in a Revolutionary Decentralised Institution:
 
 - Whistleblowers who have sensitive information about corporate corruption and who need to work with a small number or journalists over a long period of time, whilst protecting their anonymity and selectively sharing key information. (See Guardian’s [Securedrop](https://www.theguardian.com/securedrop)).
 
