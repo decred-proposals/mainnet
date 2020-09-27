@@ -28,7 +28,7 @@ There is also a simple visualisation attached that outlines an idea for a more a
 
 Example of how the new website could look is attached - it would  be darker and more confident in tone.
 
-I have added space for a video which I think could also be developed as a subsequent  part of the repositioning.
+I have added space for a video which I think could also be developed as a subsequent  part of the repositioning but is not a part of these deliverables. 
 
 ## Decred's positioning challenge
 
