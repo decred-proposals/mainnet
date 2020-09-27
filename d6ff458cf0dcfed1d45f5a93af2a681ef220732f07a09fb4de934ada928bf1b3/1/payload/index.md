@@ -20,9 +20,9 @@ There is also a simple visualisation attached that outlines an idea for a more a
 
 - **Solution** - Decred Project is a revolutionary digital institution that protects individual freedoms, empowers collective actions and exists to hold the powerful to account.  
 
-- **How it works pt1** (three key system components that create form the institution) Decentralised Treasury inc DCR, Politeia, DEX   
+- **How it works pt1** (three key system components that create form the institution) Adaptable (Pi). Sustainable (Treasury). Secure. (DEX).
 
-- **How it works pt2** (detail of how system components work) PoW/PoS security, predictable supply issuance etc etc
+- **How it works pt2** (detail of how system core components work) PoW/PoS security, predictable supply issuance etc etc
 
 **Headline: A Revolutionary Institution.**
 
