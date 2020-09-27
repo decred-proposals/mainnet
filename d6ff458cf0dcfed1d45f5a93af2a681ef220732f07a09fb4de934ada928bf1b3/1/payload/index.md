@@ -14,7 +14,7 @@ There is also a simple visualisation attached that outlines an idea for a more a
 
 ## Narrative suggestion
 
-- **Insight** - The functioning of democratic society is dependent on the fact that those in public office are held to high standards of trust, transparency and accountability, whilst the citizens that they represent should have the right to freedom of assembly, the right to freedom of association and the right to freedom of speech.
+- **Insight** - The functioning of democratic society is dependent on the fact that elected officials in public office and in corporations are held to high standards of trust, transparency and accountability when setting policy for the constituents they are elected to represent. 
 
 - **Problem** - Digital technologies have super-charged surveillance capitalism, turning users into products and concentrating profit  in an increasingly small number of corporations whose vast power has in turn enabled an increasingly authoritarian establishment to coerce and control their populations through the weakening of legacy institutions.  
 
