@@ -115,7 +115,9 @@ You can find me on twitter [@monsieurbulb](https://twitter.com/monsieurbulb)
 
 Per Noah’s proposal the main costs go into implementation and will be done in collaboration with existing collaborators.
 
-There may well be some more extensive design work to bring alive a more aggressive visual style to the website and I have estimated those below along with a slightly larger implementation budget.
+There may be some design work to bring alive a more confident visual style to the website, though this design update is just a suggestion and should not change the website materially. I have estimated those costs along with a slightly larger implementation budget.
+
+The video is again just to outline an idea for later but thought it was worth including for reference.
 
 As decred.org has 12 languages, this new copy would have to be translated 11 times. Like Noah I used the estimate of $100 for each translation by Richard Red.
 
