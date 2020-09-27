@@ -52,7 +52,7 @@ In the end, a good solution should aim to abstract complexity and condense the p
 The two words play well together and bridge the divide:
 
 - **Revolutionary** - adds excitement, accurately describes the technology and the project culture.
-- **Institution** - adds weight, builds a sense of long term commitment, alludes to governance and strong fundamental assurances.  
+- **Institution** - adds weight, builds a sense of long term commitment, alludes to governance, capital formation and strong fundamental assurances.  
 
 Together they offer a succinct and relatable proposition that feels cogent with the existing community, differentiates with Bitcoin and can connect to those inside crypto whilst also being relatable to those outside.
 
