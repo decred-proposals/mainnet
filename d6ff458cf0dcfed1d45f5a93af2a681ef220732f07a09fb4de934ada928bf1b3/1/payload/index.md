@@ -6,7 +6,7 @@ Decred - A Revolutionary Institution
 
 This proposal follows from the previous submissions.
 
-The aim is to evolve Decred’s positioning to be more focused and impactful, unlocking the narrative potential of the upcoming 1.6 release features including full DAO status, privacy, decentralised treasury and DEX whilst also connecting neatly to much of the already established copy and mission of building a fairer financial system.
+The aim is to evolve Decred’s positioning to be more focused and impactful, unlocking the narrative potential of both the existing infrastructure (Politeia, DCR etc) upcoming 1.6 release features including full DAO status, privacy, decentralised treasury and DEX whilst also connecting neatly to much of the already established copy and mission of building a fairer financial system.
 
 It is a rearticulation of everything that already exists, presented in a more concise manner that aims to connect with a wide range of people - inside crypto and out and to provide foundations for increasing awareness and adoption across all aspects of the project.
 
