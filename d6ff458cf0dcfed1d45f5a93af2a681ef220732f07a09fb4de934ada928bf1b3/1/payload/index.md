@@ -58,7 +58,7 @@ Together they offer a succinct and relatable proposition that feels cogent with 
 
 There is a short hand used in crypto-investment circles of 'smart money' - those who invest ahead of the mainstream and where future value with accrue. Investors such as Placeholder and Blue Yard invested in DCR ahead of the market with differing rationales. 
 
-As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly invest based on values, social impact alongside a return on investment. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital, rather than just 'smart money'. 
+As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly invest based on shared values and social impact, that in turn protects their return on investment. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital who share an understanding of the importance of the mission, rather than just 'smart money'. 
 
 ## A note on Stakeholder Governed Sound Money narrative.
 
