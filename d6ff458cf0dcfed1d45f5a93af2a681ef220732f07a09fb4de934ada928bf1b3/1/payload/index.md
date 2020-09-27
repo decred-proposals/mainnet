@@ -86,7 +86,7 @@ Examples include:
 - Decred Working Groups focused on specific initiatives that receive consistent stream funding from the treasury into a multi-sig with a small approved council who can spend the grants, something that is possible today and has been discussed within the community.
 - Thinking further forward, there are discussions around subDAOs that leverage sidechains, drivechains and other mechanisms that leverage the mother chain’s security, but enable daughter DAOs that are autonomously funded and governed.
 
-## Examples of how a Revolutionary Institution behaves.
+## Examples of how a Revolutionary Institution might 'market' itself.
 
 The aim would be to leverage theRevolutionary Institution positioning to attract contributors to both the main project and to initiatives that leverage the underlying infrastructure whilst also acting as ‘marketing’ for the projects mission of building a fairer financial system.
 
