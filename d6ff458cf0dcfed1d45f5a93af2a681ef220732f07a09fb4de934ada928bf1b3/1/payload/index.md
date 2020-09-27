@@ -66,9 +66,9 @@ As legacy institutions continue to corrode, democratic ideals are challenged and
 
 As Noah has already noted all crypto-currency projects are stakeholder governed and sound money has limited appeal.
 
-Within the context of a Revolutionary Institution the principle of a predictable issuance is more directly related to principles of ‘platform risk’, a concept used to describe the challenge for developers with building projects on systems whose owners are able to change core elements to a protocol without cause to notify said developers.
+Within the context of a Revolutionary Institution the principle of a predictable issuance can also be directly related to principles of ‘platform risk’, a concept used to describe the challenge for developers with building projects on systems whose owners are able to change core elements to a protocol without cause to notify said developers.
 
-Decred’s predictable schedule might be ‘sound money’ but in this context, its assurances relate more clearly to negating worries over platform risk for those who would want to build, govern and work for a truly Revolutionary Institution.
+Decred’s predictable schedule can be ‘sound money’, but in this context, its assurances relate more clearly to negating worries over platform risk for those who would want to build, govern and work for a truly Revolutionary Institution.
 
 ## A note on the DAO narrative
 
