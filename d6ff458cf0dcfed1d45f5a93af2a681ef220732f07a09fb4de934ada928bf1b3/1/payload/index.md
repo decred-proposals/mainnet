@@ -108,10 +108,6 @@ I previously published [Forks In The Road](https://github.com/monsieurbulb/forks
 
 Outside of that I contribute to [Edgeware](https://commonwealth.im) and run a creative studio in London called [Lemonade Money](https://lemonademoney.tv) and spend most of my time down some rabbit hole of one kind or another.
 
-I have not purchased DCR as an investment, only to comment on Pi and as such I don’t have ‘skin in the game’ in the commonly understood way which has consistently confused many in the community. My intention had always been to earn DCR, rather than buy it - it seems that this is the most interesting part of the system.
-
-However, I have skin in the game of the thing we call society and believe that Decred can play a vital role in pushing back against the tide of corruption and misaligned incentives that are compromising our established institutions and as a result I want Decred to succeed.
-
 I see a lot of dumb ideas in crypto - chief amongst them visions of Citadels whose existence is predicated on the collapse of all society into some sort of Mad Max type dystopian misery where those enlightened enough to carry a USB stick will be sovereign individuals atop the burning wreckage of an old order. I'd like to avoid that future.
 
 You can find me on twitter [@monsieurbulb](https://twitter.com/monsieurbulb)
