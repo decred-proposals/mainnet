@@ -12,62 +12,56 @@ It is a rearticulation of everything that already exists, presented in a more co
 
 There is also a simple visualisation attached that outlines an idea for a more aggressive and confident stance to the project, which better reflects the tone of the established community.
 
-## Narrative suggestion
-
-- **Insight** - The functioning of democratic society is dependent on the fact that elected officials in public office and in corporations are held to high standards of trust, transparency and accountability when setting policy for the constituents they are elected to represent. 
-
-- **Problem** - Digital technologies have super-charged surveillance capitalism, turning users into products and concentrating profit  in an increasingly small number of corporations whose vast power has in turn enabled an increasingly authoritarian establishment to coerce and control their populations through the weakening of legacy institutions.  
-
-- **Solution** - Decred Project is a revolutionary digital institution that protects individual freedoms, empowers collective actions and exists to hold the powerful to account.  
-
-- **How it works pt1** (three key system components that create form the institution) Adaptable (Pi). Sustainable (Treasury). Secure. (DEX).
-
-- **How it works pt2** (detail of how system core components work) PoW/PoS security, predictable supply issuance etc etc
-
-**Headline: A Revolutionary Institution.**
-
-Example of how the new website could look is attached - it would  be darker and more confident in tone.
-
-I have added space for a video which I think could also be developed as a subsequent  part of the repositioning but is not a part of these deliverables. 
-
 ## Decred's positioning challenge
 
-Right now the Decred Project is caught in a schizophrenic position.
+Right now Decred is caught between two worlds:
 
-- On one side lie the aspirations of building Fight Club esque financial and organisational machinery to disrupt the function of central banks, the nation state and a oft stated desire to bring down a corrupt establishment.
+- On one side lies an agressive Fight Club esque spirit and mission to disrupt the function of central banks and a desire to bring down a corrupt establishment.
 - It is an us against them mentality and in many ways this combative approach makes sense - Decred is not a ‘soft’ space, there is too much at stake to worry about people’s feelings. 
 - This is a vision where the price is not an overriding worry - as long as devs can be funded long into the future, then there will be the continuing creation of more secure OSS, which can chip away at the big end goal of a fairer financial system.
 
 And on the other,
 
-- The seduction of day-traders, institutional money and profits that would bring and the hope that this will overturn three years of poor price action.
-- For the past year the majority of the materials that have been produced and shared within the community reflect this desire to ‘be liked’ by this cohort and/or listed by mainstream exchanges.
+- The seduction of day-traders, institutional money and the profits that would bring - wen moon?
+- The vast majority of recent research materials produced and shared within the community reflect this desire to ‘be liked’ by this more mercenary cohort and/or listed by mainstream exchanges.
 - That is not to say that this work is not useful, but bluntly on-chain accounting alone does not make for impactful messaging that can motivate and inspire.
 
-In the end, a good solution should aim to abstract complexity and condense the project's ideas and ideals into the simplest  possible statement. From this high concept, more detailed explaination can flow.
+In the end, a good solution should aim to abstract complexity and condense the project's ideas and ideals into the simplest  possible statement that can play to both, whilst still adding excitement without resorting to empty hype tactics. From this high concept more detailed explaination can flow.
+
+## Narrative suggestion
+
+- **Insight** - The functioning of democratic society is dependent on elected officials in public office and in corporations being held to high standards of transparency and accountability when setting policy for the constituents they are elected to represent. 
+
+- **Problem** - Surveillance capitalism has turned users into products, resulting in profits concentrating in an increasingly small number of corporations whose vast power has enabled an increasingly opaque and authoritarian establishment to coerce and control their populations whilst weakening already outdated institutions.  
+
+- **Solution** - Decred is a revolutionary decentralised institution designed to protect individual freedoms, empower collective actions and build a fairer financial system.  
+
+- **How it works pt1** (three key system components that of the institution) Adaptable (Pi). Sustainable (Treasury). Secure. (DEX).
+
+- **How it works pt2** (detail of how system core components work) PoW/PoS security, predictable supply issuance etc etc
+
+### **Headline: A Revolutionary Institution.**
 
 ## Breaking down A Revolutionary Institution
 
 The two words play well together and bridge the divide:
 
 - **Revolutionary** - adds excitement, accurately describes the technology and the project culture.
-- **Institution** - adds weight, builds a sense of long term commitment, alludes to governance, capital formation and strong fundamental assurances.  
+- **Institution** - adds weight, alludes to governance, capital formation, strong fundamental assurances and the sense of a long time horizon. 
 
 Together they offer a succinct and relatable proposition that feels cogent with the existing community, differentiates with Bitcoin and can connect to those inside crypto whilst also being relatable to those outside.
 
 ## How this attracts investors.
 
-There is a short hand used in crypto-investment circles of 'smart money' - those who invest ahead of the mainstream and where future value will accrue. Investors such as Placeholder and Blue Yard invested in DCR ahead of the market with differing rationales. 
+There is a short hand used in crypto-investment circles of 'smart money' - those who invest ahead of the mainstream and where future value will accrue. 
 
-As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly invest based on shared values and social impact, that in turn protects their return on investment. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital who share an understanding of the importance of the mission, rather than just 'smart money'. 
+As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly back projects based on shared values, mission and social impact. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital who share an understanding of the importance of the mission. 
 
 ## A note on Stakeholder Governed Sound Money narrative.
 
-As Noah has already noted all crypto-currency projects are stakeholder governed and sound money has limited appeal.
+As Noah has already noted all crypto-currency projects are stakeholder governed and sound money has limited appeal - certainly as website lede. 
 
-Within the context of a Revolutionary Institution the principle of a predictable issuance can also be directly related to principles of ‘platform risk’, a concept used to describe the challenge for developers with building projects on systems whose owners are able to change core elements to a protocol without cause to notify said developers.
-
-Decred’s predictable schedule can be ‘sound money’, but in this context, its assurances relate more clearly to negating worries over platform risk for those who would want to build, govern and work for a truly Revolutionary Institution.
+Within the context of a Revolutionary Institution the principle of a predictable issuance can also be directly related to an understanding of an institution by definition being something that is necessarily built on strong and sound foundations. Sound money, sound software, sound instrastructure... 
 
 ## A note on the DAO narrative
 
