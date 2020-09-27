@@ -121,8 +121,6 @@ However, I have skin in the game of the thing we call society and believe that D
 
 I see a lot of dumb ideas in crypto - chief amongst them visions of Citadels whose existence is predicated on the collapse of all society into some sort of Mad Max type dystopian misery where those enlightened enough to carry a USB stick will be sovereign individuals atop the burning wreckage of an old order. I'd like to avoid that future.
 
-I have never been a member of MI5 and I find it impossible to make tables work properly in markup hence the reason the costs are at the bottom.
-
 You can find me on twitter [@monsieurbulb](https://twitter.com/monsieurbulb)
 
 ## Costs
