@@ -132,9 +132,9 @@ As decred.org has 12 languages, this new copy would have to be translated 11 tim
 
 ```markdown
 | Item           | Estimated Cost | Maximum Budget |
-|----------------|----------------|----------------|
-| Design         | 2000               | 2100              |
+|---------------:|---------------:|----------------: |
+| Design         | 1800               | 2000              |
 | Copy            | 400                  | 600                |
 | Translation    | 1100           | 1400             |
-| Implementation | 1100    | 1500 |
-| Total             | 4100           | 5000           |
+| Implementation | 1000    | 1000 |
+| Total             | 4300           | 5000           |
