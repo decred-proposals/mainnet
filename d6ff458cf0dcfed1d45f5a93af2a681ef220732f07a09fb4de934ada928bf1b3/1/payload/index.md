@@ -109,8 +109,6 @@ I previously published [Forks In The Road](https://github.com/monsieurbulb/forks
 
 Outside of that I contribute to [Edgeware](https://commonwealth.im) and run a creative studio in London called [Lemonade Money](https://lemonademoney.tv) and spend most of my time down some rabbit hole of one kind or another.
 
-I see a lot of dumb ideas in crypto - chief amongst them visions of Citadels whose existence is predicated on the collapse of all society into some sort of Mad Max type dystopian misery where those enlightened enough to carry a USB stick will be sovereign individuals atop the burning wreckage of an old order. I'd like to avoid that future.
-
 You can find me on twitter [@monsieurbulb](https://twitter.com/monsieurbulb)
 
 ## Costs
