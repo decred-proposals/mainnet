@@ -45,6 +45,8 @@ And on the other,
 - For the past year the majority of the materials that have been produced and shared within the community reflect this desire to ‘be liked’ by this cohort and/or listed by mainstream exchanges.
 - That is not to say that this work is not useful, but bluntly on-chain accounting alone does not make for impactful messaging that can motivate and inspire.
 
+In the end, a good solution should aim to abstract complexity and condense the project's ideas and ideals into the simplest  possible statement. From this high concept, more detailed explaination can flow.
+
 ## Breaking down A Revolutionary Institution
 
 The two words play well together and bridge the divide:
