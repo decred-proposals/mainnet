@@ -35,8 +35,7 @@ I have added space for a video which I think could also be developed as a subseq
 Right now the Decred Project is caught in a schizophrenic position.
 
 - On one side lie the aspirations of building Fight Club esque financial and organisational machinery to disrupt the function of central banks, the nation state and a oft stated desire to bring down a corrupt establishment.
-- It is an us against them mentality that includes the creation of a hazing culture within chat rooms that seeks to dissuade all but the most durable contributors.
-- In many ways this combative approach makes sense - Decred is not a ‘soft’ space, there is too much at stake to worry about people’s feelings. This is existential stuff.
+- It is an us against them mentality and in many ways this combative approach makes sense - Decred is not a ‘soft’ space, there is too much at stake to worry about people’s feelings. 
 - This is a vision where the price is not an overriding worry - as long as devs can be funded long into the future, then there will be the continuing creation of more secure OSS, which can chip away at the big end goal of a fairer financial system.
 
 And on the other,
