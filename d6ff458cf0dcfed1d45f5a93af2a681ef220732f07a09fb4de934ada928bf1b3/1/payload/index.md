@@ -54,6 +54,12 @@ The two words play well together and bridge the divide:
 
 Together they offer a succinct and relatable proposition that feels cogent with the existing community, differentiates with Bitcoin and can connect to those inside crypto whilst also being relatable to those outside.
 
+## How this attracts investors.
+
+There is a short hand used in crypto-investment circles of 'smart money' - those who invest ahead of the mainstream and where future value with accrue. Investors such as Placeholder and Blue Yard invested in DCR ahead of the market with differing rationales. 
+
+As legacy institutions continue to corrode, democratic ideals are challenged and uncertainty rises, 'smart investors' will be those who increasingly invest based on values, social impact alongside a return on investment. By setting out Decred's status as a Revolutionary Instititution, it will be easier to target and attract aligned capital, rather than just 'smart money'. 
+
 ## A note on Stakeholder Governed Sound Money narrative.
 
 As Noah has already noted all crypto-currency projects are stakeholder governed and sound money has limited appeal.
