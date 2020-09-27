@@ -42,7 +42,7 @@ Right now the Decred Project is caught in a schizophrenic position.
 And on the other,
 
 - The seduction of day-traders, institutional money and profits that would bring and the hope that this will overturn three years of poor price action.
-- For the past year the majority of the materials that have been produced and shared within the community reflect this desire to ‘be liked’ by this cohort.
+- For the past year the majority of the materials that have been produced and shared within the community reflect this desire to ‘be liked’ by this cohort and/or listed by mainstream exchanges.
 - That is not to say that this work is not useful, but bluntly on-chain accounting is not the foundation for messaging that would inspire revolutionaries seeking to overturn the old world order to join the project and develop and expand its cultural relevance.
 
 ## Breaking down A Revolutionary Institution
