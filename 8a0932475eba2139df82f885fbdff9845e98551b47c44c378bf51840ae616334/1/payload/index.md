@@ -174,9 +174,13 @@ We will request payment of the art pieces after they are complete and delivered.
 
 After the art pieces, art store and site are complete, we will request our experimental marketing budget.
 
+### Why 16 art pieces? Why not start with fewer?
+
+We need enough points in Corrupt Money to understand the severity of the situation and enough points in Why Decred to communicate our value effectively. We are targeting what we think is a bare minimum, about 7 Corrupt Money points with art pieces, about 7 Why Decred points w/arts, and 2 Advice points w/arts. We don't want to showcase points with no art, as the site would seem incomplete. It seems there is no point in sending a smaller proposal for say 5 pieces, then another 5, then another 6, then the marketing push. This is the minimum amount that makes sense in order to complete our experiment and show what we can do. 16 pieces of maybe around 50 that could exist is an aggressive cut from the total possible, it is our MVP.
+
 ### Next Phases in Future Proposals
 
-After this current phase is complete, and after we present our marketing results, and demonstrate that they are effective, we will present new proposals to continue with monthly marketing and completing more art pieces from list 1 and 2. We will also start translating the site to all important languages. As the price of Decred goes up and we demonstrate effectiveness, we can increase our budget and hire more people, if supported by results and data. 
+After this current 16 art and 1 month marketing phase is complete, and after we present our marketing results, and demonstrate that they are effective, we will present new proposals to continue with monthly marketing and completing more art pieces from list 1 and 2. We will also start translating the site to all important languages. As the price of Decred goes up and we demonstrate effectiveness, we can increase our budget and hire more people, if supported by results and data. 
 
 ### Collaboration with the Marketing Team
 
