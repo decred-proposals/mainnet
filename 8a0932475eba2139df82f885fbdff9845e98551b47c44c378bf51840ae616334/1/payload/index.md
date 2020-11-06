@@ -148,9 +148,13 @@ But the community strongly suggested on [Twitter](https://twitter.com/coveryfire
 
 ### Profit Sharing
 
-When a normal product is sold in the store, we will split the profit 50% with the project treasury and 50% for us site creators/maintainers.
+When a normal product is sold in the store, we will split the profit 50% with the WhyDecred project fund and 50% for us site creators/maintainers.
 
-When an original art piece is sold, we agreed with the artists to give them a third of the sale, a third for us and a third for the project treasury.
+When an original art piece is sold, we agreed with the artists to give them a third of the sale, a third for us and a third for the WhyDecred project fund.
+
+### WhyDecred Project Fund
+
+We will keep a community fund with proceeds from the art store as stated in "Profit Sharing". We will let the community choose how to spend this fund. It seems Twitter polls would be the easiest method for the community to vote, but we are open to suggestions. Ideally we could do it inside Politeia some day, but that is beyond the scope of this current proposal.
 
 ### Free Items for the Community
 
