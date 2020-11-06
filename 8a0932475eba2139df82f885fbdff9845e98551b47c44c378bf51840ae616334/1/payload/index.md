@@ -174,9 +174,9 @@ We will request payment of the art pieces after they are complete and delivered.
 
 After the art pieces, art store and site are complete, we will request our experimental marketing budget.
 
-### Next Phases
+### Next Phases in Future Proposals
 
-After this is complete, and after we present our marketing results, and demonstrate that they are effective, we will continue with monthly marketing and completing more art pieces from list 1 and 2. We will also start translating the site to all important languages. As the price of Decred goes up and we demonstrate effectiveness, we can increase our budget and hire more people, if supported by results and data. 
+After this current phase is complete, and after we present our marketing results, and demonstrate that they are effective, we will present new proposals to continue with monthly marketing and completing more art pieces from list 1 and 2. We will also start translating the site to all important languages. As the price of Decred goes up and we demonstrate effectiveness, we can increase our budget and hire more people, if supported by results and data. 
 
 ### Collaboration with the Marketing Team
 
