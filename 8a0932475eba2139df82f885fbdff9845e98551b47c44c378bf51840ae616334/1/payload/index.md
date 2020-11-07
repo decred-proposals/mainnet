@@ -198,13 +198,13 @@ We might even write a book from the content and art we create, sell the book, an
 
 I have 2 more interesting project ideas to help Decred, in a way that has not been done before, and will present them to all of you after we complete this one. One is a product and the other I won't give any hints yet.
 
-### WhyDecred.com would cost 0.00175% of the Treasury.
+### WhyDecred.com would cost 0.175% of the Treasury.
 
-To fund our initiative, we would use just 0.00175% of our treasury.
+To fund our initiative, we would use just 0.175% of our treasury.
 
-### Can we boost the price of Decred by more than 0.00175%?
+### Can we boost the price of Decred by more than 0.175%?
 
-Of course we can!! This investment is guaranteed to increase the Decred price and amount of users by more than 0.00175%. I honestly think much more. Give us a shot. We won't let you down.
+Of course we can!! This investment is guaranteed to increase the Decred price and amount of users by more than 0.175%. I honestly think much more. Give us a shot. We won't let you down.
 
 ### P.S.
 
