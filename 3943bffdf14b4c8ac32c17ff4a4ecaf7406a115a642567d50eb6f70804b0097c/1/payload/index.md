@@ -38,7 +38,7 @@ After updating I want to spend some time refactoring and creating proper documen
 
 **New features**
 
-scan a tx - One feature that I think would be good for stakey is the ability to scan/paste a txid and pull out the commitment address (where the money goes), so anyone can point and click to watch a ticket.
+scan a tx - One feature that I think would be good for stakey is the ability to scan/paste a txid and pull out the OP_RETURN script's address (where the money goes), so anyone can point and click to watch a ticket.
 
 choose explorer - While the default as dcrdata is fine, it would be good to allow someone to specify their own, or a different block explorer. This would allow for a completely closed system if one wanted, although dcrdata is perfectly safe, don't get me wrong. It would also allow the app to be used on testnet by pointing it at a block explorer running on testnet.
 
