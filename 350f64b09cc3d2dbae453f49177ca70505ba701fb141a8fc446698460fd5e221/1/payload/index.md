@@ -25,6 +25,6 @@ Team organising and coordination|1|$2660|$2840
 Social media management (copyright and design TW, FB, IG, TG)|1|$3200|$3200
 Total|  |  |$43000
 
-**The total budget of this proposal is USD $42,000 to be used during 6 months after approval. This represents a reduction of 10% from the previous proposal.** Contractor hours will be billed to the Treasury in arrears and after work is completed by local assets. After the 6 months of activities a general report will be shared with the community and a new proposal should be submitted to continue activities. 
+**The total budget of this proposal is USD $42,000 to be used during 6 months after approval. This represents a reduction of 10% from previous proposal.** Contractor hours will be billed to the Treasury in arrears and after work is completed by local assets. After the 6 months of activities a general report will be shared with the community and a new proposal should be submitted to continue activities. 
 
-[ **Please visit Decred_ES Github repository the FINAL REPORT of Decred Latam Marketing and Events Proposal 2 with detailed activities and financials.**](https://github.com/DecredES/Monthly_reports/blob/master/Final_Report.md)
+[ **Please visit Decred_ES Github repository for the FINAL REPORT of Decred Latam Marketing and Events Proposal 2 with detailed activities and financials from June to December 2020.**](https://github.com/DecredES/Monthly_reports/blob/master/Final_Report.md)
