@@ -13,7 +13,7 @@ Decred in Spanish has structured workflows for video content production, press r
 **Content production:**
 
 Content product|Units|Unitary price|Total
--|-|-|-
+-|--:|--:|--:
 #HablemosDecred|18|$620|$11160
 Código Decred|6|$600|$3600
 Podcast Decred en Español|12|$300|$3600
