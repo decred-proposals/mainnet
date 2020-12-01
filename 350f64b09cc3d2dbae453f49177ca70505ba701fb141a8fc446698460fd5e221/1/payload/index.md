@@ -27,4 +27,4 @@ Total|  |  |$42000
 
 **The total budget of this proposal is USD $42,000 to be used during 6 months after approval. This represents a reduction of 10% from previous proposal.** Contractor hours will be billed to the Treasury in arrears and after work is completed by local assets. After the 6 months of activities a general report will be shared with the community and a new proposal should be submitted to continue activities. 
 
-[ **Please visit Decred_ES Github repository for the FINAL REPORT of Decred Latam Marketing and Events Proposal 2 with detailed activities and financials from June to December 2020.**](https://github.com/DecredES/Monthly_reports/blob/master/Final_Report.md)
+[ **Please visit Decred_ES Github repository for the FINAL REPORT of Decred Latam Marketing and Events Proposal 2 with detailed activities and financials from June to December 2020.**](https://github.com/DecredES/Monthly_reports/blob/master/Final_Report_June_December_2020.md)
