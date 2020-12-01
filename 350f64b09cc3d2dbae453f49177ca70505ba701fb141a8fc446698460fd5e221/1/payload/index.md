@@ -23,7 +23,7 @@ Decredizados|6|$600|$3600
 Written articles|6|$250|$1500
 Team organising and coordination|1|$2660|$2840
 Social media management (copyright and design TW, FB, IG, TG)|1|$3200|$3200
-Total|  |  |$43000
+Total|  |  |$42000
 
 **The total budget of this proposal is USD $42,000 to be used during 6 months after approval. This represents a reduction of 10% from previous proposal.** Contractor hours will be billed to the Treasury in arrears and after work is completed by local assets. After the 6 months of activities a general report will be shared with the community and a new proposal should be submitted to continue activities. 
 
