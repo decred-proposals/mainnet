@@ -20,7 +20,7 @@ Staked has evolved over the past four months, and with the pivot alongside the e
 
 WORK TO BE DONE
 
-If this proposal passes, I will prepare, coordinate, and conduct two to three interviews a month (no free form). Each interview will last between 1:15 – 1:45 minutes in length. Each interview's date and time will be published to the community at least one week in advance. Each interview will be live-streamed to the Decred Youtube channel (and maybe Facebook and Twitch). The live recording would be downloaded and post-produced for the podcast. I will also create micro-content (videos under 2:20) for Twitter. Twitter does not allow videos longer than 2:20.
+If this proposal passes, I will prepare, coordinate, and conduct two to three interviews a month (no free form). Each interview will last between 1:15:00 – 1:45:00 minutes in length. Each interview's date and time will be published to the community at least one week in advance. Each interview will be live-streamed to the Decred Youtube channel (and maybe Facebook and Twitch). The live recording would be downloaded and post-produced for the podcast. I will also create micro-content (videos under 2:20) for Twitter. Twitter does not allow videos longer than 2:20.
 
 VALUE PROPOSITION
 
@@ -61,4 +61,4 @@ Staked Podcast: https://anchor.fm/staked-podcast
 
 Staked YouTube: https://www.youtube.com/channel/UCWoknbkENz-W4pg18p57rNA
 
-Eduardo’s YouTube: https://www.youtube.com/eduardolima 
+Eduardo’s YouTube: https://www.youtube.com/eduardolima
