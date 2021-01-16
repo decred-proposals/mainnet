@@ -16,7 +16,7 @@ I’ve been an active community contributor for the past couple of years, having
 
 - **A greater collaboration between research papers and the international community managers:** I will aim to achieve this objective by giving easily sharable visual templates to the international community managers, so that they can easily be translated into other languages.
 
-- **A greater focus on drawing in people from outside the Decred echo chamber:**  This is a more ambitious goal, but one where we have the most potential. The truth is, Decred is a bit deep in the crypto rabbit hole, and we don’t have enough non-technical material to speak to newbie audiences. I’ll look to achieve this objective with a combination of engaging visuals, and an easy to read series of papers which can be used by the DCR community to onboard new users.
+- **A greater focus on drawing in people from outside the Decred echo chamber:**  This is a more ambitious goal, but one where we have the most potential. The truth is, Decred is a bit deep in the crypto rabbit hole, and we don’t have enough material for non-technical audiences. I’ll look to achieve this objective with a combination of engaging visuals, and an easy to read series of papers which can be used by the DCR community to onboard new users.
  
 ***Guiding Principle***: The sum of our education efforts should be greater than the individual contributions. A guiding principle will be to try to collaborate with existing Decred community members and researchers wherever possible, in order to tie together a cogent narrative. Qualitative + Quantitative + Multilingual assets = High impact.
 
