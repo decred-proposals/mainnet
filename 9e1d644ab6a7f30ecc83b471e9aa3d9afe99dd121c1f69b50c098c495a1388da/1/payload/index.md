@@ -42,7 +42,7 @@ Keeping in line with the ethos of free and open source, these papers will be pac
 **Why:**
 One of the key reasons Bitcoin is so successful is because of the amount of education material that draws people into the rabbit hole. Decred has a more complex design than Bitcoin, yet we have only a tiny fraction of the amount of education material.
 Social media posts are great, but in order to breakthrough the clutter of altcoins, Decred will benefit from its own version of the Bitcoin standard, which authentically speaks about Decred's design. While Bitcoin has staked a leadership ground on the sound money narrative, Decred can extend this narrative with a DAO narrative.
-The Decred developers have delivered so much quality software, but the economic narrative of $DCR as a monetary asset is still in its nascency. I’d like to help change this. 
+The Decred developers have delivered so much quality software, but the economic narrative of $DCR as a monetary asset is still in its nascency. Investing in high quality education assets is an important part of community growth, and will serve as a springboard for attracting new people.
 
 **Risks, Mitigants and Key considerations**
 - I am not a developer, but I need to ensure technical correctness. This will be achieved by validating the papers with known community members before publication. This will also help in editing the content for maximum impact.
