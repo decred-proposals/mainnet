@@ -108,7 +108,7 @@ Removals:
 - Dcr/pi journals renders production is billed against the corresponding project proposal.
 - Decred contributor caricatures are no longer supported by the domain proposal. Anyone interested in having one can either: a) Directly commission either Kärt or Lustosa b) Have a go yourself or with help with an illustrator by following this guideline [https://github.com/decred/dcrdesign/issues/47](https://github.com/decred/dcrdesign/issues/47) and leveraging the existing assets
 
-**Figma team subscription**
+**##Figma team subscription**
 
  We're proposing the setup a Decred Team space in Figma, as we've already succesfully migrated the UI/UX workflow there and see potential in handling bulk of the design domain activities. Figma subscription allows for an “Organization space”, which provides the co-editing user permissions, alongside with unlimited projects (rather than 2 per team), version history and shareable team libraries. The subscription would be for 4 seats on annual plan 12$/mo – 576$ total and up to 3-4 hotspot monthly seats 15$ added on needs basis. Paid seats mean these users are with editing rights – free users can be added as viewers, accessing specs (devs) as well to download (copy) the files.
 
